@@ -1,1 +1,310 @@
-[]
+[
+ {
+  "id": "contos-d01_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-23T16:00:00-03:00",
+  "midia": [
+   "midia/semana1/d01_manha_reel_865f60f6.mp4"
+  ],
+  "legenda": "O vaso rachado: Suas rachaduras também regam flores.\n\nUm homem levava água em dois vasos.\n\n📜 conto popular indiano\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d01_manha-reel.jpg",
+  "titulo": "O vaso rachado",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O vaso rachado"
+ },
+ {
+  "id": "contos-d01_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-23T16:01:00-03:00",
+  "midia": [
+   "midia/semana1/d01_manha_c01.jpg",
+   "midia/semana1/d01_manha_c02.jpg",
+   "midia/semana1/d01_manha_c03.jpg",
+   "midia/semana1/d01_manha_c04.jpg",
+   "midia/semana1/d01_manha_c05.jpg",
+   "midia/semana1/d01_manha_c06.jpg",
+   "midia/semana1/d01_manha_c07.jpg",
+   "midia/semana1/d01_manha_c08.jpg"
+  ],
+  "legenda": "O vaso rachado: Suas rachaduras também regam flores.\n\nUm homem levava água em dois vasos.\n\n📜 conto popular indiano\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O vaso rachado. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O vaso rachado. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O vaso rachado. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O vaso rachado. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O vaso rachado. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O vaso rachado. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O vaso rachado. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O vaso rachado. Ilustração em papel recortado."
+  ],
+  "titulo": "O vaso rachado",
+  "miniatura": "midia/miniaturas/contos-d01_manha-car.jpg"
+ },
+ {
+  "id": "contos-d01_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-23T20:00:00-03:00",
+  "midia": [
+   "midia/semana1/d01_noite_reel_6888d61e.mp4"
+  ],
+  "legenda": "A pitada de sal: A dor não diminui. É você que fica maior que ela.\n\nUm jovem vivia triste.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d01_noite-reel.jpg",
+  "titulo": "A pitada de sal",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A pitada de sal"
+ },
+ {
+  "id": "contos-d01_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-23T20:01:00-03:00",
+  "midia": [
+   "midia/semana1/d01_noite_c01.jpg",
+   "midia/semana1/d01_noite_c02.jpg",
+   "midia/semana1/d01_noite_c03.jpg",
+   "midia/semana1/d01_noite_c04.jpg",
+   "midia/semana1/d01_noite_c05.jpg",
+   "midia/semana1/d01_noite_c06.jpg",
+   "midia/semana1/d01_noite_c07.jpg"
+  ],
+  "legenda": "A pitada de sal: A dor não diminui. É você que fica maior que ela.\n\nUm jovem vivia triste.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 7 do conto: A pitada de sal. Ilustração em papel recortado.",
+   "Slide 2 de 7 do conto: A pitada de sal. Ilustração em papel recortado.",
+   "Slide 3 de 7 do conto: A pitada de sal. Ilustração em papel recortado.",
+   "Slide 4 de 7 do conto: A pitada de sal. Ilustração em papel recortado.",
+   "Slide 5 de 7 do conto: A pitada de sal. Ilustração em papel recortado.",
+   "Slide 6 de 7 do conto: A pitada de sal. Ilustração em papel recortado.",
+   "Slide 7 de 7 do conto: A pitada de sal. Ilustração em papel recortado."
+  ],
+  "titulo": "A pitada de sal",
+  "miniatura": "midia/miniaturas/contos-d01_noite-car.jpg"
+ },
+ {
+  "id": "contos-d02_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-24T10:00:00-03:00",
+  "midia": [
+   "midia/semana1/d02_manha_reel_b9d14c8e.mp4"
+  ],
+  "legenda": "A xícara cheia: Quem acha que já sabe tudo parou de aprender.\n\nUm homem foi aprender com um mestre, mas só falava do que já sabia.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d02_manha-reel.jpg",
+  "titulo": "A xícara cheia",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A xícara cheia"
+ },
+ {
+  "id": "contos-d02_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-24T10:01:00-03:00",
+  "midia": [
+   "midia/semana1/d02_manha_c01.jpg",
+   "midia/semana1/d02_manha_c02.jpg",
+   "midia/semana1/d02_manha_c03.jpg",
+   "midia/semana1/d02_manha_c04.jpg",
+   "midia/semana1/d02_manha_c05.jpg",
+   "midia/semana1/d02_manha_c06.jpg",
+   "midia/semana1/d02_manha_c07.jpg"
+  ],
+  "legenda": "A xícara cheia: Quem acha que já sabe tudo parou de aprender.\n\nUm homem foi aprender com um mestre, mas só falava do que já sabia.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 7 do conto: A xícara cheia. Ilustração em papel recortado.",
+   "Slide 2 de 7 do conto: A xícara cheia. Ilustração em papel recortado.",
+   "Slide 3 de 7 do conto: A xícara cheia. Ilustração em papel recortado.",
+   "Slide 4 de 7 do conto: A xícara cheia. Ilustração em papel recortado.",
+   "Slide 5 de 7 do conto: A xícara cheia. Ilustração em papel recortado.",
+   "Slide 6 de 7 do conto: A xícara cheia. Ilustração em papel recortado.",
+   "Slide 7 de 7 do conto: A xícara cheia. Ilustração em papel recortado."
+  ],
+  "titulo": "A xícara cheia",
+  "miniatura": "midia/miniaturas/contos-d02_manha-car.jpg"
+ },
+ {
+  "id": "contos-d01_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-24T16:00:00-03:00",
+  "midia": [
+   "midia/semana1/d01_tarde_reel_d479e53e.mp4"
+  ],
+  "legenda": "A lebre e a tartaruga: Devagar também chega. Quem para é que fica.\n\nA lebre riu da tartaruga e apostou uma corrida.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d01_tarde-reel.jpg",
+  "titulo": "A lebre e a tartaruga",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A lebre e a tartaruga"
+ },
+ {
+  "id": "contos-d02_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-24T20:00:00-03:00",
+  "midia": [
+   "midia/semana1/d02_noite_reel_6e070be5.mp4"
+  ],
+  "legenda": "A janela do hospital: Tem gente que, mesmo sofrendo, enfeita o mundo para os outros.\n\nDois homens dividiam um quarto de hospital.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d02_noite-reel.jpg",
+  "titulo": "A janela do hospital",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A janela do hospital"
+ },
+ {
+  "id": "contos-d02_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-24T20:01:00-03:00",
+  "midia": [
+   "midia/semana1/d02_noite_c01.jpg",
+   "midia/semana1/d02_noite_c02.jpg",
+   "midia/semana1/d02_noite_c03.jpg",
+   "midia/semana1/d02_noite_c04.jpg",
+   "midia/semana1/d02_noite_c05.jpg",
+   "midia/semana1/d02_noite_c06.jpg",
+   "midia/semana1/d02_noite_c07.jpg"
+  ],
+  "legenda": "A janela do hospital: Tem gente que, mesmo sofrendo, enfeita o mundo para os outros.\n\nDois homens dividiam um quarto de hospital.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 7 do conto: A janela do hospital. Ilustração em papel recortado.",
+   "Slide 2 de 7 do conto: A janela do hospital. Ilustração em papel recortado.",
+   "Slide 3 de 7 do conto: A janela do hospital. Ilustração em papel recortado.",
+   "Slide 4 de 7 do conto: A janela do hospital. Ilustração em papel recortado.",
+   "Slide 5 de 7 do conto: A janela do hospital. Ilustração em papel recortado.",
+   "Slide 6 de 7 do conto: A janela do hospital. Ilustração em papel recortado.",
+   "Slide 7 de 7 do conto: A janela do hospital. Ilustração em papel recortado."
+  ],
+  "titulo": "A janela do hospital",
+  "miniatura": "midia/miniaturas/contos-d02_noite-car.jpg"
+ },
+ {
+  "id": "contos-d03_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-25T10:00:00-03:00",
+  "midia": [
+   "midia/semana1/d03_manha_reel_abd1f8d0.mp4"
+  ],
+  "legenda": "Talvez sim, talvez não: Espere o fim da história antes de chamar de tragédia.\n\nO cavalo de um velho fugiu.\n\n📜 conto chinês antigo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d03_manha-reel.jpg",
+  "titulo": "Talvez sim, talvez não",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Talvez sim, talvez não"
+ },
+ {
+  "id": "contos-d03_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-25T10:01:00-03:00",
+  "midia": [
+   "midia/semana1/d03_manha_c01.jpg",
+   "midia/semana1/d03_manha_c02.jpg",
+   "midia/semana1/d03_manha_c03.jpg",
+   "midia/semana1/d03_manha_c04.jpg",
+   "midia/semana1/d03_manha_c05.jpg",
+   "midia/semana1/d03_manha_c06.jpg",
+   "midia/semana1/d03_manha_c07.jpg"
+  ],
+  "legenda": "Talvez sim, talvez não: Espere o fim da história antes de chamar de tragédia.\n\nO cavalo de um velho fugiu.\n\n📜 conto chinês antigo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 7 do conto: Talvez sim, talvez não. Ilustração em papel recortado.",
+   "Slide 2 de 7 do conto: Talvez sim, talvez não. Ilustração em papel recortado.",
+   "Slide 3 de 7 do conto: Talvez sim, talvez não. Ilustração em papel recortado.",
+   "Slide 4 de 7 do conto: Talvez sim, talvez não. Ilustração em papel recortado.",
+   "Slide 5 de 7 do conto: Talvez sim, talvez não. Ilustração em papel recortado.",
+   "Slide 6 de 7 do conto: Talvez sim, talvez não. Ilustração em papel recortado.",
+   "Slide 7 de 7 do conto: Talvez sim, talvez não. Ilustração em papel recortado."
+  ],
+  "titulo": "Talvez sim, talvez não",
+  "miniatura": "midia/miniaturas/contos-d03_manha-car.jpg"
+ },
+ {
+  "id": "contos-d02_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-25T16:00:00-03:00",
+  "midia": [
+   "midia/semana1/d02_tarde_reel_9cff4fb9.mp4"
+  ],
+  "legenda": "O filhote que aprendeu a voar: Quem ama de verdade ensina a voar, mesmo sabendo que um dia vai.\n\nUma pássara cuidava tanto do filhote que nunca deixava ele sair do ninho.\n\n📜 conto nosso\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d02_tarde-reel.jpg",
+  "titulo": "O filhote que aprendeu a voar",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O filhote que aprendeu a voar"
+ },
+ {
+  "id": "contos-d03_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-25T20:00:00-03:00",
+  "midia": [
+   "midia/semana1/d03_noite_reel_591ece50.mp4"
+  ],
+  "legenda": "A árvore do avô: Toda sombra que você aproveita, alguém plantou.\n\nUm velho plantava uma árvore que leva setenta anos para dar frutos.\n\n📜 Talmude, tradição judaica\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d03_noite-reel.jpg",
+  "titulo": "A árvore do avô",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A árvore do avô"
+ },
+ {
+  "id": "contos-d03_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-25T20:01:00-03:00",
+  "midia": [
+   "midia/semana1/d03_noite_c01.jpg",
+   "midia/semana1/d03_noite_c02.jpg",
+   "midia/semana1/d03_noite_c03.jpg",
+   "midia/semana1/d03_noite_c04.jpg",
+   "midia/semana1/d03_noite_c05.jpg",
+   "midia/semana1/d03_noite_c06.jpg",
+   "midia/semana1/d03_noite_c07.jpg"
+  ],
+  "legenda": "A árvore do avô: Toda sombra que você aproveita, alguém plantou.\n\nUm velho plantava uma árvore que leva setenta anos para dar frutos.\n\n📜 Talmude, tradição judaica\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 7 do conto: A árvore do avô. Ilustração em papel recortado.",
+   "Slide 2 de 7 do conto: A árvore do avô. Ilustração em papel recortado.",
+   "Slide 3 de 7 do conto: A árvore do avô. Ilustração em papel recortado.",
+   "Slide 4 de 7 do conto: A árvore do avô. Ilustração em papel recortado.",
+   "Slide 5 de 7 do conto: A árvore do avô. Ilustração em papel recortado.",
+   "Slide 6 de 7 do conto: A árvore do avô. Ilustração em papel recortado.",
+   "Slide 7 de 7 do conto: A árvore do avô. Ilustração em papel recortado."
+  ],
+  "titulo": "A árvore do avô",
+  "miniatura": "midia/miniaturas/contos-d03_noite-car.jpg"
+ },
+ {
+  "id": "contos-d03_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-26T16:00:00-03:00",
+  "midia": [
+   "midia/semana1/d03_tarde_reel_36adfa26.mp4"
+  ],
+  "legenda": "A raposa e as uvas: Fingir que não queria dói menos do que admitir que não deu.\n\nUma raposa viu umas uvas lindas no alto da parreira.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d03_tarde-reel.jpg",
+  "titulo": "A raposa e as uvas",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A raposa e as uvas"
+ }
+]
