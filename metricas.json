@@ -6,10 +6,10 @@
   },
   {
    "dia": "2026-10-24",
-   "n": 1
+   "n": 2
   }
  ],
- "_em": "2026-10-24T17:13:07.952790+00:00",
+ "_em": "2026-10-24T19:17:53.716918+00:00",
  "_seg_hora": [
   {
    "t": "2026-10-23T16:40-03:00",
@@ -117,16 +117,16 @@
   }
  ],
  "contos-d01_manha-reel": {
-  "reach": 9,
-  "views": 9,
+  "reach": 11,
+  "views": 11,
   "likes": 0,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "ig_reels_avg_watch_time": 4609,
-  "reels_skip_rate": 66.7,
-  "lido_em": "2026-10-24T17:13:07.952790+00:00"
+  "ig_reels_avg_watch_time": 4029,
+  "reels_skip_rate": 54.5,
+  "lido_em": "2026-10-24T19:17:53.716918+00:00"
  },
  "contos-d01_manha-car": {
   "reach": 2,
@@ -136,7 +136,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "lido_em": "2026-10-24T17:13:07.952790+00:00"
+  "lido_em": "2026-10-24T19:17:53.716918+00:00"
  },
  "contos-d01_noite-reel": {
   "reach": 2,
@@ -146,9 +146,9 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "ig_reels_avg_watch_time": 744,
+  "ig_reels_avg_watch_time": 657,
   "reels_skip_rate": 100,
-  "lido_em": "2026-10-24T17:13:07.952790+00:00"
+  "lido_em": "2026-10-24T19:17:53.716918+00:00"
  },
  "contos-d01_noite-car": {
   "reach": 2,
@@ -158,10 +158,33 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "lido_em": "2026-10-24T17:13:07.952790+00:00"
+  "lido_em": "2026-10-24T19:17:53.716918+00:00"
  },
  "_fechado": "2026-10-23",
  "contos-d02_manha-reel": {
+  "reach": 65,
+  "views": 121,
+  "likes": 2,
+  "comments": 0,
+  "saved": 0,
+  "shares": 0,
+  "total_interactions": 2,
+  "ig_reels_avg_watch_time": 9993,
+  "reels_skip_rate": 35.4,
+  "lido_em": "2026-10-24T19:17:53.716918+00:00"
+ },
+ "contos-d02_manha-car": {
+  "reach": 3,
+  "views": 7,
+  "likes": 0,
+  "comments": 0,
+  "saved": 0,
+  "shares": 0,
+  "total_interactions": 0,
+  "lido_em": "2026-10-24T19:17:53.716918+00:00"
+ },
+ "_forcado_em": "2026-10-24T19:17:53.716918+00:00",
+ "contos-d01_tarde-reel": {
   "reach": 0,
   "views": 0,
   "likes": 0,
@@ -171,17 +194,6 @@
   "total_interactions": 0,
   "ig_reels_avg_watch_time": 0,
   "reels_skip_rate": 0,
-  "lido_em": "2026-10-24T17:13:07.952790+00:00"
- },
- "contos-d02_manha-car": {
-  "reach": 2,
-  "views": 3,
-  "likes": 0,
-  "comments": 0,
-  "saved": 0,
-  "shares": 0,
-  "total_interactions": 0,
-  "lido_em": "2026-10-24T17:13:07.952790+00:00"
- },
- "_forcado_em": "2026-10-24T17:13:07.952790+00:00"
+  "lido_em": "2026-10-24T19:17:53.716918+00:00"
+ }
 }
