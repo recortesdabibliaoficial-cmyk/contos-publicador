@@ -9,7 +9,7 @@
    "n": 1
   }
  ],
- "_em": "2026-10-24T14:35:15.968332+00:00",
+ "_em": "2026-10-24T17:13:07.952790+00:00",
  "_seg_hora": [
   {
    "t": "2026-10-23T16:40-03:00",
@@ -109,48 +109,48 @@
   }
  ],
  "contos-d01_manha-reel": {
-  "reach": 8,
-  "views": 8,
+  "reach": 9,
+  "views": 9,
   "likes": 0,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "ig_reels_avg_watch_time": 4734,
-  "reels_skip_rate": 75,
-  "lido_em": "2026-10-24T14:35:15.968332+00:00"
+  "ig_reels_avg_watch_time": 4609,
+  "reels_skip_rate": 66.7,
+  "lido_em": "2026-10-24T17:13:07.952790+00:00"
  },
  "contos-d01_manha-car": {
-  "reach": 0,
-  "views": 0,
+  "reach": 2,
+  "views": 2,
   "likes": 0,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "lido_em": "2026-10-24T14:35:15.968332+00:00"
+  "lido_em": "2026-10-24T17:13:07.952790+00:00"
  },
  "contos-d01_noite-reel": {
-  "reach": 1,
-  "views": 0,
+  "reach": 2,
+  "views": 2,
   "likes": 0,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "ig_reels_avg_watch_time": 0,
-  "reels_skip_rate": 0,
-  "lido_em": "2026-10-24T14:35:15.968332+00:00"
+  "ig_reels_avg_watch_time": 744,
+  "reels_skip_rate": 100,
+  "lido_em": "2026-10-24T17:13:07.952790+00:00"
  },
  "contos-d01_noite-car": {
-  "reach": 0,
-  "views": 0,
+  "reach": 2,
+  "views": 2,
   "likes": 0,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "lido_em": "2026-10-24T14:35:15.968332+00:00"
+  "lido_em": "2026-10-24T17:13:07.952790+00:00"
  },
  "_fechado": "2026-10-23",
  "contos-d02_manha-reel": {
@@ -163,16 +163,17 @@
   "total_interactions": 0,
   "ig_reels_avg_watch_time": 0,
   "reels_skip_rate": 0,
-  "lido_em": "2026-10-24T14:35:15.968332+00:00"
+  "lido_em": "2026-10-24T17:13:07.952790+00:00"
  },
  "contos-d02_manha-car": {
-  "reach": 0,
-  "views": 2,
+  "reach": 2,
+  "views": 3,
   "likes": 0,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "lido_em": "2026-10-24T14:35:15.968332+00:00"
- }
+  "lido_em": "2026-10-24T17:13:07.952790+00:00"
+ },
+ "_forcado_em": "2026-10-24T17:13:07.952790+00:00"
 }
