@@ -4,15 +4,15 @@
   "publicacoes": 2,
   "itens": {
    "contos-d01_manha-reel": {
-    "reach": 7,
+    "reach": 8,
     "views": 8,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 5103,
-    "reels_skip_rate": 62.5
+    "ig_reels_avg_watch_time": 4734,
+    "reels_skip_rate": 75
    },
    "contos-d01_manha-car": {
     "reach": 0,
@@ -24,7 +24,7 @@
     "total_interactions": 0
    },
    "contos-d01_noite-reel": {
-    "reach": 0,
+    "reach": 1,
     "views": 0,
     "likes": 0,
     "comments": 0,
@@ -44,6 +44,24 @@
     "total_interactions": 0
    }
   },
-  "em": "2026-10-23T20:55-03:00"
+  "em": "2026-10-23T23:30-03:00",
+  "conta": {
+   "reach": 9,
+   "views": 8,
+   "accounts_engaged": 0,
+   "total_interactions": 0,
+   "profile_views": 0
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "NON_FOLLOWER": 9
+   },
+   "views:follow_type": {
+    "NON_FOLLOWER": 8
+   },
+   "views:media_product_type": {
+    "REEL": 8
+   }
+  }
  }
 }
