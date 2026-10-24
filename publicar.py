@@ -265,7 +265,7 @@ def coletar_metricas(ig, agenda, estado):
         if tipos[iid] == 'STORY' and quando < agora - timedelta(hours=24) and iid in met: continue   # Story some em 24 h: guarda a última leitura
         m = _insights(ig, reg['media_id'], CAMPOS.get(tipos[iid], ['reach']))
         if m: met[iid] = dict(m, lido_em=agora.isoformat()); lidos += 1
-    met['_em'] = agora.isoformat()
+    met['_em'] = agora.isoformat(); met.pop('_erro_leitura', None)
     salvar(METRICAS, met); log(f'Métricas lidas: {lidos} itens.')
     guardar_historico(ig, met, conta, local, fechamento)
     if fechamento: met['_fechado'] = dia_local; salvar(METRICAS, met)
@@ -361,7 +361,10 @@ def main():
     agora = datetime.now(timezone.utc)
     conferir_externos(ig, agenda, estado); salvar(ESTADO, estado)
     try: coletar_metricas(ig, agenda, estado)
-    except Exception as e: log('AVISO: não consegui ler as métricas:', str(e)[:300])
+    except Exception as e:
+        log('AVISO: não consegui ler as métricas:', str(e)[:300])
+        try: m_ = carregar(METRICAS, {}); m_['_erro_leitura'] = {'em': datetime.now(timezone.utc).isoformat(), 'erro': str(e)[:300]}; salvar(METRICAS, m_)
+        except Exception: pass
     try: coletar_comentarios(ig, estado, conta)
     except Exception as e: log('AVISO: não consegui ler os comentários:', str(e)[:300])
     agenda = [i for i in agenda if i.get('via', 'api') == 'api']          # itens do Metricool só aparecem na página
