@@ -714,5 +714,747 @@
   "titulo": "A cigarra e a formiga",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A cigarra e a formiga"
+ },
+ {
+  "id": "s2-d08_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-31T10:00:00-03:00",
+  "midia": [
+   "midia/semana2/d08_manha_reel_1be6ab1c.mp4"
+  ],
+  "legenda": "O corvo e o jarro: Quem não desiste sempre encontra um jeito.\n\nFazia um calor enorme.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d08_manha-reel.jpg",
+  "titulo": "O corvo e o jarro",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O corvo e o jarro"
+ },
+ {
+  "id": "s2-d08_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-31T10:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d08_manha_c01.jpg",
+   "midia/semana2/s2-d08_manha_c02.jpg",
+   "midia/semana2/s2-d08_manha_c03.jpg",
+   "midia/semana2/s2-d08_manha_c04.jpg",
+   "midia/semana2/s2-d08_manha_c05.jpg",
+   "midia/semana2/s2-d08_manha_c06.jpg",
+   "midia/semana2/s2-d08_manha_c07.jpg",
+   "midia/semana2/s2-d08_manha_c08.jpg"
+  ],
+  "legenda": "O corvo e o jarro: Quem não desiste sempre encontra um jeito.\n\nFazia um calor enorme.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O corvo e o jarro. Ilustração em papel recortado."
+  ],
+  "titulo": "O corvo e o jarro",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d08_manha-car.jpg"
+ },
+ {
+  "id": "s2-d08_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-31T16:00:00-03:00",
+  "midia": [
+   "midia/semana2/d08_tarde_reel_e3e8e191.mp4"
+  ],
+  "legenda": "O vaso rachado: Até os seus defeitos podem fazer algo florescer.\n\nUm homem levava água em dois vasos.\n\n📜 conto popular indiano\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d08_tarde-reel.jpg",
+  "titulo": "O vaso rachado",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O vaso rachado"
+ },
+ {
+  "id": "s2-d08_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-31T20:00:00-03:00",
+  "midia": [
+   "midia/semana2/d08_noite_reel_a6e0e037.mp4"
+  ],
+  "legenda": "O ladrão e a lua: As coisas mais bonitas da vida ninguém consegue roubar.\n\nRyokan era um monge zen que morava numa cabana pobre, no pé de uma montanha.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d08_noite-reel.jpg",
+  "titulo": "O ladrão e a lua",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O ladrão e a lua"
+ },
+ {
+  "id": "s2-d08_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-31T20:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d08_noite_c01.jpg",
+   "midia/semana2/s2-d08_noite_c02.jpg",
+   "midia/semana2/s2-d08_noite_c03.jpg",
+   "midia/semana2/s2-d08_noite_c04.jpg",
+   "midia/semana2/s2-d08_noite_c05.jpg",
+   "midia/semana2/s2-d08_noite_c06.jpg",
+   "midia/semana2/s2-d08_noite_c07.jpg",
+   "midia/semana2/s2-d08_noite_c08.jpg"
+  ],
+  "legenda": "O ladrão e a lua: As coisas mais bonitas da vida ninguém consegue roubar.\n\nRyokan era um monge zen que morava numa cabana pobre, no pé de uma montanha.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado."
+  ],
+  "titulo": "O ladrão e a lua",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d08_noite-car.jpg"
+ },
+ {
+  "id": "s2-d09_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-01T10:00:00-03:00",
+  "midia": [
+   "midia/semana2/d09_manha_reel_bfb3c8b9.mp4"
+  ],
+  "legenda": "O rato do campo e o rato da cidade: Melhor pouco com paz do que muito com medo.\n\nUm rato do campo vivia numa toca simples.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_manha-reel.jpg",
+  "titulo": "O rato do campo e o rato da cidade",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O rato do campo e o rato da cidade"
+ },
+ {
+  "id": "s2-d09_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-01T10:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d09_manha_c01.jpg",
+   "midia/semana2/s2-d09_manha_c02.jpg",
+   "midia/semana2/s2-d09_manha_c03.jpg",
+   "midia/semana2/s2-d09_manha_c04.jpg",
+   "midia/semana2/s2-d09_manha_c05.jpg",
+   "midia/semana2/s2-d09_manha_c06.jpg",
+   "midia/semana2/s2-d09_manha_c07.jpg",
+   "midia/semana2/s2-d09_manha_c08.jpg"
+  ],
+  "legenda": "O rato do campo e o rato da cidade: Melhor pouco com paz do que muito com medo.\n\nUm rato do campo vivia numa toca simples.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O rato do campo e o rato da cidade. Ilustração em papel recortado."
+  ],
+  "titulo": "O rato do campo e o rato da cidade",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_manha-car.jpg"
+ },
+ {
+  "id": "s2-d09_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-01T16:00:00-03:00",
+  "midia": [
+   "midia/semana2/d09_tarde_reel_16a9a44b.mp4"
+  ],
+  "legenda": "O vento e o sol: Gentileza convence mais do que a força.\n\nO vento e o sol discutiam quem era o mais forte.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_tarde-reel.jpg",
+  "titulo": "O vento e o sol",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O vento e o sol"
+ },
+ {
+  "id": "s2-d09_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-01T20:00:00-03:00",
+  "midia": [
+   "midia/semana2/d09_noite_reel_48729e21.mp4"
+  ],
+  "legenda": "O macaco e o crocodilo: Na hora do aperto, cabeça fria salva.\n\nUm macaco morava numa árvore na beira do rio e ficou amigo de um crocodilo.\n\n📜 Panchatantra, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_noite-reel.jpg",
+  "titulo": "O macaco e o crocodilo",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O macaco e o crocodilo"
+ },
+ {
+  "id": "s2-d09_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-01T20:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d09_noite_c01.jpg",
+   "midia/semana2/s2-d09_noite_c02.jpg",
+   "midia/semana2/s2-d09_noite_c03.jpg",
+   "midia/semana2/s2-d09_noite_c04.jpg",
+   "midia/semana2/s2-d09_noite_c05.jpg",
+   "midia/semana2/s2-d09_noite_c06.jpg",
+   "midia/semana2/s2-d09_noite_c07.jpg",
+   "midia/semana2/s2-d09_noite_c08.jpg"
+  ],
+  "legenda": "O macaco e o crocodilo: Na hora do aperto, cabeça fria salva.\n\nUm macaco morava numa árvore na beira do rio e ficou amigo de um crocodilo.\n\n📜 Panchatantra, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado."
+  ],
+  "titulo": "O macaco e o crocodilo",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_noite-car.jpg"
+ },
+ {
+  "id": "s2-d10_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-02T10:00:00-03:00",
+  "midia": [
+   "midia/semana2/d10_manha_reel_6ff0e553.mp4"
+  ],
+  "legenda": "O velho, o menino e o burro: Quem vive para agradar todo mundo não agrada ninguém.\n\nUm velho e o filho levavam o burro para vender na feira.\n\n📜 fábula popular, recontada por La Fontaine\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_manha-reel.jpg",
+  "titulo": "O velho, o menino e o burro",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O velho, o menino e o burro"
+ },
+ {
+  "id": "s2-d10_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-02T10:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d10_manha_c01.jpg",
+   "midia/semana2/s2-d10_manha_c02.jpg",
+   "midia/semana2/s2-d10_manha_c03.jpg",
+   "midia/semana2/s2-d10_manha_c04.jpg",
+   "midia/semana2/s2-d10_manha_c05.jpg",
+   "midia/semana2/s2-d10_manha_c06.jpg",
+   "midia/semana2/s2-d10_manha_c07.jpg",
+   "midia/semana2/s2-d10_manha_c08.jpg"
+  ],
+  "legenda": "O velho, o menino e o burro: Quem vive para agradar todo mundo não agrada ninguém.\n\nUm velho e o filho levavam o burro para vender na feira.\n\n📜 fábula popular, recontada por La Fontaine\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O velho, o menino e o burro. Ilustração em papel recortado."
+  ],
+  "titulo": "O velho, o menino e o burro",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_manha-car.jpg"
+ },
+ {
+  "id": "s2-d10_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-02T16:00:00-03:00",
+  "midia": [
+   "midia/semana2/d10_tarde_reel_8662966c.mp4"
+  ],
+  "legenda": "A pitada de sal: A dor não diminui. É você que fica maior que ela.\n\nUm jovem vivia triste.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_tarde-reel.jpg",
+  "titulo": "A pitada de sal",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A pitada de sal"
+ },
+ {
+  "id": "s2-d10_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-02T20:00:00-03:00",
+  "midia": [
+   "midia/semana2/d10_noite_reel_9e4b22c4.mp4"
+  ],
+  "legenda": "A semente de mostarda: Toda casa já chorou alguém. Ninguém sofre sozinho.\n\nKisa Gotami perdeu o filho pequeno.\n\n📜 conto budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_noite-reel.jpg",
+  "titulo": "A semente de mostarda",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A semente de mostarda"
+ },
+ {
+  "id": "s2-d10_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-02T20:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d10_noite_c01.jpg",
+   "midia/semana2/s2-d10_noite_c02.jpg",
+   "midia/semana2/s2-d10_noite_c03.jpg",
+   "midia/semana2/s2-d10_noite_c04.jpg",
+   "midia/semana2/s2-d10_noite_c05.jpg",
+   "midia/semana2/s2-d10_noite_c06.jpg",
+   "midia/semana2/s2-d10_noite_c07.jpg",
+   "midia/semana2/s2-d10_noite_c08.jpg"
+  ],
+  "legenda": "A semente de mostarda: Toda casa já chorou alguém. Ninguém sofre sozinho.\n\nKisa Gotami perdeu o filho pequeno.\n\n📜 conto budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: A semente de mostarda. Ilustração em papel recortado."
+  ],
+  "titulo": "A semente de mostarda",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_noite-car.jpg"
+ },
+ {
+  "id": "s2-d11_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-03T10:00:00-03:00",
+  "midia": [
+   "midia/semana2/d11_manha_reel_07ac7d01.mp4"
+  ],
+  "legenda": "O feixe de varas: Separados, a gente quebra. Juntos, ninguém quebra a gente.\n\nUm pai tinha vários filhos.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_manha-reel.jpg",
+  "titulo": "O feixe de varas",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O feixe de varas"
+ },
+ {
+  "id": "s2-d11_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-03T10:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d11_manha_c01.jpg",
+   "midia/semana2/s2-d11_manha_c02.jpg",
+   "midia/semana2/s2-d11_manha_c03.jpg",
+   "midia/semana2/s2-d11_manha_c04.jpg",
+   "midia/semana2/s2-d11_manha_c05.jpg",
+   "midia/semana2/s2-d11_manha_c06.jpg",
+   "midia/semana2/s2-d11_manha_c07.jpg",
+   "midia/semana2/s2-d11_manha_c08.jpg"
+  ],
+  "legenda": "O feixe de varas: Separados, a gente quebra. Juntos, ninguém quebra a gente.\n\nUm pai tinha vários filhos.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O feixe de varas. Ilustração em papel recortado."
+  ],
+  "titulo": "O feixe de varas",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_manha-car.jpg"
+ },
+ {
+  "id": "s2-d11_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-03T16:00:00-03:00",
+  "midia": [
+   "midia/semana2/d11_tarde_reel_f75b51e1.mp4"
+  ],
+  "legenda": "O menino que gritava lobo: Quem mente sempre não é ouvido nem quando diz a verdade.\n\nUm menino cuidava das ovelhas perto da vila e vivia entediado.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_tarde-reel.jpg",
+  "titulo": "O menino que gritava lobo",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O menino que gritava lobo"
+ },
+ {
+  "id": "s2-d11_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-03T20:00:00-03:00",
+  "midia": [
+   "midia/semana2/d11_noite_reel_7e0832db.mp4"
+  ],
+  "legenda": "O presente recusado: Ofensa que você não aceita volta para quem mandou.\n\nUm homem, cheio de raiva, foi até Buda e o xingou de tudo o que é nome, na frente de todos.\n\n📜 ensinamento budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_noite-reel.jpg",
+  "titulo": "O presente recusado",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O presente recusado"
+ },
+ {
+  "id": "s2-d11_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-03T20:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d11_noite_c01.jpg",
+   "midia/semana2/s2-d11_noite_c02.jpg",
+   "midia/semana2/s2-d11_noite_c03.jpg",
+   "midia/semana2/s2-d11_noite_c04.jpg",
+   "midia/semana2/s2-d11_noite_c05.jpg",
+   "midia/semana2/s2-d11_noite_c06.jpg",
+   "midia/semana2/s2-d11_noite_c07.jpg",
+   "midia/semana2/s2-d11_noite_c08.jpg"
+  ],
+  "legenda": "O presente recusado: Ofensa que você não aceita volta para quem mandou.\n\nUm homem, cheio de raiva, foi até Buda e o xingou de tudo o que é nome, na frente de todos.\n\n📜 ensinamento budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O presente recusado. Ilustração em papel recortado."
+  ],
+  "titulo": "O presente recusado",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_noite-car.jpg"
+ },
+ {
+  "id": "s2-d12_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-04T10:00:00-03:00",
+  "midia": [
+   "midia/semana2/d12_manha_reel_7bee3962.mp4"
+  ],
+  "legenda": "O patinho feio: Ninguém nasce errado. Às vezes, só está no lugar errado.\n\nNum ninho de patos, nasceu um filhote diferente.\n\n📜 Hans Christian Andersen\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_manha-reel.jpg",
+  "titulo": "O patinho feio",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O patinho feio"
+ },
+ {
+  "id": "s2-d12_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-04T10:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d12_manha_c01.jpg",
+   "midia/semana2/s2-d12_manha_c02.jpg",
+   "midia/semana2/s2-d12_manha_c03.jpg",
+   "midia/semana2/s2-d12_manha_c04.jpg",
+   "midia/semana2/s2-d12_manha_c05.jpg",
+   "midia/semana2/s2-d12_manha_c06.jpg",
+   "midia/semana2/s2-d12_manha_c07.jpg",
+   "midia/semana2/s2-d12_manha_c08.jpg"
+  ],
+  "legenda": "O patinho feio: Ninguém nasce errado. Às vezes, só está no lugar errado.\n\nNum ninho de patos, nasceu um filhote diferente.\n\n📜 Hans Christian Andersen\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O patinho feio. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O patinho feio. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O patinho feio. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O patinho feio. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O patinho feio. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O patinho feio. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O patinho feio. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O patinho feio. Ilustração em papel recortado."
+  ],
+  "titulo": "O patinho feio",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_manha-car.jpg"
+ },
+ {
+  "id": "s2-d12_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-04T16:00:00-03:00",
+  "midia": [
+   "midia/semana2/d12_tarde_reel_c2ba276b.mp4"
+  ],
+  "legenda": "A chave perdida: Não procure a solução onde é fácil. Procure onde ela está.\n\nCerta noite, Nasrudin, personagem famoso das histórias do Oriente, estava de joelhos na rua, embaixo de um poste de luz.\n\n📜 conto popular, Nasrudin\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_tarde-reel.jpg",
+  "titulo": "A chave perdida",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A chave perdida"
+ },
+ {
+  "id": "s2-d12_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-04T20:00:00-03:00",
+  "midia": [
+   "midia/semana2/d12_noite_reel_04f7f1bd.mp4"
+  ],
+  "legenda": "Isto também passará: Nenhuma dor dura para sempre. Nem a sua.\n\nUm rei poderoso chamou os sábios do reino com um pedido estranho.\n\n📜 lenda popular persa\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_noite-reel.jpg",
+  "titulo": "Isto também passará",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Isto também passará"
+ },
+ {
+  "id": "s2-d12_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-04T20:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d12_noite_c01.jpg",
+   "midia/semana2/s2-d12_noite_c02.jpg",
+   "midia/semana2/s2-d12_noite_c03.jpg",
+   "midia/semana2/s2-d12_noite_c04.jpg",
+   "midia/semana2/s2-d12_noite_c05.jpg",
+   "midia/semana2/s2-d12_noite_c06.jpg",
+   "midia/semana2/s2-d12_noite_c07.jpg",
+   "midia/semana2/s2-d12_noite_c08.jpg"
+  ],
+  "legenda": "Isto também passará: Nenhuma dor dura para sempre. Nem a sua.\n\nUm rei poderoso chamou os sábios do reino com um pedido estranho.\n\n📜 lenda popular persa\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: Isto também passará. Ilustração em papel recortado."
+  ],
+  "titulo": "Isto também passará",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_noite-car.jpg"
+ },
+ {
+  "id": "s2-d13_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-05T10:00:00-03:00",
+  "midia": [
+   "midia/semana2/d13_manha_reel_50efe5cc.mp4"
+  ],
+  "legenda": "As três perguntas: O momento mais importante é agora. A pessoa, quem está com você.\n\nUm rei queria saber três coisas: qual é a hora certa de agir, quem é a pessoa mais importante e o que é mais importante fazer.\n\n📜 Liev Tolstói\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_manha-reel.jpg",
+  "titulo": "As três perguntas",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: As três perguntas"
+ },
+ {
+  "id": "s2-d13_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-05T10:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d13_manha_c01.jpg",
+   "midia/semana2/s2-d13_manha_c02.jpg",
+   "midia/semana2/s2-d13_manha_c03.jpg",
+   "midia/semana2/s2-d13_manha_c04.jpg",
+   "midia/semana2/s2-d13_manha_c05.jpg",
+   "midia/semana2/s2-d13_manha_c06.jpg",
+   "midia/semana2/s2-d13_manha_c07.jpg",
+   "midia/semana2/s2-d13_manha_c08.jpg"
+  ],
+  "legenda": "As três perguntas: O momento mais importante é agora. A pessoa, quem está com você.\n\nUm rei queria saber três coisas: qual é a hora certa de agir, quem é a pessoa mais importante e o que é mais importante fazer.\n\n📜 Liev Tolstói\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: As três perguntas. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: As três perguntas. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: As três perguntas. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: As três perguntas. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: As três perguntas. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: As três perguntas. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: As três perguntas. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: As três perguntas. Ilustração em papel recortado."
+  ],
+  "titulo": "As três perguntas",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_manha-car.jpg"
+ },
+ {
+  "id": "s2-d13_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-05T16:00:00-03:00",
+  "midia": [
+   "midia/semana2/d13_tarde_reel_122ab298.mp4"
+  ],
+  "legenda": "A roupa nova do rei: Coragem é dizer a verdade, mesmo quando ninguém diz.\n\nDois espertalhões chegaram ao reino.\n\n📜 Hans Christian Andersen\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_tarde-reel.jpg",
+  "titulo": "A roupa nova do rei",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A roupa nova do rei"
+ },
+ {
+  "id": "s2-d13_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-05T20:00:00-03:00",
+  "midia": [
+   "midia/semana2/d13_noite_reel_787856a9.mp4"
+  ],
+  "legenda": "Os dois lobos: Alimente o que é bom em você. É ele que vai vencer.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_noite-reel.jpg",
+  "titulo": "Os dois lobos",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Os dois lobos"
+ },
+ {
+  "id": "s2-d13_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-05T20:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d13_noite_c01.jpg",
+   "midia/semana2/s2-d13_noite_c02.jpg",
+   "midia/semana2/s2-d13_noite_c03.jpg",
+   "midia/semana2/s2-d13_noite_c04.jpg",
+   "midia/semana2/s2-d13_noite_c05.jpg",
+   "midia/semana2/s2-d13_noite_c06.jpg",
+   "midia/semana2/s2-d13_noite_c07.jpg",
+   "midia/semana2/s2-d13_noite_c08.jpg"
+  ],
+  "legenda": "Os dois lobos: Alimente o que é bom em você. É ele que vai vencer.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: Os dois lobos. Ilustração em papel recortado."
+  ],
+  "titulo": "Os dois lobos",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_noite-car.jpg"
+ },
+ {
+  "id": "s2-d14_manha-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-06T10:00:00-03:00",
+  "midia": [
+   "midia/semana2/d14_manha_reel_48ec8195.mp4"
+  ],
+  "legenda": "Os músicos de Bremen: Nunca é tarde para recomeçar. Ainda mais com amigos.\n\nUm burro trabalhou a vida inteira.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_manha-reel.jpg",
+  "titulo": "Os músicos de Bremen",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Os músicos de Bremen"
+ },
+ {
+  "id": "s2-d14_manha-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-06T10:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d14_manha_c01.jpg",
+   "midia/semana2/s2-d14_manha_c02.jpg",
+   "midia/semana2/s2-d14_manha_c03.jpg",
+   "midia/semana2/s2-d14_manha_c04.jpg",
+   "midia/semana2/s2-d14_manha_c05.jpg",
+   "midia/semana2/s2-d14_manha_c06.jpg",
+   "midia/semana2/s2-d14_manha_c07.jpg",
+   "midia/semana2/s2-d14_manha_c08.jpg"
+  ],
+  "legenda": "Os músicos de Bremen: Nunca é tarde para recomeçar. Ainda mais com amigos.\n\nUm burro trabalhou a vida inteira.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: Os músicos de Bremen. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: Os músicos de Bremen. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: Os músicos de Bremen. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: Os músicos de Bremen. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: Os músicos de Bremen. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: Os músicos de Bremen. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: Os músicos de Bremen. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: Os músicos de Bremen. Ilustração em papel recortado."
+  ],
+  "titulo": "Os músicos de Bremen",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_manha-car.jpg"
+ },
+ {
+  "id": "s2-d14_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-06T16:00:00-03:00",
+  "midia": [
+   "midia/semana2/d14_tarde_reel_e608e6d4.mp4"
+  ],
+  "legenda": "A sopa de pedra: Quando cada um dá um pouco, sobra para todos.\n\nUm viajante com fome chegou a uma aldeia.\n\n📜 conto popular português\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_tarde-reel.jpg",
+  "titulo": "A sopa de pedra",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A sopa de pedra"
+ },
+ {
+  "id": "s2-d14_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-06T20:00:00-03:00",
+  "midia": [
+   "midia/semana2/d14_noite_reel_3713b3bb.mp4"
+  ],
+  "legenda": "O avô e o netinho: Os filhos aprendem vendo como tratamos os mais velhos.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_noite-reel.jpg",
+  "titulo": "O avô e o netinho",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O avô e o netinho"
+ },
+ {
+  "id": "s2-d14_noite-car",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-06T20:01:00-03:00",
+  "midia": [
+   "midia/semana2/s2-d14_noite_c01.jpg",
+   "midia/semana2/s2-d14_noite_c02.jpg",
+   "midia/semana2/s2-d14_noite_c03.jpg",
+   "midia/semana2/s2-d14_noite_c04.jpg",
+   "midia/semana2/s2-d14_noite_c05.jpg",
+   "midia/semana2/s2-d14_noite_c06.jpg",
+   "midia/semana2/s2-d14_noite_c07.jpg",
+   "midia/semana2/s2-d14_noite_c08.jpg"
+  ],
+  "legenda": "O avô e o netinho: Os filhos aprendem vendo como tratamos os mais velhos.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
+   "Slide 2 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
+   "Slide 3 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
+   "Slide 4 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
+   "Slide 5 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
+   "Slide 6 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
+   "Slide 7 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
+   "Slide 8 de 8 do conto: O avô e o netinho. Ilustração em papel recortado."
+  ],
+  "titulo": "O avô e o netinho",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_noite-car.jpg"
  }
 ]
