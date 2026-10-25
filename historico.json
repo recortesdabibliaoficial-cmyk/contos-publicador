@@ -216,28 +216,28 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 11844,
-    "reels_skip_rate": 20
+    "ig_reels_avg_watch_time": 10952,
+    "reels_skip_rate": 40
    },
    "contos-d01_noite-car": {
-    "reach": 3,
-    "views": 8,
-    "likes": 0,
+    "reach": 5,
+    "views": 10,
+    "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
-    "total_interactions": 0
+    "total_interactions": 1
    },
    "contos-d02_manha-reel": {
-    "reach": 1646,
-    "views": 2603,
+    "reach": 1711,
+    "views": 2701,
     "likes": 25,
     "comments": 0,
     "saved": 9,
     "shares": 6,
     "total_interactions": 43,
-    "ig_reels_avg_watch_time": 10254,
-    "reels_skip_rate": 45.8
+    "ig_reels_avg_watch_time": 10193,
+    "reels_skip_rate": 46.5
    },
    "contos-d02_manha-car": {
     "reach": 4,
@@ -249,26 +249,26 @@
     "total_interactions": 0
    },
    "contos-d01_tarde-reel": {
-    "reach": 1068,
-    "views": 1767,
-    "likes": 32,
+    "reach": 1100,
+    "views": 1811,
+    "likes": 33,
     "comments": 0,
     "saved": 4,
     "shares": 2,
-    "total_interactions": 40,
-    "ig_reels_avg_watch_time": 10976,
-    "reels_skip_rate": 43
+    "total_interactions": 41,
+    "ig_reels_avg_watch_time": 10853,
+    "reels_skip_rate": 43.7
    },
    "contos-d02_noite-reel": {
-    "reach": 134,
-    "views": 238,
+    "reach": 139,
+    "views": 244,
     "likes": 7,
     "comments": 0,
     "saved": 0,
     "shares": 1,
     "total_interactions": 8,
-    "ig_reels_avg_watch_time": 11857,
-    "reels_skip_rate": 41.5
+    "ig_reels_avg_watch_time": 11612,
+    "reels_skip_rate": 43.2
    },
    "contos-d02_noite-car": {
     "reach": 2,
@@ -280,8 +280,28 @@
     "total_interactions": 0
    },
    "contos-d03_manha-reel": {
-    "reach": 0,
-    "views": 5,
+    "reach": 6,
+    "views": 12,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 10608,
+    "reels_skip_rate": 42.9
+   },
+   "contos-d03_manha-car": {
+    "reach": 1,
+    "views": 2,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "contos-d02_tarde-reel": {
+    "reach": 1,
+    "views": 10,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -289,17 +309,8 @@
     "total_interactions": 0,
     "ig_reels_avg_watch_time": 0,
     "reels_skip_rate": 0
-   },
-   "contos-d03_manha-car": {
-    "reach": 0,
-    "views": 2,
-    "likes": 0,
-    "comments": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0
    }
   },
-  "em": "2026-10-25T10:57-03:00"
+  "em": "2026-10-25T16:25-03:00"
  }
 }
