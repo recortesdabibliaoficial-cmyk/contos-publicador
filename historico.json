@@ -183,5 +183,103 @@
     "CAROUSEL_CONTAINER": 19
    }
   }
+ },
+ "2026-10-25": {
+  "seguidores": 9,
+  "publicacoes": 4,
+  "itens": {
+   "contos-d01_manha-reel": {
+    "reach": 15,
+    "views": 23,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 7108,
+    "reels_skip_rate": 37.5
+   },
+   "contos-d01_manha-car": {
+    "reach": 3,
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "contos-d01_noite-reel": {
+    "reach": 4,
+    "views": 13,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 11844,
+    "reels_skip_rate": 25
+   },
+   "contos-d01_noite-car": {
+    "reach": 3,
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "contos-d02_manha-reel": {
+    "reach": 1550,
+    "views": 2443,
+    "likes": 22,
+    "comments": 0,
+    "saved": 8,
+    "shares": 6,
+    "total_interactions": 39,
+    "ig_reels_avg_watch_time": 10236,
+    "reels_skip_rate": 45.3
+   },
+   "contos-d02_manha-car": {
+    "reach": 4,
+    "views": 9,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "contos-d01_tarde-reel": {
+    "reach": 996,
+    "views": 1641,
+    "likes": 29,
+    "comments": 1,
+    "saved": 3,
+    "shares": 2,
+    "total_interactions": 36,
+    "ig_reels_avg_watch_time": 10938,
+    "reels_skip_rate": 43.1
+   },
+   "contos-d02_noite-reel": {
+    "reach": 129,
+    "views": 227,
+    "likes": 7,
+    "comments": 0,
+    "saved": 0,
+    "shares": 1,
+    "total_interactions": 8,
+    "ig_reels_avg_watch_time": 12335,
+    "reels_skip_rate": 39.2
+   },
+   "contos-d02_noite-car": {
+    "reach": 1,
+    "views": 2,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   }
+  },
+  "em": "2026-10-25T05:30-03:00"
  }
 }
