@@ -761,6 +761,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d08_manha-car.jpg"
  },
  {
+  "id": "s2-stor-d08_manha",
+  "tipo": "STORY",
+  "quando": "2026-10-31T10:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d08_manha.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O corvo e o jarro",
+  "destaque": "Fábulas",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d08_manha.jpg"
+ },
+ {
   "id": "s2-d08_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-10-31T16:00:00-03:00",
@@ -775,6 +787,18 @@
   "titulo": "O vaso rachado",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O vaso rachado"
+ },
+ {
+  "id": "s2-stor-d08_tarde",
+  "tipo": "STORY",
+  "quando": "2026-10-31T16:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d08_tarde.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O vaso rachado",
+  "destaque": "Consolo",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d08_tarde.jpg"
  },
  {
   "id": "s2-d08_noite-reel",
@@ -822,6 +846,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d08_noite-car.jpg"
  },
  {
+  "id": "s2-stor-d08_noite",
+  "tipo": "STORY",
+  "quando": "2026-10-31T20:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d08_noite.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O ladrão e a lua",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d08_noite.jpg"
+ },
+ {
   "id": "s2-d09_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-01T10:00:00-03:00",
@@ -867,6 +903,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d09_manha-car.jpg"
  },
  {
+  "id": "s2-stor-d09_manha",
+  "tipo": "STORY",
+  "quando": "2026-11-01T10:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d09_manha.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O rato do campo e o rato da cidade",
+  "destaque": "Fábulas",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d09_manha.jpg"
+ },
+ {
   "id": "s2-d09_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-11-01T16:00:00-03:00",
@@ -881,6 +929,18 @@
   "titulo": "O vento e o sol",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O vento e o sol"
+ },
+ {
+  "id": "s2-stor-d09_tarde",
+  "tipo": "STORY",
+  "quando": "2026-11-01T16:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d09_tarde.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O vento e o sol",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d09_tarde.jpg"
  },
  {
   "id": "s2-d09_noite-reel",
@@ -928,6 +988,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d09_noite-car.jpg"
  },
  {
+  "id": "s2-stor-d09_noite",
+  "tipo": "STORY",
+  "quando": "2026-11-01T20:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d09_noite.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O macaco e o crocodilo",
+  "destaque": "Fábulas",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d09_noite.jpg"
+ },
+ {
   "id": "s2-d10_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-02T10:00:00-03:00",
@@ -973,6 +1045,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d10_manha-car.jpg"
  },
  {
+  "id": "s2-stor-d10_manha",
+  "tipo": "STORY",
+  "quando": "2026-11-02T10:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d10_manha.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O velho, o menino e o burro",
+  "destaque": "Pais e filhos",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d10_manha.jpg"
+ },
+ {
   "id": "s2-d10_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-11-02T16:00:00-03:00",
@@ -987,6 +1071,18 @@
   "titulo": "A pitada de sal",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A pitada de sal"
+ },
+ {
+  "id": "s2-stor-d10_tarde",
+  "tipo": "STORY",
+  "quando": "2026-11-02T16:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d10_tarde.jpg"
+  ],
+  "fixo": true,
+  "titulo": "A pitada de sal",
+  "destaque": "Consolo",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d10_tarde.jpg"
  },
  {
   "id": "s2-d10_noite-reel",
@@ -1034,6 +1130,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d10_noite-car.jpg"
  },
  {
+  "id": "s2-stor-d10_noite",
+  "tipo": "STORY",
+  "quando": "2026-11-02T20:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d10_noite.jpg"
+  ],
+  "fixo": true,
+  "titulo": "A semente de mostarda",
+  "destaque": "Consolo",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d10_noite.jpg"
+ },
+ {
   "id": "s2-d11_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-03T10:00:00-03:00",
@@ -1079,6 +1187,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d11_manha-car.jpg"
  },
  {
+  "id": "s2-stor-d11_manha",
+  "tipo": "STORY",
+  "quando": "2026-11-03T10:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d11_manha.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O feixe de varas",
+  "destaque": "Pais e filhos",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d11_manha.jpg"
+ },
+ {
   "id": "s2-d11_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-11-03T16:00:00-03:00",
@@ -1093,6 +1213,18 @@
   "titulo": "O menino que gritava lobo",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O menino que gritava lobo"
+ },
+ {
+  "id": "s2-stor-d11_tarde",
+  "tipo": "STORY",
+  "quando": "2026-11-03T16:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d11_tarde.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O menino que gritava lobo",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d11_tarde.jpg"
  },
  {
   "id": "s2-d11_noite-reel",
@@ -1140,6 +1272,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d11_noite-car.jpg"
  },
  {
+  "id": "s2-stor-d11_noite",
+  "tipo": "STORY",
+  "quando": "2026-11-03T20:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d11_noite.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O presente recusado",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d11_noite.jpg"
+ },
+ {
   "id": "s2-d12_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-04T10:00:00-03:00",
@@ -1185,6 +1329,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d12_manha-car.jpg"
  },
  {
+  "id": "s2-stor-d12_manha",
+  "tipo": "STORY",
+  "quando": "2026-11-04T10:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d12_manha.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O patinho feio",
+  "destaque": "Consolo",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d12_manha.jpg"
+ },
+ {
   "id": "s2-d12_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-11-04T16:00:00-03:00",
@@ -1199,6 +1355,18 @@
   "titulo": "A chave perdida",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A chave perdida"
+ },
+ {
+  "id": "s2-stor-d12_tarde",
+  "tipo": "STORY",
+  "quando": "2026-11-04T16:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d12_tarde.jpg"
+  ],
+  "fixo": true,
+  "titulo": "A chave perdida",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d12_tarde.jpg"
  },
  {
   "id": "s2-d12_noite-reel",
@@ -1246,6 +1414,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d12_noite-car.jpg"
  },
  {
+  "id": "s2-stor-d12_noite",
+  "tipo": "STORY",
+  "quando": "2026-11-04T20:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d12_noite.jpg"
+  ],
+  "fixo": true,
+  "titulo": "Isto também passará",
+  "destaque": "Consolo",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d12_noite.jpg"
+ },
+ {
   "id": "s2-d13_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-05T10:00:00-03:00",
@@ -1291,6 +1471,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d13_manha-car.jpg"
  },
  {
+  "id": "s2-stor-d13_manha",
+  "tipo": "STORY",
+  "quando": "2026-11-05T10:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d13_manha.jpg"
+  ],
+  "fixo": true,
+  "titulo": "As três perguntas",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d13_manha.jpg"
+ },
+ {
   "id": "s2-d13_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-11-05T16:00:00-03:00",
@@ -1305,6 +1497,18 @@
   "titulo": "A roupa nova do rei",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A roupa nova do rei"
+ },
+ {
+  "id": "s2-stor-d13_tarde",
+  "tipo": "STORY",
+  "quando": "2026-11-05T16:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d13_tarde.jpg"
+  ],
+  "fixo": true,
+  "titulo": "A roupa nova do rei",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d13_tarde.jpg"
  },
  {
   "id": "s2-d13_noite-reel",
@@ -1352,6 +1556,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d13_noite-car.jpg"
  },
  {
+  "id": "s2-stor-d13_noite",
+  "tipo": "STORY",
+  "quando": "2026-11-05T20:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d13_noite.jpg"
+  ],
+  "fixo": true,
+  "titulo": "Os dois lobos",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d13_noite.jpg"
+ },
+ {
   "id": "s2-d14_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-06T10:00:00-03:00",
@@ -1397,6 +1613,18 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d14_manha-car.jpg"
  },
  {
+  "id": "s2-stor-d14_manha",
+  "tipo": "STORY",
+  "quando": "2026-11-06T10:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d14_manha.jpg"
+  ],
+  "fixo": true,
+  "titulo": "Os músicos de Bremen",
+  "destaque": "Fábulas",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d14_manha.jpg"
+ },
+ {
   "id": "s2-d14_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-11-06T16:00:00-03:00",
@@ -1411,6 +1639,18 @@
   "titulo": "A sopa de pedra",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A sopa de pedra"
+ },
+ {
+  "id": "s2-stor-d14_tarde",
+  "tipo": "STORY",
+  "quando": "2026-11-06T16:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d14_tarde.jpg"
+  ],
+  "fixo": true,
+  "titulo": "A sopa de pedra",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d14_tarde.jpg"
  },
  {
   "id": "s2-d14_noite-reel",
@@ -1456,5 +1696,17 @@
   ],
   "titulo": "O avô e o netinho",
   "miniatura": "midia/semana2/miniaturas/contos-s2-d14_noite-car.jpg"
+ },
+ {
+  "id": "s2-stor-d14_noite",
+  "tipo": "STORY",
+  "quando": "2026-11-06T20:02:00-03:00",
+  "midia": [
+   "midia/semana2/stories/story_d14_noite.jpg"
+  ],
+  "fixo": true,
+  "titulo": "O avô e o netinho",
+  "destaque": "Pais e filhos",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d14_noite.jpg"
  }
 ]
