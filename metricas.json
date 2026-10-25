@@ -13,7 +13,7 @@
    "n": 8
   }
  ],
- "_em": "2026-10-25T02:04:09.474835+00:00",
+ "_em": "2026-10-25T02:30:24.033194+00:00",
  "_seg_hora": [
   {
    "t": "2026-10-23T16:40-03:00",
@@ -162,7 +162,7 @@
   "total_interactions": 1,
   "ig_reels_avg_watch_time": 7108,
   "reels_skip_rate": 37.5,
-  "lido_em": "2026-10-25T02:04:09.474835+00:00"
+  "lido_em": "2026-10-25T02:30:24.033194+00:00"
  },
  "contos-d01_manha-car": {
   "reach": 3,
@@ -172,7 +172,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "lido_em": "2026-10-25T02:04:09.474835+00:00"
+  "lido_em": "2026-10-25T02:30:24.033194+00:00"
  },
  "contos-d01_noite-reel": {
   "reach": 4,
@@ -184,7 +184,7 @@
   "total_interactions": 0,
   "ig_reels_avg_watch_time": 11844,
   "reels_skip_rate": 25,
-  "lido_em": "2026-10-25T02:04:09.474835+00:00"
+  "lido_em": "2026-10-25T02:30:24.033194+00:00"
  },
  "contos-d01_noite-car": {
   "reach": 3,
@@ -194,20 +194,20 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "lido_em": "2026-10-25T02:04:09.474835+00:00"
+  "lido_em": "2026-10-25T02:30:24.033194+00:00"
  },
- "_fechado": "2026-10-23",
+ "_fechado": "2026-10-24",
  "contos-d02_manha-reel": {
-  "reach": 1474,
-  "views": 2351,
+  "reach": 1487,
+  "views": 2370,
   "likes": 22,
   "comments": 0,
-  "saved": 7,
+  "saved": 8,
   "shares": 6,
-  "total_interactions": 38,
-  "ig_reels_avg_watch_time": 10489,
-  "reels_skip_rate": 44.1,
-  "lido_em": "2026-10-25T02:04:09.474835+00:00"
+  "total_interactions": 39,
+  "ig_reels_avg_watch_time": 10499,
+  "reels_skip_rate": 44.2,
+  "lido_em": "2026-10-25T02:30:24.033194+00:00"
  },
  "contos-d02_manha-car": {
   "reach": 4,
@@ -217,32 +217,32 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "lido_em": "2026-10-25T02:04:09.474835+00:00"
+  "lido_em": "2026-10-25T02:30:24.033194+00:00"
  },
  "_forcado_em": "2026-10-25T02:04:09.474835+00:00",
  "contos-d01_tarde-reel": {
-  "reach": 755,
-  "views": 1252,
-  "likes": 21,
+  "reach": 800,
+  "views": 1335,
+  "likes": 23,
   "comments": 2,
-  "saved": 2,
+  "saved": 3,
   "shares": 2,
-  "total_interactions": 27,
-  "ig_reels_avg_watch_time": 10360,
-  "reels_skip_rate": 41.8,
-  "lido_em": "2026-10-25T02:04:09.474835+00:00"
+  "total_interactions": 31,
+  "ig_reels_avg_watch_time": 10616,
+  "reels_skip_rate": 42.1,
+  "lido_em": "2026-10-25T02:30:24.033194+00:00"
  },
  "contos-d02_noite-reel": {
-  "reach": 121,
-  "views": 208,
+  "reach": 122,
+  "views": 215,
   "likes": 6,
   "comments": 0,
   "saved": 0,
   "shares": 1,
   "total_interactions": 7,
-  "ig_reels_avg_watch_time": 12086,
-  "reels_skip_rate": 38.8,
-  "lido_em": "2026-10-25T02:04:09.474835+00:00"
+  "ig_reels_avg_watch_time": 12095,
+  "reels_skip_rate": 38.7,
+  "lido_em": "2026-10-25T02:30:24.033194+00:00"
  },
  "contos-d02_noite-car": {
   "reach": 1,
@@ -252,6 +252,6 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 0,
-  "lido_em": "2026-10-25T02:04:09.474835+00:00"
+  "lido_em": "2026-10-25T02:30:24.033194+00:00"
  }
 }
