@@ -426,41 +426,9 @@
   "alt": "Conto ilustrado em papel recortado: O carvalho e o junco"
  },
  {
-  "id": "contos-d04_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-10-27T16:00:00-03:00",
-  "midia": [
-   "midia/semana1/d04_tarde_reel_4ec08796.mp4"
-  ],
-  "legenda": "A borboleta: Não faça tudo por quem você ama. É o esforço que faz crescer.\n\nUm homem achou um casulo no jardim.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/miniaturas/contos-d04_tarde-reel.jpg",
-  "titulo": "A borboleta",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A borboleta"
- },
- {
-  "id": "contos-d05_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-10-27T20:00:00-03:00",
-  "midia": [
-   "midia/semana1/d05_noite_reel_97bd1659.mp4"
-  ],
-  "legenda": "O beija-flor e o incêndio: Faça a sua parte. Mesmo que pareça pouco.\n\nUm dia, a floresta pegou fogo.\n\n📜 lenda indígena da América do Sul\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/miniaturas/contos-d05_noite-reel.jpg",
-  "titulo": "O beija-flor e o incêndio",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O beija-flor e o incêndio"
- },
- {
   "id": "contos-d05_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-10-27T20:01:00-03:00",
+  "quando": "2026-10-27T12:01:00-03:00",
   "midia": [
    "midia/semana1/d05_noite_c01.jpg",
    "midia/semana1/d05_noite_c02.jpg",
@@ -485,6 +453,38 @@
   "miniatura": "midia/miniaturas/contos-d05_noite-car.jpg"
  },
  {
+  "id": "contos-d04_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-27T17:00:00-03:00",
+  "midia": [
+   "midia/semana1/d04_tarde_reel_4ec08796.mp4"
+  ],
+  "legenda": "A borboleta: Não faça tudo por quem você ama. É o esforço que faz crescer.\n\nUm homem achou um casulo no jardim.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d04_tarde-reel.jpg",
+  "titulo": "A borboleta",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A borboleta"
+ },
+ {
+  "id": "contos-d05_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-27T19:00:00-03:00",
+  "midia": [
+   "midia/semana1/d05_noite_reel_97bd1659.mp4"
+  ],
+  "legenda": "O beija-flor e o incêndio: Faça a sua parte. Mesmo que pareça pouco.\n\nUm dia, a floresta pegou fogo.\n\n📜 lenda indígena da América do Sul\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d05_noite-reel.jpg",
+  "titulo": "O beija-flor e o incêndio",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O beija-flor e o incêndio"
+ },
+ {
   "id": "contos-d06_manha-reel",
   "tipo": "REEL",
   "quando": "2026-10-28T10:00:00-03:00",
@@ -501,41 +501,9 @@
   "alt": "Conto ilustrado em papel recortado: O lenhador e o machado"
  },
  {
-  "id": "contos-d05_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-10-28T16:00:00-03:00",
-  "midia": [
-   "midia/semana1/d05_tarde_reel_314a4533.mp4"
-  ],
-  "legenda": "O leão e o rato: Ninguém é pequeno demais para ajudar.\n\nUm leão dormia quando um ratinho passou correndo por cima dele.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/miniaturas/contos-d05_tarde-reel.jpg",
-  "titulo": "O leão e o rato",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O leão e o rato"
- },
- {
-  "id": "contos-d06_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-10-28T20:00:00-03:00",
-  "midia": [
-   "midia/semana2/d06_noite_reel_55585764.mp4"
-  ],
-  "legenda": "O sábio e o escorpião: Não deixe a maldade dos outros mudar quem você é.\n\nUm sábio se banhava no rio quando viu um escorpião se afogando.\n\n📜 tradição indiana\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-d06_noite-reel.jpg",
-  "titulo": "O sábio e o escorpião",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O sábio e o escorpião"
- },
- {
   "id": "contos-d06_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-10-28T20:01:00-03:00",
+  "quando": "2026-10-28T12:01:00-03:00",
   "midia": [
    "midia/semana2/esc_d06_noite_c01.jpg",
    "midia/semana2/esc_d06_noite_c02.jpg",
@@ -564,6 +532,38 @@
   "miniatura": "midia/semana2/miniaturas/contos-esc-d06_noite-car.jpg"
  },
  {
+  "id": "contos-d05_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-28T17:00:00-03:00",
+  "midia": [
+   "midia/semana1/d05_tarde_reel_314a4533.mp4"
+  ],
+  "legenda": "O leão e o rato: Ninguém é pequeno demais para ajudar.\n\nUm leão dormia quando um ratinho passou correndo por cima dele.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d05_tarde-reel.jpg",
+  "titulo": "O leão e o rato",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O leão e o rato"
+ },
+ {
+  "id": "contos-d06_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-28T19:00:00-03:00",
+  "midia": [
+   "midia/semana2/d06_noite_reel_55585764.mp4"
+  ],
+  "legenda": "O sábio e o escorpião: Não deixe a maldade dos outros mudar quem você é.\n\nUm sábio se banhava no rio quando viu um escorpião se afogando.\n\n📜 tradição indiana\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-d06_noite-reel.jpg",
+  "titulo": "O sábio e o escorpião",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O sábio e o escorpião"
+ },
+ {
   "id": "contos-d07_manha-reel",
   "tipo": "REEL",
   "quando": "2026-10-29T10:00:00-03:00",
@@ -580,41 +580,9 @@
   "alt": "Conto ilustrado em papel recortado: A pedra no caminho"
  },
  {
-  "id": "contos-d06_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-10-29T16:00:00-03:00",
-  "midia": [
-   "midia/semana1/d06_tarde_reel_8969244e.mp4"
-  ],
-  "legenda": "Os pregos na cerca: Na raiva, cale. Desculpa não apaga a marca.\n\nUm menino tinha um gênio difícil.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/miniaturas/contos-d06_tarde-reel.jpg",
-  "titulo": "Os pregos na cerca",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os pregos na cerca"
- },
- {
-  "id": "contos-d07_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-10-29T20:00:00-03:00",
-  "midia": [
-   "midia/semana1/d07_noite_reel_fdd82620.mp4"
-  ],
-  "legenda": "O eco: O que você fala volta para você.\n\nUm menino passeava com o pai na montanha.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/miniaturas/contos-d07_noite-reel.jpg",
-  "titulo": "O eco",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O eco"
- },
- {
   "id": "contos-d07_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-10-29T20:01:00-03:00",
+  "quando": "2026-10-29T12:01:00-03:00",
   "midia": [
    "midia/semana1/d07_noite_c01.jpg",
    "midia/semana1/d07_noite_c02.jpg",
@@ -639,9 +607,41 @@
   "miniatura": "midia/miniaturas/contos-d07_noite-car.jpg"
  },
  {
+  "id": "contos-d06_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-29T17:00:00-03:00",
+  "midia": [
+   "midia/semana1/d06_tarde_reel_8969244e.mp4"
+  ],
+  "legenda": "Os pregos na cerca: Na raiva, cale. Desculpa não apaga a marca.\n\nUm menino tinha um gênio difícil.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d06_tarde-reel.jpg",
+  "titulo": "Os pregos na cerca",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Os pregos na cerca"
+ },
+ {
+  "id": "contos-d07_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-29T19:00:00-03:00",
+  "midia": [
+   "midia/semana1/d07_noite_reel_fdd82620.mp4"
+  ],
+  "legenda": "O eco: O que você fala volta para você.\n\nUm menino passeava com o pai na montanha.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/contos-d07_noite-reel.jpg",
+  "titulo": "O eco",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O eco"
+ },
+ {
   "id": "contos-d07_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-10-30T16:00:00-03:00",
+  "quando": "2026-10-30T17:00:00-03:00",
   "midia": [
    "midia/semana2/d07_tarde_reel_674cd9d1.mp4"
   ],
@@ -671,41 +671,9 @@
   "alt": "Conto ilustrado em papel recortado: O corvo e o jarro"
  },
  {
-  "id": "s2-d08_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-10-31T16:00:00-03:00",
-  "midia": [
-   "midia/semana2/d08_tarde_reel_ffeb3901.mp4"
-  ],
-  "legenda": "O vaso rachado: Até o defeito pode dar flor.\n\nUm homem buscava água no rio todos os dias, com dois vasos pendurados numa vara.\n\n📜 conto popular indiano\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d08_tarde-reel.jpg",
-  "titulo": "O vaso rachado",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O vaso rachado"
- },
- {
-  "id": "s2-d08_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-10-31T20:00:00-03:00",
-  "midia": [
-   "midia/semana2/d08_noite_reel_a6e0e037.mp4"
-  ],
-  "legenda": "O ladrão e a lua: As coisas mais bonitas da vida ninguém consegue roubar.\n\nRyokan era um monge zen que morava numa cabana pobre, no pé de uma montanha.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d08_noite-reel.jpg",
-  "titulo": "O ladrão e a lua",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O ladrão e a lua"
- },
- {
   "id": "s2-d08_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-10-31T20:01:00-03:00",
+  "quando": "2026-10-31T12:01:00-03:00",
   "midia": [
    "midia/semana2/s2-d08_noite_c01.jpg",
    "midia/semana2/s2-d08_noite_c02.jpg",
@@ -732,16 +700,36 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d08_noite-car.jpg"
  },
  {
-  "id": "s2-stor-d08_noite",
-  "tipo": "STORY",
-  "quando": "2026-10-31T20:02:00-03:00",
+  "id": "s2-d08_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-31T17:00:00-03:00",
   "midia": [
-   "midia/semana2/stories/story_d08_noite.jpg"
+   "midia/semana2/d08_tarde_reel_ffeb3901.mp4"
   ],
-  "fixo": true,
+  "legenda": "O vaso rachado: Até o defeito pode dar flor.\n\nUm homem buscava água no rio todos os dias, com dois vasos pendurados numa vara.\n\n📜 conto popular indiano\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d08_tarde-reel.jpg",
+  "titulo": "O vaso rachado",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O vaso rachado"
+ },
+ {
+  "id": "s2-d08_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-31T19:00:00-03:00",
+  "midia": [
+   "midia/semana2/d08_noite_reel_a6e0e037.mp4"
+  ],
+  "legenda": "O ladrão e a lua: As coisas mais bonitas da vida ninguém consegue roubar.\n\nRyokan era um monge zen que morava numa cabana pobre, no pé de uma montanha.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d08_noite-reel.jpg",
   "titulo": "O ladrão e a lua",
-  "destaque": "Sabedoria",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d08_noite.jpg"
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O ladrão e a lua"
  },
  {
   "id": "s2-d09_manha-reel",
@@ -760,41 +748,9 @@
   "alt": "Conto ilustrado em papel recortado: O rato do campo e o rato da cidade"
  },
  {
-  "id": "s2-d09_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-01T16:00:00-03:00",
-  "midia": [
-   "midia/semana2/d09_tarde_reel_73fa3eec.mp4"
-  ],
-  "legenda": "O vento e o sol: Grito não convence. Gentileza, sim.\n\nO vento e o sol discutiam quem era o mais forte.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_tarde-reel.jpg",
-  "titulo": "O vento e o sol",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O vento e o sol"
- },
- {
-  "id": "s2-d09_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-01T20:00:00-03:00",
-  "midia": [
-   "midia/semana2/d09_noite_reel_48729e21.mp4"
-  ],
-  "legenda": "O macaco e o crocodilo: Na hora do aperto, cabeça fria salva.\n\nUm macaco morava numa árvore na beira do rio e ficou amigo de um crocodilo.\n\n📜 Panchatantra, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_noite-reel.jpg",
-  "titulo": "O macaco e o crocodilo",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O macaco e o crocodilo"
- },
- {
   "id": "s2-d09_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-11-01T20:01:00-03:00",
+  "quando": "2026-11-01T12:01:00-03:00",
   "midia": [
    "midia/semana2/s2-d09_noite_c01.jpg",
    "midia/semana2/s2-d09_noite_c02.jpg",
@@ -821,16 +777,36 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d09_noite-car.jpg"
  },
  {
-  "id": "s2-stor-d09_noite",
-  "tipo": "STORY",
-  "quando": "2026-11-01T20:02:00-03:00",
+  "id": "s2-d09_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-01T17:00:00-03:00",
   "midia": [
-   "midia/semana2/stories/story_d09_noite.jpg"
+   "midia/semana2/d09_tarde_reel_73fa3eec.mp4"
   ],
-  "fixo": true,
+  "legenda": "O vento e o sol: Grito não convence. Gentileza, sim.\n\nO vento e o sol discutiam quem era o mais forte.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_tarde-reel.jpg",
+  "titulo": "O vento e o sol",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O vento e o sol"
+ },
+ {
+  "id": "s2-d09_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-01T19:00:00-03:00",
+  "midia": [
+   "midia/semana2/d09_noite_reel_48729e21.mp4"
+  ],
+  "legenda": "O macaco e o crocodilo: Na hora do aperto, cabeça fria salva.\n\nUm macaco morava numa árvore na beira do rio e ficou amigo de um crocodilo.\n\n📜 Panchatantra, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_noite-reel.jpg",
   "titulo": "O macaco e o crocodilo",
-  "destaque": "Fábulas",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d09_noite.jpg"
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O macaco e o crocodilo"
  },
  {
   "id": "s2-d10_manha-reel",
@@ -849,41 +825,9 @@
   "alt": "Conto ilustrado em papel recortado: O velho, o menino e o burro"
  },
  {
-  "id": "s2-d10_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-02T16:00:00-03:00",
-  "midia": [
-   "midia/semana2/d10_tarde_reel_f1c94a21.mp4"
-  ],
-  "legenda": "A pitada de sal: A dor é a mesma. Cresça por dentro e ela pesa menos.\n\nUm jovem vivia triste.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_tarde-reel.jpg",
-  "titulo": "A pitada de sal",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A pitada de sal"
- },
- {
-  "id": "s2-d10_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-02T20:00:00-03:00",
-  "midia": [
-   "midia/semana2/d10_noite_reel_9e4b22c4.mp4"
-  ],
-  "legenda": "A semente de mostarda: Toda casa já chorou alguém. Ninguém sofre sozinho.\n\nKisa Gotami perdeu o filho pequeno.\n\n📜 conto budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_noite-reel.jpg",
-  "titulo": "A semente de mostarda",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A semente de mostarda"
- },
- {
   "id": "s2-d10_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-11-02T20:01:00-03:00",
+  "quando": "2026-11-02T12:01:00-03:00",
   "midia": [
    "midia/semana2/s2-d10_noite_c01.jpg",
    "midia/semana2/s2-d10_noite_c02.jpg",
@@ -910,16 +854,36 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d10_noite-car.jpg"
  },
  {
-  "id": "s2-stor-d10_noite",
-  "tipo": "STORY",
-  "quando": "2026-11-02T20:02:00-03:00",
+  "id": "s2-d10_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-02T17:00:00-03:00",
   "midia": [
-   "midia/semana2/stories/story_d10_noite.jpg"
+   "midia/semana2/d10_tarde_reel_f1c94a21.mp4"
   ],
-  "fixo": true,
+  "legenda": "A pitada de sal: A dor é a mesma. Cresça por dentro e ela pesa menos.\n\nUm jovem vivia triste.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_tarde-reel.jpg",
+  "titulo": "A pitada de sal",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A pitada de sal"
+ },
+ {
+  "id": "s2-d10_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-02T19:00:00-03:00",
+  "midia": [
+   "midia/semana2/d10_noite_reel_9e4b22c4.mp4"
+  ],
+  "legenda": "A semente de mostarda: Toda casa já chorou alguém. Ninguém sofre sozinho.\n\nKisa Gotami perdeu o filho pequeno.\n\n📜 conto budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_noite-reel.jpg",
   "titulo": "A semente de mostarda",
-  "destaque": "Consolo",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d10_noite.jpg"
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A semente de mostarda"
  },
  {
   "id": "s2-d11_manha-reel",
@@ -938,41 +902,9 @@
   "alt": "Conto ilustrado em papel recortado: O feixe de varas"
  },
  {
-  "id": "s2-d11_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-03T16:00:00-03:00",
-  "midia": [
-   "midia/semana2/d11_tarde_reel_17090ba3.mp4"
-  ],
-  "legenda": "As três peneiras: Antes de passar adiante, pergunte: é verdade, é bom, é útil?\n\nUm homem chegou correndo para falar com Sócrates:\n\n📜 atribuída a Sócrates, tradição popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_tarde-reel.jpg",
-  "titulo": "As três peneiras",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: As três peneiras"
- },
- {
-  "id": "s2-d11_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-03T20:00:00-03:00",
-  "midia": [
-   "midia/semana2/d11_noite_reel_7e0832db.mp4"
-  ],
-  "legenda": "O presente recusado: Ofensa que você não aceita volta para quem mandou.\n\nUm homem, cheio de raiva, foi até Buda e o xingou de tudo o que é nome, na frente de todos.\n\n📜 ensinamento budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_noite-reel.jpg",
-  "titulo": "O presente recusado",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O presente recusado"
- },
- {
   "id": "s2-d11_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-11-03T20:01:00-03:00",
+  "quando": "2026-11-03T12:01:00-03:00",
   "midia": [
    "midia/semana2/s2-d11_noite_c01.jpg",
    "midia/semana2/s2-d11_noite_c02.jpg",
@@ -999,16 +931,36 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d11_noite-car.jpg"
  },
  {
-  "id": "s2-stor-d11_noite",
-  "tipo": "STORY",
-  "quando": "2026-11-03T20:02:00-03:00",
+  "id": "s2-d11_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-03T17:00:00-03:00",
   "midia": [
-   "midia/semana2/stories/story_d11_noite.jpg"
+   "midia/semana2/d11_tarde_reel_17090ba3.mp4"
   ],
-  "fixo": true,
+  "legenda": "As três peneiras: Antes de passar adiante, pergunte: é verdade, é bom, é útil?\n\nUm homem chegou correndo para falar com Sócrates:\n\n📜 atribuída a Sócrates, tradição popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_tarde-reel.jpg",
+  "titulo": "As três peneiras",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: As três peneiras"
+ },
+ {
+  "id": "s2-d11_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-03T19:00:00-03:00",
+  "midia": [
+   "midia/semana2/d11_noite_reel_7e0832db.mp4"
+  ],
+  "legenda": "O presente recusado: Ofensa que você não aceita volta para quem mandou.\n\nUm homem, cheio de raiva, foi até Buda e o xingou de tudo o que é nome, na frente de todos.\n\n📜 ensinamento budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_noite-reel.jpg",
   "titulo": "O presente recusado",
-  "destaque": "Sabedoria",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d11_noite.jpg"
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O presente recusado"
  },
  {
   "id": "s2-d12_manha-reel",
@@ -1027,41 +979,9 @@
   "alt": "Conto ilustrado em papel recortado: O patinho feio"
  },
  {
-  "id": "s2-d12_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-04T16:00:00-03:00",
-  "midia": [
-   "midia/semana2/d12_tarde_reel_3cfb7d7e.mp4"
-  ],
-  "legenda": "O rei e o falcão: Na raiva, não decida nada.\n\nUm rei caçava nas montanhas com seu falcão.\n\n📜 lenda popular, contada sobre Gêngis Khan\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_tarde-reel.jpg",
-  "titulo": "O rei e o falcão",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O rei e o falcão"
- },
- {
-  "id": "s2-d12_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-04T20:00:00-03:00",
-  "midia": [
-   "midia/semana2/d12_noite_reel_16026e72.mp4"
-  ],
-  "legenda": "Isto também passará: Nenhuma dor dura para sempre. Nem a sua.\n\nUm rei pediu aos sábios um anel que servisse para todos os dias da vida.\n\n📜 lenda popular persa\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_noite-reel.jpg",
-  "titulo": "Isto também passará",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Isto também passará"
- },
- {
   "id": "s2-d12_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-11-04T20:01:00-03:00",
+  "quando": "2026-11-04T12:01:00-03:00",
   "midia": [
    "midia/semana2/s2-d12_noite_c01.jpg",
    "midia/semana2/s2-d12_noite_c02.jpg",
@@ -1088,16 +1008,36 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d12_noite-car.jpg"
  },
  {
-  "id": "s2-stor-d12_noite",
-  "tipo": "STORY",
-  "quando": "2026-11-04T20:02:00-03:00",
+  "id": "s2-d12_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-04T17:00:00-03:00",
   "midia": [
-   "midia/semana2/stories/story_d12_noite.jpg"
+   "midia/semana2/d12_tarde_reel_3cfb7d7e.mp4"
   ],
-  "fixo": true,
+  "legenda": "O rei e o falcão: Na raiva, não decida nada.\n\nUm rei caçava nas montanhas com seu falcão.\n\n📜 lenda popular, contada sobre Gêngis Khan\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_tarde-reel.jpg",
+  "titulo": "O rei e o falcão",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O rei e o falcão"
+ },
+ {
+  "id": "s2-d12_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-04T19:00:00-03:00",
+  "midia": [
+   "midia/semana2/d12_noite_reel_16026e72.mp4"
+  ],
+  "legenda": "Isto também passará: Nenhuma dor dura para sempre. Nem a sua.\n\nUm rei pediu aos sábios um anel que servisse para todos os dias da vida.\n\n📜 lenda popular persa\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_noite-reel.jpg",
   "titulo": "Isto também passará",
-  "destaque": "Consolo",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d12_noite.jpg"
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Isto também passará"
  },
  {
   "id": "s2-d13_manha-reel",
@@ -1116,41 +1056,9 @@
   "alt": "Conto ilustrado em papel recortado: As três perguntas"
  },
  {
-  "id": "s2-d13_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-05T16:00:00-03:00",
-  "midia": [
-   "midia/semana2/d13_tarde_reel_625b7863.mp4"
-  ],
-  "legenda": "A roupa nova do rei: Fale a verdade. Mesmo que ninguém fale.\n\nDois espertalhões chegaram ao reino.\n\n📜 Hans Christian Andersen\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_tarde-reel.jpg",
-  "titulo": "A roupa nova do rei",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A roupa nova do rei"
- },
- {
-  "id": "s2-d13_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-05T20:00:00-03:00",
-  "midia": [
-   "midia/semana2/d13_noite_reel_522a9f42.mp4"
-  ],
-  "legenda": "Os dois lobos: Cuide do que você alimenta por dentro. É isso que cresce.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_noite-reel.jpg",
-  "titulo": "Os dois lobos",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os dois lobos"
- },
- {
   "id": "s2-d13_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-11-05T20:01:00-03:00",
+  "quando": "2026-11-05T12:01:00-03:00",
   "midia": [
    "midia/semana2/s2-d13_noite_c01.jpg",
    "midia/semana2/s2-d13_noite_c02.jpg",
@@ -1177,16 +1085,36 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d13_noite-car.jpg"
  },
  {
-  "id": "s2-stor-d13_noite",
-  "tipo": "STORY",
-  "quando": "2026-11-05T20:02:00-03:00",
+  "id": "s2-d13_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-05T17:00:00-03:00",
   "midia": [
-   "midia/semana2/stories/story_d13_noite.jpg"
+   "midia/semana2/d13_tarde_reel_625b7863.mp4"
   ],
-  "fixo": true,
+  "legenda": "A roupa nova do rei: Fale a verdade. Mesmo que ninguém fale.\n\nDois espertalhões chegaram ao reino.\n\n📜 Hans Christian Andersen\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_tarde-reel.jpg",
+  "titulo": "A roupa nova do rei",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A roupa nova do rei"
+ },
+ {
+  "id": "s2-d13_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-05T19:00:00-03:00",
+  "midia": [
+   "midia/semana2/d13_noite_reel_522a9f42.mp4"
+  ],
+  "legenda": "Os dois lobos: Cuide do que você alimenta por dentro. É isso que cresce.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_noite-reel.jpg",
   "titulo": "Os dois lobos",
-  "destaque": "Sabedoria",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d13_noite.jpg"
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Os dois lobos"
  },
  {
   "id": "s2-d14_manha-reel",
@@ -1205,41 +1133,9 @@
   "alt": "Conto ilustrado em papel recortado: Os músicos de Bremen"
  },
  {
-  "id": "s2-d14_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-06T16:00:00-03:00",
-  "midia": [
-   "midia/semana2/d14_tarde_reel_e608e6d4.mp4"
-  ],
-  "legenda": "A sopa de pedra: Quando cada um dá um pouco, sobra para todos.\n\nUm viajante com fome chegou a uma aldeia.\n\n📜 conto popular português\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_tarde-reel.jpg",
-  "titulo": "A sopa de pedra",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A sopa de pedra"
- },
- {
-  "id": "s2-d14_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-06T20:00:00-03:00",
-  "midia": [
-   "midia/semana2/d14_noite_reel_ee7c9f70.mp4"
-  ],
-  "legenda": "O avô e o netinho: Trate bem os mais velhos. Os pequenos estão olhando.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_noite-reel.jpg",
-  "titulo": "O avô e o netinho",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O avô e o netinho"
- },
- {
   "id": "s2-d14_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-11-06T20:01:00-03:00",
+  "quando": "2026-11-06T12:01:00-03:00",
   "midia": [
    "midia/semana2/s2-d14_noite_c01.jpg",
    "midia/semana2/s2-d14_noite_c02.jpg",
@@ -1266,15 +1162,35 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d14_noite-car.jpg"
  },
  {
-  "id": "s2-stor-d14_noite",
-  "tipo": "STORY",
-  "quando": "2026-11-06T20:02:00-03:00",
+  "id": "s2-d14_tarde-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-06T17:00:00-03:00",
   "midia": [
-   "midia/semana2/stories/story_d14_noite.jpg"
+   "midia/semana2/d14_tarde_reel_e608e6d4.mp4"
   ],
-  "fixo": true,
+  "legenda": "A sopa de pedra: Quando cada um dá um pouco, sobra para todos.\n\nUm viajante com fome chegou a uma aldeia.\n\n📜 conto popular português\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_tarde-reel.jpg",
+  "titulo": "A sopa de pedra",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A sopa de pedra"
+ },
+ {
+  "id": "s2-d14_noite-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-06T19:00:00-03:00",
+  "midia": [
+   "midia/semana2/d14_noite_reel_ee7c9f70.mp4"
+  ],
+  "legenda": "O avô e o netinho: Trate bem os mais velhos. Os pequenos estão olhando.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_noite-reel.jpg",
   "titulo": "O avô e o netinho",
-  "destaque": "Pais e filhos",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-stor-d14_noite.jpg"
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O avô e o netinho"
  }
 ]
