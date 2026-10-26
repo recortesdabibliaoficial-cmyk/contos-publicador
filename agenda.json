@@ -351,6 +351,22 @@
   "alt": "Conto ilustrado em papel recortado: A raposa e as uvas"
  },
  {
+  "id": "contos-extra-2026-10-26-burro",
+  "tipo": "REEL",
+  "quando": "2026-10-26T17:10:00-03:00",
+  "midia": [
+   "midia/semana2/extra_burro_reel_701194f0.mp4"
+  ],
+  "legenda": "O burro no poço: O que jogam em você pode virar degrau. Sacuda e suba.\n\nUm burro velho caiu num poço seco.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-extra-burro-reel.jpg",
+  "titulo": "O burro no poço",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O burro no poço"
+ },
+ {
   "id": "contos-d04_noite-reel",
   "tipo": "REEL",
   "quando": "2026-10-26T20:00:00-03:00",
