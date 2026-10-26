@@ -410,6 +410,16 @@
   "miniatura": "midia/miniaturas/contos-d04_noite-car.jpg"
  },
  {
+  "id": "st4-2026-10-27-08",
+  "tipo": "STORY",
+  "quando": "2026-10-27T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-27-08.jpg"
+  ],
+  "titulo": "Os sapos no buraco",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-27-08.jpg"
+ },
+ {
   "id": "contos-d05_manha-reel",
   "tipo": "REEL",
   "quando": "2026-10-27T10:00:00-03:00",
@@ -424,6 +434,32 @@
   "titulo": "O carvalho e o junco",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O carvalho e o junco"
+ },
+ {
+  "id": "c4-2026-10-27-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-27T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-10-27-12_reel_02509eb7.mp4"
+  ],
+  "legenda": "A semente vazia: Fale a verdade, mesmo quando der vergonha. A honestidade vence.\n\nUm imperador velho precisava escolher quem ficaria no seu lugar.\n\n📜 conto popular chinês\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-27-12-reel.jpg",
+  "titulo": "A semente vazia",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A semente vazia"
+ },
+ {
+  "id": "st4-2026-10-27-12",
+  "tipo": "STORY",
+  "quando": "2026-10-27T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-27-12.jpg"
+  ],
+  "titulo": "A semente vazia",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-27-12.jpg"
  },
  {
   "id": "contos-d05_noite-car",
@@ -469,6 +505,16 @@
   "alt": "Conto ilustrado em papel recortado: A borboleta"
  },
  {
+  "id": "st4-2026-10-27-17",
+  "tipo": "STORY",
+  "quando": "2026-10-27T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-27-17.jpg"
+  ],
+  "titulo": "A borboleta",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-27-17.jpg"
+ },
+ {
   "id": "contos-d05_noite-reel",
   "tipo": "REEL",
   "quando": "2026-10-27T19:00:00-03:00",
@@ -485,6 +531,26 @@
   "alt": "Conto ilustrado em papel recortado: O beija-flor e o incêndio"
  },
  {
+  "id": "st4-2026-10-27-21",
+  "tipo": "STORY",
+  "quando": "2026-10-27T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-27-21.jpg"
+  ],
+  "titulo": "O carvalho e o junco",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-27-21.jpg"
+ },
+ {
+  "id": "st4-2026-10-28-08",
+  "tipo": "STORY",
+  "quando": "2026-10-28T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-28-08.jpg"
+  ],
+  "titulo": "O beija-flor e o incêndio",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-28-08.jpg"
+ },
+ {
   "id": "contos-d06_manha-reel",
   "tipo": "REEL",
   "quando": "2026-10-28T10:00:00-03:00",
@@ -499,6 +565,32 @@
   "titulo": "O lenhador e o machado",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O lenhador e o machado"
+ },
+ {
+  "id": "c4-2026-10-28-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-28T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-10-28-12_reel_cae2a0f6.mp4"
+  ],
+  "legenda": "O tigre e o morango: No meio do aperto, aproveite o que hoje tem de bom.\n\nUm homem andava pelo campo quando um tigre apareceu e correu atrás dele.\n\n📜 parábola zen, tradição budista\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-28-12-reel.jpg",
+  "titulo": "O tigre e o morango",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O tigre e o morango"
+ },
+ {
+  "id": "st4-2026-10-28-12",
+  "tipo": "STORY",
+  "quando": "2026-10-28T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-28-12.jpg"
+  ],
+  "titulo": "O tigre e o morango",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-28-12.jpg"
  },
  {
   "id": "contos-d06_noite-car",
@@ -548,6 +640,16 @@
   "alt": "Conto ilustrado em papel recortado: O leão e o rato"
  },
  {
+  "id": "st4-2026-10-28-17",
+  "tipo": "STORY",
+  "quando": "2026-10-28T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-28-17.jpg"
+  ],
+  "titulo": "O leão e o rato",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-28-17.jpg"
+ },
+ {
   "id": "contos-d06_noite-reel",
   "tipo": "REEL",
   "quando": "2026-10-28T19:00:00-03:00",
@@ -564,6 +666,26 @@
   "alt": "Conto ilustrado em papel recortado: O sábio e o escorpião"
  },
  {
+  "id": "st4-2026-10-28-21",
+  "tipo": "STORY",
+  "quando": "2026-10-28T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-28-21.jpg"
+  ],
+  "titulo": "O lenhador e o machado",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-28-21.jpg"
+ },
+ {
+  "id": "st4-2026-10-29-08",
+  "tipo": "STORY",
+  "quando": "2026-10-29T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-29-08.jpg"
+  ],
+  "titulo": "O sábio e o escorpião",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-29-08.jpg"
+ },
+ {
   "id": "contos-d07_manha-reel",
   "tipo": "REEL",
   "quando": "2026-10-29T10:00:00-03:00",
@@ -578,6 +700,32 @@
   "titulo": "A pedra no caminho",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A pedra no caminho"
+ },
+ {
+  "id": "c4-2026-10-29-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-29T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-10-29-12_reel_a27bfe47.mp4"
+  ],
+  "legenda": "A trouxa de problemas: Não inveje a vida dos outros. Você dá conta da sua.\n\nNuma aldeia, todo mundo reclamava da própria vida.\n\n📜 conto tradicional judaico\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-29-12-reel.jpg",
+  "titulo": "A trouxa de problemas",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A trouxa de problemas"
+ },
+ {
+  "id": "st4-2026-10-29-12",
+  "tipo": "STORY",
+  "quando": "2026-10-29T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-29-12.jpg"
+  ],
+  "titulo": "A trouxa de problemas",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-29-12.jpg"
  },
  {
   "id": "contos-d07_noite-car",
@@ -623,6 +771,16 @@
   "alt": "Conto ilustrado em papel recortado: Os pregos na cerca"
  },
  {
+  "id": "st4-2026-10-29-17",
+  "tipo": "STORY",
+  "quando": "2026-10-29T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-29-17.jpg"
+  ],
+  "titulo": "Os pregos na cerca",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-29-17.jpg"
+ },
+ {
   "id": "contos-d07_noite-reel",
   "tipo": "REEL",
   "quando": "2026-10-29T19:00:00-03:00",
@@ -637,6 +795,68 @@
   "titulo": "O eco",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O eco"
+ },
+ {
+  "id": "st4-2026-10-29-21",
+  "tipo": "STORY",
+  "quando": "2026-10-29T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-29-21.jpg"
+  ],
+  "titulo": "A pedra no caminho",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-29-21.jpg"
+ },
+ {
+  "id": "st4-2026-10-30-08",
+  "tipo": "STORY",
+  "quando": "2026-10-30T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-30-08.jpg"
+  ],
+  "titulo": "O eco",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-30-08.jpg"
+ },
+ {
+  "id": "c4-2026-10-30-10-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-30T10:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-10-30-10_reel_d38e4d64.mp4"
+  ],
+  "legenda": "O toque de ouro: Dinheiro não abraça. Dê valor a quem você ama.\n\nO rei Midas amava o ouro mais do que tudo.\n\n📜 mito grego do rei Midas; a filha entra na versão de Nathaniel Hawthorne, 1852\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-30-10-reel.jpg",
+  "titulo": "O toque de ouro",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: O toque de ouro"
+ },
+ {
+  "id": "c4-2026-10-30-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-30T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-10-30-12_reel_856aa23a.mp4"
+  ],
+  "legenda": "As colheres compridas: Ajude quem está do seu lado. Quem dá, também recebe.\n\nUm homem pediu para ver o inferno e o céu.\n\n📜 conto popular, tradição judaica\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-30-12-reel.jpg",
+  "titulo": "As colheres compridas",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: As colheres compridas"
+ },
+ {
+  "id": "st4-2026-10-30-12",
+  "tipo": "STORY",
+  "quando": "2026-10-30T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-30-12.jpg"
+  ],
+  "titulo": "As colheres compridas",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-30-12.jpg"
  },
  {
   "id": "contos-d07_tarde-reel",
@@ -655,6 +875,52 @@
   "alt": "Conto ilustrado em papel recortado: A vaquinha"
  },
  {
+  "id": "st4-2026-10-30-17",
+  "tipo": "STORY",
+  "quando": "2026-10-30T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-30-17.jpg"
+  ],
+  "titulo": "A vaquinha",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-30-17.jpg"
+ },
+ {
+  "id": "c4-2026-10-30-19-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-30T19:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-10-30-19_reel_13c966dd.mp4"
+  ],
+  "legenda": "Vivo ou morto: Sua vida está nas suas mãos. Escolha o que fazer com ela.\n\nNuma aldeia, vivia um velho sábio que sabia responder tudo.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-30-19-reel.jpg",
+  "titulo": "Vivo ou morto",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Vivo ou morto"
+ },
+ {
+  "id": "st4-2026-10-30-21",
+  "tipo": "STORY",
+  "quando": "2026-10-30T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-30-21.jpg"
+  ],
+  "titulo": "O toque de ouro",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-30-21.jpg"
+ },
+ {
+  "id": "st4-2026-10-31-08",
+  "tipo": "STORY",
+  "quando": "2026-10-31T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-31-08.jpg"
+  ],
+  "titulo": "Vivo ou morto",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-31-08.jpg"
+ },
+ {
   "id": "s2-d08_manha-reel",
   "tipo": "REEL",
   "quando": "2026-10-31T10:00:00-03:00",
@@ -669,6 +935,32 @@
   "titulo": "O corvo e o jarro",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O corvo e o jarro"
+ },
+ {
+  "id": "c4-2026-10-31-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-10-31T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-10-31-12_reel_8a449119.mp4"
+  ],
+  "legenda": "Os dois irmãos: Cuide da sua família sem esperar nada em troca.\n\nDois irmãos plantavam juntos e dividiam a colheita meio a meio.\n\n📜 lenda judaica, registrada por Lamartine em 1835\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-31-12-reel.jpg",
+  "titulo": "Os dois irmãos",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Os dois irmãos"
+ },
+ {
+  "id": "st4-2026-10-31-12",
+  "tipo": "STORY",
+  "quando": "2026-10-31T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-31-12.jpg"
+  ],
+  "titulo": "Os dois irmãos",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-31-12.jpg"
  },
  {
   "id": "s2-d08_noite-car",
@@ -716,6 +1008,16 @@
   "alt": "Conto ilustrado em papel recortado: O vaso rachado"
  },
  {
+  "id": "st4-2026-10-31-17",
+  "tipo": "STORY",
+  "quando": "2026-10-31T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-31-17.jpg"
+  ],
+  "titulo": "O vaso rachado",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-31-17.jpg"
+ },
+ {
   "id": "s2-d08_noite-reel",
   "tipo": "REEL",
   "quando": "2026-10-31T19:00:00-03:00",
@@ -732,6 +1034,26 @@
   "alt": "Conto ilustrado em papel recortado: O ladrão e a lua"
  },
  {
+  "id": "st4-2026-10-31-21",
+  "tipo": "STORY",
+  "quando": "2026-10-31T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-10-31-21.jpg"
+  ],
+  "titulo": "O corvo e o jarro",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-10-31-21.jpg"
+ },
+ {
+  "id": "st4-2026-11-01-08",
+  "tipo": "STORY",
+  "quando": "2026-11-01T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-01-08.jpg"
+  ],
+  "titulo": "O ladrão e a lua",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-01-08.jpg"
+ },
+ {
   "id": "s2-d09_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-01T10:00:00-03:00",
@@ -746,6 +1068,32 @@
   "titulo": "O rato do campo e o rato da cidade",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O rato do campo e o rato da cidade"
+ },
+ {
+  "id": "c4-2026-11-01-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-01T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-11-01-12_reel_8308b39b.mp4"
+  ],
+  "legenda": "A xícara cheia: Quem acha que já sabe tudo parou de aprender.\n\nUm homem foi aprender com um mestre, mas só falava do que já sabia.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-01-12-reel.jpg",
+  "titulo": "A xícara cheia",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A xícara cheia"
+ },
+ {
+  "id": "st4-2026-11-01-12",
+  "tipo": "STORY",
+  "quando": "2026-11-01T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-01-12.jpg"
+  ],
+  "titulo": "A xícara cheia",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-01-12.jpg"
  },
  {
   "id": "s2-d09_noite-car",
@@ -793,6 +1141,16 @@
   "alt": "Conto ilustrado em papel recortado: O vento e o sol"
  },
  {
+  "id": "st4-2026-11-01-17",
+  "tipo": "STORY",
+  "quando": "2026-11-01T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-01-17.jpg"
+  ],
+  "titulo": "O vento e o sol",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-01-17.jpg"
+ },
+ {
   "id": "s2-d09_noite-reel",
   "tipo": "REEL",
   "quando": "2026-11-01T19:00:00-03:00",
@@ -809,6 +1167,26 @@
   "alt": "Conto ilustrado em papel recortado: O macaco e o crocodilo"
  },
  {
+  "id": "st4-2026-11-01-21",
+  "tipo": "STORY",
+  "quando": "2026-11-01T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-01-21.jpg"
+  ],
+  "titulo": "O rato do campo e o rato da cidade",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-01-21.jpg"
+ },
+ {
+  "id": "st4-2026-11-02-08",
+  "tipo": "STORY",
+  "quando": "2026-11-02T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-02-08.jpg"
+  ],
+  "titulo": "O macaco e o crocodilo",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-02-08.jpg"
+ },
+ {
   "id": "s2-d10_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-02T10:00:00-03:00",
@@ -823,6 +1201,32 @@
   "titulo": "O velho, o menino e o burro",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O velho, o menino e o burro"
+ },
+ {
+  "id": "c4-2026-11-02-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-02T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-11-02-12_reel_95e420a3.mp4"
+  ],
+  "legenda": "Os diamantes do quintal: Dê valor ao que você já tem. A riqueza pode estar perto.\n\nAli Hafed era um fazendeiro feliz.\n\n📜 conto persa contado por Russell Conwell, 1890\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-02-12-reel.jpg",
+  "titulo": "Os diamantes do quintal",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Os diamantes do quintal"
+ },
+ {
+  "id": "st4-2026-11-02-12",
+  "tipo": "STORY",
+  "quando": "2026-11-02T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-02-12.jpg"
+  ],
+  "titulo": "Os diamantes do quintal",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-02-12.jpg"
  },
  {
   "id": "s2-d10_noite-car",
@@ -870,6 +1274,16 @@
   "alt": "Conto ilustrado em papel recortado: A pitada de sal"
  },
  {
+  "id": "st4-2026-11-02-17",
+  "tipo": "STORY",
+  "quando": "2026-11-02T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-02-17.jpg"
+  ],
+  "titulo": "A pitada de sal",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-02-17.jpg"
+ },
+ {
   "id": "s2-d10_noite-reel",
   "tipo": "REEL",
   "quando": "2026-11-02T19:00:00-03:00",
@@ -886,6 +1300,26 @@
   "alt": "Conto ilustrado em papel recortado: A semente de mostarda"
  },
  {
+  "id": "st4-2026-11-02-21",
+  "tipo": "STORY",
+  "quando": "2026-11-02T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-02-21.jpg"
+  ],
+  "titulo": "O velho, o menino e o burro",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-02-21.jpg"
+ },
+ {
+  "id": "st4-2026-11-03-08",
+  "tipo": "STORY",
+  "quando": "2026-11-03T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-03-08.jpg"
+  ],
+  "titulo": "A semente de mostarda",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-03-08.jpg"
+ },
+ {
   "id": "s2-d11_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-03T10:00:00-03:00",
@@ -900,6 +1334,32 @@
   "titulo": "O feixe de varas",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O feixe de varas"
+ },
+ {
+  "id": "c4-2026-11-03-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-03T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-11-03-12_reel_d173f377.mp4"
+  ],
+  "legenda": "Coma, casaco!: Não julgue ninguém pela roupa. Trate todos com respeito.\n\nNasrudin foi convidado para uma festa.\n\n📜 história de Nasrudin, tradição turca\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-03-12-reel.jpg",
+  "titulo": "Coma, casaco!",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: Coma, casaco!"
+ },
+ {
+  "id": "st4-2026-11-03-12",
+  "tipo": "STORY",
+  "quando": "2026-11-03T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-03-12.jpg"
+  ],
+  "titulo": "Coma, casaco!",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-03-12.jpg"
  },
  {
   "id": "s2-d11_noite-car",
@@ -947,6 +1407,16 @@
   "alt": "Conto ilustrado em papel recortado: As três peneiras"
  },
  {
+  "id": "st4-2026-11-03-17",
+  "tipo": "STORY",
+  "quando": "2026-11-03T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-03-17.jpg"
+  ],
+  "titulo": "As três peneiras",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-03-17.jpg"
+ },
+ {
   "id": "s2-d11_noite-reel",
   "tipo": "REEL",
   "quando": "2026-11-03T19:00:00-03:00",
@@ -963,6 +1433,26 @@
   "alt": "Conto ilustrado em papel recortado: O presente recusado"
  },
  {
+  "id": "st4-2026-11-03-21",
+  "tipo": "STORY",
+  "quando": "2026-11-03T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-03-21.jpg"
+  ],
+  "titulo": "O feixe de varas",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-03-21.jpg"
+ },
+ {
+  "id": "st4-2026-11-04-08",
+  "tipo": "STORY",
+  "quando": "2026-11-04T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-04-08.jpg"
+  ],
+  "titulo": "O presente recusado",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-04-08.jpg"
+ },
+ {
   "id": "s2-d12_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-04T10:00:00-03:00",
@@ -977,6 +1467,32 @@
   "titulo": "O patinho feio",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O patinho feio"
+ },
+ {
+  "id": "c4-2026-11-04-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-04T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-11-04-12_reel_71715a41.mp4"
+  ],
+  "legenda": "A casa do carpinteiro: Faça tudo bem feito. É a sua vida que você está construindo.\n\nUm carpinteiro trabalhou a vida inteira para o mesmo patrão.\n\n📜 história popular, autor desconhecido\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-04-12-reel.jpg",
+  "titulo": "A casa do carpinteiro",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A casa do carpinteiro"
+ },
+ {
+  "id": "st4-2026-11-04-12",
+  "tipo": "STORY",
+  "quando": "2026-11-04T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-04-12.jpg"
+  ],
+  "titulo": "A casa do carpinteiro",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-04-12.jpg"
  },
  {
   "id": "s2-d12_noite-car",
@@ -1024,6 +1540,16 @@
   "alt": "Conto ilustrado em papel recortado: O rei e o falcão"
  },
  {
+  "id": "st4-2026-11-04-17",
+  "tipo": "STORY",
+  "quando": "2026-11-04T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-04-17.jpg"
+  ],
+  "titulo": "O rei e o falcão",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-04-17.jpg"
+ },
+ {
   "id": "s2-d12_noite-reel",
   "tipo": "REEL",
   "quando": "2026-11-04T19:00:00-03:00",
@@ -1040,6 +1566,26 @@
   "alt": "Conto ilustrado em papel recortado: Isto também passará"
  },
  {
+  "id": "st4-2026-11-04-21",
+  "tipo": "STORY",
+  "quando": "2026-11-04T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-04-21.jpg"
+  ],
+  "titulo": "O patinho feio",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-04-21.jpg"
+ },
+ {
+  "id": "st4-2026-11-05-08",
+  "tipo": "STORY",
+  "quando": "2026-11-05T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-05-08.jpg"
+  ],
+  "titulo": "Isto também passará",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-05-08.jpg"
+ },
+ {
   "id": "s2-d13_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-05T10:00:00-03:00",
@@ -1054,6 +1600,32 @@
   "titulo": "As três perguntas",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: As três perguntas"
+ },
+ {
+  "id": "c4-2026-11-05-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-05T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-11-05-12_reel_ff26787f.mp4"
+  ],
+  "legenda": "A lebre e a tartaruga: A pressa é inimiga da perfeição. Constância sempre ganha.\n\nA lebre riu da tartaruga e apostou uma corrida.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-05-12-reel.jpg",
+  "titulo": "A lebre e a tartaruga",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A lebre e a tartaruga"
+ },
+ {
+  "id": "st4-2026-11-05-12",
+  "tipo": "STORY",
+  "quando": "2026-11-05T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-05-12.jpg"
+  ],
+  "titulo": "A lebre e a tartaruga",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-05-12.jpg"
  },
  {
   "id": "s2-d13_noite-car",
@@ -1101,6 +1673,16 @@
   "alt": "Conto ilustrado em papel recortado: A roupa nova do rei"
  },
  {
+  "id": "st4-2026-11-05-17",
+  "tipo": "STORY",
+  "quando": "2026-11-05T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-05-17.jpg"
+  ],
+  "titulo": "A roupa nova do rei",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-05-17.jpg"
+ },
+ {
   "id": "s2-d13_noite-reel",
   "tipo": "REEL",
   "quando": "2026-11-05T19:00:00-03:00",
@@ -1117,6 +1699,26 @@
   "alt": "Conto ilustrado em papel recortado: Os dois lobos"
  },
  {
+  "id": "st4-2026-11-05-21",
+  "tipo": "STORY",
+  "quando": "2026-11-05T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-05-21.jpg"
+  ],
+  "titulo": "As três perguntas",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-05-21.jpg"
+ },
+ {
+  "id": "st4-2026-11-06-08",
+  "tipo": "STORY",
+  "quando": "2026-11-06T08:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-06-08.jpg"
+  ],
+  "titulo": "Os dois lobos",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-06-08.jpg"
+ },
+ {
   "id": "s2-d14_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-06T10:00:00-03:00",
@@ -1131,6 +1733,32 @@
   "titulo": "Os músicos de Bremen",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: Os músicos de Bremen"
+ },
+ {
+  "id": "c4-2026-11-06-12-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-06T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/c4-2026-11-06-12_reel_63fb8595.mp4"
+  ],
+  "legenda": "A galinha dos ovos de ouro: Tenha paciência. Quem quer tudo de uma vez perde até o que tem.\n\nUm casal pobre tinha uma galinha diferente.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-06-12-reel.jpg",
+  "titulo": "A galinha dos ovos de ouro",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A galinha dos ovos de ouro"
+ },
+ {
+  "id": "st4-2026-11-06-12",
+  "tipo": "STORY",
+  "quando": "2026-11-06T12:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-06-12.jpg"
+  ],
+  "titulo": "A galinha dos ovos de ouro",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-06-12.jpg"
  },
  {
   "id": "s2-d14_noite-car",
@@ -1178,6 +1806,16 @@
   "alt": "Conto ilustrado em papel recortado: A sopa de pedra"
  },
  {
+  "id": "st4-2026-11-06-17",
+  "tipo": "STORY",
+  "quando": "2026-11-06T17:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-06-17.jpg"
+  ],
+  "titulo": "A sopa de pedra",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-06-17.jpg"
+ },
+ {
   "id": "s2-d14_noite-reel",
   "tipo": "REEL",
   "quando": "2026-11-06T19:00:00-03:00",
@@ -1192,5 +1830,15 @@
   "titulo": "O avô e o netinho",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O avô e o netinho"
+ },
+ {
+  "id": "st4-2026-11-06-21",
+  "tipo": "STORY",
+  "quando": "2026-11-06T21:00:00-03:00",
+  "midia": [
+   "midia/semana2/stories/st4-2026-11-06-21.jpg"
+  ],
+  "titulo": "Os músicos de Bremen",
+  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-06-21.jpg"
  }
 ]
