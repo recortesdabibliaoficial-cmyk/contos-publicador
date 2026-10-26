@@ -401,14 +401,14 @@
     "total_interactions": 1
    },
    "contos-d02_manha-reel": {
-    "reach": 1813,
-    "views": 2869,
+    "reach": 1818,
+    "views": 2875,
     "likes": 26,
     "comments": 0,
     "saved": 9,
     "shares": 7,
     "total_interactions": 46,
-    "ig_reels_avg_watch_time": 10260,
+    "ig_reels_avg_watch_time": 10263,
     "reels_skip_rate": 46.2
    },
    "contos-d02_manha-car": {
@@ -422,14 +422,14 @@
    },
    "contos-d01_tarde-reel": {
     "reach": 1122,
-    "views": 1827,
+    "views": 1828,
     "likes": 33,
     "comments": 0,
     "saved": 4,
     "shares": 2,
     "total_interactions": 41,
-    "ig_reels_avg_watch_time": 10751,
-    "reels_skip_rate": 44.3
+    "ig_reels_avg_watch_time": 10742,
+    "reels_skip_rate": 44.4
    },
    "contos-d02_noite-reel": {
     "reach": 142,
@@ -483,15 +483,15 @@
     "reels_skip_rate": 61.1
    },
    "contos-d03_noite-reel": {
-    "reach": 122,
-    "views": 169,
-    "likes": 2,
+    "reach": 125,
+    "views": 176,
+    "likes": 3,
     "comments": 0,
     "saved": 0,
     "shares": 1,
-    "total_interactions": 3,
-    "ig_reels_avg_watch_time": 7557,
-    "reels_skip_rate": 68
+    "total_interactions": 4,
+    "ig_reels_avg_watch_time": 7534,
+    "reels_skip_rate": 67.2
    },
    "contos-d03_noite-car": {
     "reach": 2,
@@ -503,15 +503,15 @@
     "total_interactions": 1
    },
    "contos-d04_manha-reel": {
-    "reach": 53,
-    "views": 108,
+    "reach": 104,
+    "views": 163,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 5883,
-    "reels_skip_rate": 52.7
+    "ig_reels_avg_watch_time": 8178,
+    "reels_skip_rate": 63.3
    },
    "contos-d04_manha-car": {
     "reach": 0,
@@ -521,8 +521,19 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
+   },
+   "contos-d03_tarde-reel": {
+    "reach": 0,
+    "views": 9,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 0,
+    "reels_skip_rate": 0
    }
   },
-  "em": "2026-10-26T11:35-03:00"
+  "em": "2026-10-26T16:44-03:00"
  }
 }
