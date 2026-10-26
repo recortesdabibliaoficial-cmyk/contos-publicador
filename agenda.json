@@ -466,13 +466,13 @@
   "tipo": "CARROSSEL",
   "quando": "2026-10-27T12:01:00-03:00",
   "midia": [
-   "midia/semana1/d05_noite_c01.jpg",
-   "midia/semana1/d05_noite_c02.jpg",
-   "midia/semana1/d05_noite_c03.jpg",
-   "midia/semana1/d05_noite_c04.jpg",
-   "midia/semana1/d05_noite_c05.jpg",
-   "midia/semana1/d05_noite_c06.jpg",
-   "midia/semana1/d05_noite_c07.jpg"
+   "midia/semana2/cor-contos-d05_noite_c01.jpg",
+   "midia/semana2/cor-contos-d05_noite_c02.jpg",
+   "midia/semana2/cor-contos-d05_noite_c03.jpg",
+   "midia/semana2/cor-contos-d05_noite_c04.jpg",
+   "midia/semana2/cor-contos-d05_noite_c05.jpg",
+   "midia/semana2/cor-contos-d05_noite_c06.jpg",
+   "midia/semana2/cor-contos-d05_noite_c07.jpg"
   ],
   "legenda": "O beija-flor e o incêndio: Faça a sua parte. Mesmo que pareça pouco.\n\nUm dia, a floresta pegou fogo.\n\n📜 lenda indígena da América do Sul\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
@@ -555,7 +555,7 @@
   "tipo": "REEL",
   "quando": "2026-10-28T10:00:00-03:00",
   "midia": [
-   "midia/semana1/d06_manha_reel_b39f5b11.mp4"
+   "midia/semana2/cor-contos-d06_manha_c2bbf283.mp4"
   ],
   "legenda": "O lenhador e o machado: Descanse sem culpa. Quem para um pouco rende mais.\n\nDois lenhadores apostaram quem cortaria mais árvores num dia.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -597,15 +597,15 @@
   "tipo": "CARROSSEL",
   "quando": "2026-10-28T12:01:00-03:00",
   "midia": [
-   "midia/semana2/esc_d06_noite_c01.jpg",
-   "midia/semana2/esc_d06_noite_c02.jpg",
-   "midia/semana2/esc_d06_noite_c03.jpg",
-   "midia/semana2/esc_d06_noite_c04.jpg",
-   "midia/semana2/esc_d06_noite_c05.jpg",
-   "midia/semana2/esc_d06_noite_c06.jpg",
-   "midia/semana2/esc_d06_noite_c07.jpg",
-   "midia/semana2/esc_d06_noite_c08.jpg",
-   "midia/semana2/esc_d06_noite_c09.jpg"
+   "midia/semana2/cor-contos-d06_noite_c01.jpg",
+   "midia/semana2/cor-contos-d06_noite_c02.jpg",
+   "midia/semana2/cor-contos-d06_noite_c03.jpg",
+   "midia/semana2/cor-contos-d06_noite_c04.jpg",
+   "midia/semana2/cor-contos-d06_noite_c05.jpg",
+   "midia/semana2/cor-contos-d06_noite_c06.jpg",
+   "midia/semana2/cor-contos-d06_noite_c07.jpg",
+   "midia/semana2/cor-contos-d06_noite_c08.jpg",
+   "midia/semana2/cor-contos-d06_noite_c09.jpg"
   ],
   "legenda": "O sábio e o escorpião: Não deixe a maldade dos outros mudar quem você é.\n\nUm sábio se banhava no rio quando viu um escorpião se afogando.\n\n📜 tradição indiana\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
@@ -732,13 +732,13 @@
   "tipo": "CARROSSEL",
   "quando": "2026-10-29T12:01:00-03:00",
   "midia": [
-   "midia/semana1/d07_noite_c01.jpg",
-   "midia/semana1/d07_noite_c02.jpg",
-   "midia/semana1/d07_noite_c03.jpg",
-   "midia/semana1/d07_noite_c04.jpg",
-   "midia/semana1/d07_noite_c05.jpg",
-   "midia/semana1/d07_noite_c06.jpg",
-   "midia/semana1/d07_noite_c07.jpg"
+   "midia/semana2/cor-contos-d07_noite_c01.jpg",
+   "midia/semana2/cor-contos-d07_noite_c02.jpg",
+   "midia/semana2/cor-contos-d07_noite_c03.jpg",
+   "midia/semana2/cor-contos-d07_noite_c04.jpg",
+   "midia/semana2/cor-contos-d07_noite_c05.jpg",
+   "midia/semana2/cor-contos-d07_noite_c06.jpg",
+   "midia/semana2/cor-contos-d07_noite_c07.jpg"
   ],
   "legenda": "O eco: O que você fala volta para você.\n\nUm menino passeava com o pai na montanha.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
@@ -925,7 +925,7 @@
   "tipo": "REEL",
   "quando": "2026-10-31T10:00:00-03:00",
   "midia": [
-   "midia/semana2/d08_manha_reel_1be6ab1c.mp4"
+   "midia/semana2/cor-s2-d08_manha_60f16902.mp4"
   ],
   "legenda": "O corvo e o jarro: Quem não desiste sempre encontra um jeito.\n\nFazia um calor enorme.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -967,14 +967,14 @@
   "tipo": "CARROSSEL",
   "quando": "2026-10-31T12:01:00-03:00",
   "midia": [
-   "midia/semana2/s2-d08_noite_c01.jpg",
-   "midia/semana2/s2-d08_noite_c02.jpg",
-   "midia/semana2/s2-d08_noite_c03.jpg",
-   "midia/semana2/s2-d08_noite_c04.jpg",
-   "midia/semana2/s2-d08_noite_c05.jpg",
-   "midia/semana2/s2-d08_noite_c06.jpg",
-   "midia/semana2/s2-d08_noite_c07.jpg",
-   "midia/semana2/s2-d08_noite_c08.jpg"
+   "midia/semana2/cor-s2-d08_noite_c01.jpg",
+   "midia/semana2/cor-s2-d08_noite_c02.jpg",
+   "midia/semana2/cor-s2-d08_noite_c03.jpg",
+   "midia/semana2/cor-s2-d08_noite_c04.jpg",
+   "midia/semana2/cor-s2-d08_noite_c05.jpg",
+   "midia/semana2/cor-s2-d08_noite_c06.jpg",
+   "midia/semana2/cor-s2-d08_noite_c07.jpg",
+   "midia/semana2/cor-s2-d08_noite_c08.jpg"
   ],
   "legenda": "O ladrão e a lua: As coisas mais bonitas da vida ninguém consegue roubar.\n\nRyokan era um monge zen que morava numa cabana pobre, no pé de uma montanha.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
@@ -1100,14 +1100,14 @@
   "tipo": "CARROSSEL",
   "quando": "2026-11-01T12:01:00-03:00",
   "midia": [
-   "midia/semana2/s2-d09_noite_c01.jpg",
-   "midia/semana2/s2-d09_noite_c02.jpg",
-   "midia/semana2/s2-d09_noite_c03.jpg",
-   "midia/semana2/s2-d09_noite_c04.jpg",
-   "midia/semana2/s2-d09_noite_c05.jpg",
-   "midia/semana2/s2-d09_noite_c06.jpg",
-   "midia/semana2/s2-d09_noite_c07.jpg",
-   "midia/semana2/s2-d09_noite_c08.jpg"
+   "midia/semana2/cor-s2-d09_noite_c01.jpg",
+   "midia/semana2/cor-s2-d09_noite_c02.jpg",
+   "midia/semana2/cor-s2-d09_noite_c03.jpg",
+   "midia/semana2/cor-s2-d09_noite_c04.jpg",
+   "midia/semana2/cor-s2-d09_noite_c05.jpg",
+   "midia/semana2/cor-s2-d09_noite_c06.jpg",
+   "midia/semana2/cor-s2-d09_noite_c07.jpg",
+   "midia/semana2/cor-s2-d09_noite_c08.jpg"
   ],
   "legenda": "O macaco e o crocodilo: Na hora do aperto, cabeça fria salva.\n\nUm macaco morava numa árvore na beira do rio e ficou amigo de um crocodilo.\n\n📜 Panchatantra, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
@@ -1191,7 +1191,7 @@
   "tipo": "REEL",
   "quando": "2026-11-02T10:00:00-03:00",
   "midia": [
-   "midia/semana2/d10_manha_reel_6ff0e553.mp4"
+   "midia/semana2/cor-s2-d10_manha_4830b628.mp4"
   ],
   "legenda": "O velho, o menino e o burro: Quem vive para agradar todo mundo não agrada ninguém.\n\nUm velho e o filho levavam o burro para vender na feira.\n\n📜 fábula popular, recontada por La Fontaine\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1233,14 +1233,14 @@
   "tipo": "CARROSSEL",
   "quando": "2026-11-02T12:01:00-03:00",
   "midia": [
-   "midia/semana2/s2-d10_noite_c01.jpg",
-   "midia/semana2/s2-d10_noite_c02.jpg",
-   "midia/semana2/s2-d10_noite_c03.jpg",
-   "midia/semana2/s2-d10_noite_c04.jpg",
-   "midia/semana2/s2-d10_noite_c05.jpg",
-   "midia/semana2/s2-d10_noite_c06.jpg",
-   "midia/semana2/s2-d10_noite_c07.jpg",
-   "midia/semana2/s2-d10_noite_c08.jpg"
+   "midia/semana2/cor-s2-d10_noite_c01.jpg",
+   "midia/semana2/cor-s2-d10_noite_c02.jpg",
+   "midia/semana2/cor-s2-d10_noite_c03.jpg",
+   "midia/semana2/cor-s2-d10_noite_c04.jpg",
+   "midia/semana2/cor-s2-d10_noite_c05.jpg",
+   "midia/semana2/cor-s2-d10_noite_c06.jpg",
+   "midia/semana2/cor-s2-d10_noite_c07.jpg",
+   "midia/semana2/cor-s2-d10_noite_c08.jpg"
   ],
   "legenda": "A semente de mostarda: Toda casa já chorou alguém. Ninguém sofre sozinho.\n\nKisa Gotami perdeu o filho pequeno.\n\n📜 conto budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
@@ -1366,14 +1366,14 @@
   "tipo": "CARROSSEL",
   "quando": "2026-11-03T12:01:00-03:00",
   "midia": [
-   "midia/semana2/s2-d11_noite_c01.jpg",
-   "midia/semana2/s2-d11_noite_c02.jpg",
-   "midia/semana2/s2-d11_noite_c03.jpg",
-   "midia/semana2/s2-d11_noite_c04.jpg",
-   "midia/semana2/s2-d11_noite_c05.jpg",
-   "midia/semana2/s2-d11_noite_c06.jpg",
-   "midia/semana2/s2-d11_noite_c07.jpg",
-   "midia/semana2/s2-d11_noite_c08.jpg"
+   "midia/semana2/cor-s2-d11_noite_c01.jpg",
+   "midia/semana2/cor-s2-d11_noite_c02.jpg",
+   "midia/semana2/cor-s2-d11_noite_c03.jpg",
+   "midia/semana2/cor-s2-d11_noite_c04.jpg",
+   "midia/semana2/cor-s2-d11_noite_c05.jpg",
+   "midia/semana2/cor-s2-d11_noite_c06.jpg",
+   "midia/semana2/cor-s2-d11_noite_c07.jpg",
+   "midia/semana2/cor-s2-d11_noite_c08.jpg"
   ],
   "legenda": "O presente recusado: Ofensa que você não aceita volta para quem mandou.\n\nUm homem, cheio de raiva, foi até Buda e o xingou de tudo o que é nome, na frente de todos.\n\n📜 ensinamento budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
@@ -1457,7 +1457,7 @@
   "tipo": "REEL",
   "quando": "2026-11-04T10:00:00-03:00",
   "midia": [
-   "midia/semana2/d12_manha_reel_68aa729b.mp4"
+   "midia/semana2/cor-s2-d12_manha_a56c4130.mp4"
   ],
   "legenda": "O patinho feio: Não é você. É o lugar.\n\nNum ninho de patos, nasceu um filhote diferente.\n\n📜 Hans Christian Andersen\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1499,14 +1499,14 @@
   "tipo": "CARROSSEL",
   "quando": "2026-11-04T12:01:00-03:00",
   "midia": [
-   "midia/semana2/s2-d12_noite_c01.jpg",
-   "midia/semana2/s2-d12_noite_c02.jpg",
-   "midia/semana2/s2-d12_noite_c03.jpg",
-   "midia/semana2/s2-d12_noite_c04.jpg",
-   "midia/semana2/s2-d12_noite_c05.jpg",
-   "midia/semana2/s2-d12_noite_c06.jpg",
-   "midia/semana2/s2-d12_noite_c07.jpg",
-   "midia/semana2/s2-d12_noite_c08.jpg"
+   "midia/semana2/cor-s2-d12_noite_c01.jpg",
+   "midia/semana2/cor-s2-d12_noite_c02.jpg",
+   "midia/semana2/cor-s2-d12_noite_c03.jpg",
+   "midia/semana2/cor-s2-d12_noite_c04.jpg",
+   "midia/semana2/cor-s2-d12_noite_c05.jpg",
+   "midia/semana2/cor-s2-d12_noite_c06.jpg",
+   "midia/semana2/cor-s2-d12_noite_c07.jpg",
+   "midia/semana2/cor-s2-d12_noite_c08.jpg"
   ],
   "legenda": "Isto também passará: Nenhuma dor dura para sempre. Nem a sua.\n\nUm rei pediu aos sábios um anel que servisse para todos os dias da vida.\n\n📜 lenda popular persa\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
@@ -1632,14 +1632,14 @@
   "tipo": "CARROSSEL",
   "quando": "2026-11-05T12:01:00-03:00",
   "midia": [
-   "midia/semana2/s2-d13_noite_c01.jpg",
-   "midia/semana2/s2-d13_noite_c02.jpg",
-   "midia/semana2/s2-d13_noite_c03.jpg",
-   "midia/semana2/s2-d13_noite_c04.jpg",
-   "midia/semana2/s2-d13_noite_c05.jpg",
-   "midia/semana2/s2-d13_noite_c06.jpg",
-   "midia/semana2/s2-d13_noite_c07.jpg",
-   "midia/semana2/s2-d13_noite_c08.jpg"
+   "midia/semana2/cor-s2-d13_noite_c01.jpg",
+   "midia/semana2/cor-s2-d13_noite_c02.jpg",
+   "midia/semana2/cor-s2-d13_noite_c03.jpg",
+   "midia/semana2/cor-s2-d13_noite_c04.jpg",
+   "midia/semana2/cor-s2-d13_noite_c05.jpg",
+   "midia/semana2/cor-s2-d13_noite_c06.jpg",
+   "midia/semana2/cor-s2-d13_noite_c07.jpg",
+   "midia/semana2/cor-s2-d13_noite_c08.jpg"
   ],
   "legenda": "Os dois lobos: Cuide do que você alimenta por dentro. É isso que cresce.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
@@ -1723,7 +1723,7 @@
   "tipo": "REEL",
   "quando": "2026-11-06T10:00:00-03:00",
   "midia": [
-   "midia/semana2/d14_manha_reel_48ec8195.mp4"
+   "midia/semana2/cor-s2-d14_manha_ea966b93.mp4"
   ],
   "legenda": "Os músicos de Bremen: Nunca é tarde para recomeçar. Ainda mais com amigos.\n\nUm burro trabalhou a vida inteira.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1765,14 +1765,14 @@
   "tipo": "CARROSSEL",
   "quando": "2026-11-06T12:01:00-03:00",
   "midia": [
-   "midia/semana2/s2-d14_noite_c01.jpg",
-   "midia/semana2/s2-d14_noite_c02.jpg",
-   "midia/semana2/s2-d14_noite_c03.jpg",
-   "midia/semana2/s2-d14_noite_c04.jpg",
-   "midia/semana2/s2-d14_noite_c05.jpg",
-   "midia/semana2/s2-d14_noite_c06.jpg",
-   "midia/semana2/s2-d14_noite_c07.jpg",
-   "midia/semana2/s2-d14_noite_c08.jpg"
+   "midia/semana2/cor-s2-d14_noite_c01.jpg",
+   "midia/semana2/cor-s2-d14_noite_c02.jpg",
+   "midia/semana2/cor-s2-d14_noite_c03.jpg",
+   "midia/semana2/cor-s2-d14_noite_c04.jpg",
+   "midia/semana2/cor-s2-d14_noite_c05.jpg",
+   "midia/semana2/cor-s2-d14_noite_c06.jpg",
+   "midia/semana2/cor-s2-d14_noite_c07.jpg",
+   "midia/semana2/cor-s2-d14_noite_c08.jpg"
   ],
   "legenda": "O avô e o netinho: Trate bem os mais velhos. Os pequenos estão olhando.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
