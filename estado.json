@@ -1,5 +1,5 @@
 {
- "_comentarios_em": "2026-10-27T11:35:34.390920+00:00",
+ "_comentarios_em": "2026-10-27T13:40:34.799901+00:00",
  "_token_renovado_em": "2026-10-23T17:52:42.763947+00:00",
  "contos-d01_manha-reel": {
   "tentativas": 0,
@@ -128,7 +128,6 @@
   "em": "2026-10-26T20:01:13.373918+00:00",
   "link": "https://www.instagram.com/reel/De-F2_uD25z/"
  },
- "_comentarios_erro": "18176353453459665/comments: {'message': \"Unsupported get request. Object with ID '18176353453459665' does not exist, cannot be loaded due to missing permissions, or does not support this operation\", 'type': 'IGApiException', 'code': 100, 'error_subcode': 33, 'fbtrace_id': 'Ap9cBW0cE64P0uVQTV_agQ8'}",
  "contos-d04_noite-reel": {
   "tentativas": 0,
   "status": "publicado",
