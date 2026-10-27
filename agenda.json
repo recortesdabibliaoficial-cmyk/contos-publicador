@@ -13,7 +13,8 @@
   "miniatura": "midia/miniaturas/contos-d01_manha-reel.jpg",
   "titulo": "O vaso rachado",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O vaso rachado"
+  "alt": "Conto ilustrado em papel recortado: O vaso rachado",
+  "gancho": "Todo dia, ele chegava pela metade."
  },
  {
   "id": "contos-d01_manha-car",
@@ -58,7 +59,8 @@
   "miniatura": "midia/miniaturas/contos-d01_noite-reel.jpg",
   "titulo": "A pitada de sal",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A pitada de sal"
+  "alt": "Conto ilustrado em papel recortado: A pitada de sal",
+  "gancho": "Um punhado de sal, um copo e um lago."
  },
  {
   "id": "contos-d01_noite-car",
@@ -101,7 +103,8 @@
   "miniatura": "midia/miniaturas/contos-d02_manha-reel.jpg",
   "titulo": "A xícara cheia",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A xícara cheia"
+  "alt": "Conto ilustrado em papel recortado: A xícara cheia",
+  "gancho": "Ele foi aprender, mas só sabia falar."
  },
  {
   "id": "contos-d02_manha-car",
@@ -144,7 +147,8 @@
   "miniatura": "midia/miniaturas/contos-d01_tarde-reel.jpg",
   "titulo": "A lebre e a tartaruga",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A lebre e a tartaruga"
+  "alt": "Conto ilustrado em papel recortado: A lebre e a tartaruga",
+  "gancho": "A mais rápida perdeu a corrida."
  },
  {
   "id": "contos-d02_noite-reel",
@@ -160,7 +164,8 @@
   "miniatura": "midia/miniaturas/contos-d02_noite-reel.jpg",
   "titulo": "A janela do hospital",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A janela do hospital"
+  "alt": "Conto ilustrado em papel recortado: A janela do hospital",
+  "gancho": "O homem da janela guardava um segredo."
  },
  {
   "id": "contos-d02_noite-car",
@@ -203,7 +208,8 @@
   "miniatura": "midia/miniaturas/contos-d03_manha-reel.jpg",
   "titulo": "Talvez sim, talvez não",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Talvez sim, talvez não"
+  "alt": "Conto ilustrado em papel recortado: Talvez sim, talvez não",
+  "gancho": "Que azar! Será mesmo?"
  },
  {
   "id": "contos-d03_manha-car",
@@ -246,7 +252,8 @@
   "miniatura": "midia/miniaturas/contos-d02_tarde-reel.jpg",
   "titulo": "O passarinho que não voava",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O passarinho que não voava"
+  "alt": "Conto ilustrado em papel recortado: O passarinho que não voava",
+  "gancho": "Um dia, todo filho precisa voar."
  },
  {
   "id": "contos-d03_noite-reel",
@@ -262,7 +269,8 @@
   "miniatura": "midia/miniaturas/contos-d03_noite-reel.jpg",
   "titulo": "A árvore do avô",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A árvore do avô"
+  "alt": "Conto ilustrado em papel recortado: A árvore do avô",
+  "gancho": "Ele plantou uma árvore que nunca veria crescer."
  },
  {
   "id": "contos-d03_noite-car",
@@ -305,7 +313,8 @@
   "miniatura": "midia/miniaturas/contos-d04_manha-reel.jpg",
   "titulo": "Os dois monges e o rio",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os dois monges e o rio"
+  "alt": "Conto ilustrado em papel recortado: Os dois monges e o rio",
+  "gancho": "Ele largou no rio. O outro carregou por horas."
  },
  {
   "id": "contos-d04_manha-car",
@@ -348,7 +357,8 @@
   "miniatura": "midia/miniaturas/contos-d03_tarde-reel.jpg",
   "titulo": "A raposa e as uvas",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A raposa e as uvas"
+  "alt": "Conto ilustrado em papel recortado: A raposa e as uvas",
+  "gancho": "\"Estavam verdes. Nem queria mesmo.\""
  },
  {
   "id": "contos-extra-2026-10-26-burro",
@@ -364,7 +374,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-extra-burro-reel.jpg",
   "titulo": "O burro no poço",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O burro no poço"
+  "alt": "Conto ilustrado em papel recortado: O burro no poço",
+  "gancho": "Todos desistiram dele. Até o dono."
  },
  {
   "id": "contos-d04_noite-reel",
@@ -380,7 +391,8 @@
   "miniatura": "midia/miniaturas/contos-d04_noite-reel.jpg",
   "titulo": "Os sapos no buraco",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os sapos no buraco"
+  "alt": "Conto ilustrado em papel recortado: Os sapos no buraco",
+  "gancho": "Todos gritavam: desista. Ele não ouviu."
  },
  {
   "id": "contos-d04_noite-car",
@@ -433,7 +445,8 @@
   "miniatura": "midia/miniaturas/contos-d05_manha-reel.jpg",
   "titulo": "O carvalho e o junco",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O carvalho e o junco"
+  "alt": "Conto ilustrado em papel recortado: O carvalho e o junco",
+  "gancho": "Ele tinha orgulho de nunca se dobrar."
  },
  {
   "id": "c4-2026-10-27-12-reel",
@@ -449,7 +462,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-27-12-reel.jpg",
   "titulo": "A semente vazia",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A semente vazia"
+  "alt": "Conto ilustrado em papel recortado: A semente vazia",
+  "gancho": "O vaso dele ficou vazio. Ele levou assim mesmo."
  },
  {
   "id": "st4-2026-10-27-12",
@@ -502,7 +516,8 @@
   "miniatura": "midia/miniaturas/contos-d04_tarde-reel.jpg",
   "titulo": "A borboleta",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A borboleta"
+  "alt": "Conto ilustrado em papel recortado: A borboleta",
+  "gancho": "Ver quem a gente ama sofrendo dói."
  },
  {
   "id": "st4-2026-10-27-17",
@@ -528,7 +543,8 @@
   "miniatura": "midia/miniaturas/contos-d05_noite-reel.jpg",
   "titulo": "O beija-flor e o incêndio",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O beija-flor e o incêndio"
+  "alt": "Conto ilustrado em papel recortado: O beija-flor e o incêndio",
+  "gancho": "Todos fugiram do fogo. Ele voou para dentro."
  },
  {
   "id": "st4-2026-10-27-21",
@@ -564,7 +580,8 @@
   "miniatura": "midia/miniaturas/contos-d06_manha-reel.jpg",
   "titulo": "O lenhador e o machado",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O lenhador e o machado"
+  "alt": "Conto ilustrado em papel recortado: O lenhador e o machado",
+  "gancho": "Um nunca parava. O outro parava toda hora."
  },
  {
   "id": "c4-2026-10-28-12-reel",
@@ -580,7 +597,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-28-12-reel.jpg",
   "titulo": "O tigre e o morango",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O tigre e o morango"
+  "alt": "Conto ilustrado em papel recortado: O tigre e o morango",
+  "gancho": "Preso num penhasco, ele viu um morango."
  },
  {
   "id": "st4-2026-10-28-12",
@@ -637,7 +655,8 @@
   "miniatura": "midia/miniaturas/contos-d05_tarde-reel.jpg",
   "titulo": "O leão e o rato",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O leão e o rato"
+  "alt": "Conto ilustrado em papel recortado: O leão e o rato",
+  "gancho": "Ninguém acreditou na promessa do ratinho."
  },
  {
   "id": "st4-2026-10-28-17",
@@ -663,7 +682,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-d06_noite-reel.jpg",
   "titulo": "O sábio e o escorpião",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O sábio e o escorpião"
+  "alt": "Conto ilustrado em papel recortado: O sábio e o escorpião",
+  "gancho": "Por que ajudar quem só machuca?"
  },
  {
   "id": "st4-2026-10-28-21",
@@ -699,7 +719,8 @@
   "miniatura": "midia/miniaturas/contos-d07_manha-reel.jpg",
   "titulo": "A pedra no caminho",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A pedra no caminho"
+  "alt": "Conto ilustrado em papel recortado: A pedra no caminho",
+  "gancho": "Todo mundo desviou. Só um parou."
  },
  {
   "id": "c4-2026-10-29-12-reel",
@@ -715,7 +736,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-29-12-reel.jpg",
   "titulo": "A trouxa de problemas",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A trouxa de problemas"
+  "alt": "Conto ilustrado em papel recortado: A trouxa de problemas",
+  "gancho": "E se você pudesse trocar de problema?"
  },
  {
   "id": "st4-2026-10-29-12",
@@ -768,7 +790,8 @@
   "miniatura": "midia/miniaturas/contos-d06_tarde-reel.jpg",
   "titulo": "Os pregos na cerca",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os pregos na cerca"
+  "alt": "Conto ilustrado em papel recortado: Os pregos na cerca",
+  "gancho": "Ele explodia por qualquer coisa. Depois, se arrependia."
  },
  {
   "id": "st4-2026-10-29-17",
@@ -794,7 +817,8 @@
   "miniatura": "midia/miniaturas/contos-d07_noite-reel.jpg",
   "titulo": "O eco",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O eco"
+  "alt": "Conto ilustrado em papel recortado: O eco",
+  "gancho": "Alguém na montanha gritava de volta."
  },
  {
   "id": "st4-2026-10-29-21",
@@ -830,7 +854,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-30-10-reel.jpg",
   "titulo": "O toque de ouro",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O toque de ouro"
+  "alt": "Conto ilustrado em papel recortado: O toque de ouro",
+  "gancho": "Tudo o que ele tocava virava ouro."
  },
  {
   "id": "c4-2026-10-30-12-reel",
@@ -846,7 +871,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-30-12-reel.jpg",
   "titulo": "As colheres compridas",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: As colheres compridas"
+  "alt": "Conto ilustrado em papel recortado: As colheres compridas",
+  "gancho": "Comida farta, e todos passavam fome."
  },
  {
   "id": "st4-2026-10-30-12",
@@ -872,7 +898,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-d07_tarde-reel.jpg",
   "titulo": "A vaquinha",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A vaquinha"
+  "alt": "Conto ilustrado em papel recortado: A vaquinha",
+  "gancho": "Uma família inteira vivia de uma vaquinha."
  },
  {
   "id": "st4-2026-10-30-17",
@@ -898,7 +925,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-30-19-reel.jpg",
   "titulo": "Vivo ou morto",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Vivo ou morto"
+  "alt": "Conto ilustrado em papel recortado: Vivo ou morto",
+  "gancho": "Um passarinho na mão. E uma pergunta difícil."
  },
  {
   "id": "st4-2026-10-30-21",
@@ -934,7 +962,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d08_manha-reel.jpg",
   "titulo": "O corvo e o jarro",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O corvo e o jarro"
+  "alt": "Conto ilustrado em papel recortado: O corvo e o jarro",
+  "gancho": "A água estava ali, mas ele não alcançava."
  },
  {
   "id": "c4-2026-10-31-12-reel",
@@ -950,7 +979,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-10-31-12-reel.jpg",
   "titulo": "Os dois irmãos",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os dois irmãos"
+  "alt": "Conto ilustrado em papel recortado: Os dois irmãos",
+  "gancho": "Toda manhã, o trigo continuava igual. Por quê?"
  },
  {
   "id": "st4-2026-10-31-12",
@@ -1005,7 +1035,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d08_tarde-reel.jpg",
   "titulo": "O vaso rachado",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O vaso rachado"
+  "alt": "Conto ilustrado em papel recortado: O vaso rachado",
+  "gancho": "Todo dia, ele chegava pela metade."
  },
  {
   "id": "st4-2026-10-31-17",
@@ -1031,7 +1062,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d08_noite-reel.jpg",
   "titulo": "O ladrão e a lua",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O ladrão e a lua"
+  "alt": "Conto ilustrado em papel recortado: O ladrão e a lua",
+  "gancho": "O ladrão entrou, e não havia nada para levar."
  },
  {
   "id": "st4-2026-10-31-21",
@@ -1067,7 +1099,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d09_manha-reel.jpg",
   "titulo": "O rato do campo e o rato da cidade",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O rato do campo e o rato da cidade"
+  "alt": "Conto ilustrado em papel recortado: O rato do campo e o rato da cidade",
+  "gancho": "Um tinha pouco. O outro tinha de tudo."
  },
  {
   "id": "c4-2026-11-01-12-reel",
@@ -1083,7 +1116,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-01-12-reel.jpg",
   "titulo": "A xícara cheia",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A xícara cheia"
+  "alt": "Conto ilustrado em papel recortado: A xícara cheia",
+  "gancho": "Ele foi aprender, mas só sabia falar."
  },
  {
   "id": "st4-2026-11-01-12",
@@ -1138,7 +1172,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d09_tarde-reel.jpg",
   "titulo": "O vento e o sol",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O vento e o sol"
+  "alt": "Conto ilustrado em papel recortado: O vento e o sol",
+  "gancho": "O vento e o sol apostaram um casaco."
  },
  {
   "id": "st4-2026-11-01-17",
@@ -1164,7 +1199,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d09_noite-reel.jpg",
   "titulo": "O macaco e o crocodilo",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O macaco e o crocodilo"
+  "alt": "Conto ilustrado em papel recortado: O macaco e o crocodilo",
+  "gancho": "No meio do rio, ele descobriu a armadilha."
  },
  {
   "id": "st4-2026-11-01-21",
@@ -1200,7 +1236,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d10_manha-reel.jpg",
   "titulo": "O velho, o menino e o burro",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O velho, o menino e o burro"
+  "alt": "Conto ilustrado em papel recortado: O velho, o menino e o burro",
+  "gancho": "Ele mudou tudo para agradar os outros."
  },
  {
   "id": "c4-2026-11-02-12-reel",
@@ -1216,7 +1253,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-02-12-reel.jpg",
   "titulo": "Os diamantes do quintal",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os diamantes do quintal"
+  "alt": "Conto ilustrado em papel recortado: Os diamantes do quintal",
+  "gancho": "Ele correu o mundo atrás de diamantes."
  },
  {
   "id": "st4-2026-11-02-12",
@@ -1271,7 +1309,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d10_tarde-reel.jpg",
   "titulo": "A pitada de sal",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A pitada de sal"
+  "alt": "Conto ilustrado em papel recortado: A pitada de sal",
+  "gancho": "Um punhado de sal, um copo e um lago."
  },
  {
   "id": "st4-2026-11-02-17",
@@ -1297,7 +1336,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d10_noite-reel.jpg",
   "titulo": "A semente de mostarda",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A semente de mostarda"
+  "alt": "Conto ilustrado em papel recortado: A semente de mostarda",
+  "gancho": "Ela bateu em todas as portas da cidade."
  },
  {
   "id": "st4-2026-11-02-21",
@@ -1333,7 +1373,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d11_manha-reel.jpg",
   "titulo": "O feixe de varas",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O feixe de varas"
+  "alt": "Conto ilustrado em papel recortado: O feixe de varas",
+  "gancho": "Os filhos brigavam. O pai pegou umas varas."
  },
  {
   "id": "c4-2026-11-03-12-reel",
@@ -1349,7 +1390,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-03-12-reel.jpg",
   "titulo": "Coma, casaco!",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Coma, casaco!"
+  "alt": "Conto ilustrado em papel recortado: Coma, casaco!",
+  "gancho": "Ninguém olhou para ele na festa."
  },
  {
   "id": "st4-2026-11-03-12",
@@ -1404,7 +1446,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d11_tarde-reel.jpg",
   "titulo": "As três peneiras",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: As três peneiras"
+  "alt": "Conto ilustrado em papel recortado: As três peneiras",
+  "gancho": "Ele chegou correndo com uma fofoca."
  },
  {
   "id": "st4-2026-11-03-17",
@@ -1430,7 +1473,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d11_noite-reel.jpg",
   "titulo": "O presente recusado",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O presente recusado"
+  "alt": "Conto ilustrado em papel recortado: O presente recusado",
+  "gancho": "Ele xingou Buda na frente de todos."
  },
  {
   "id": "st4-2026-11-03-21",
@@ -1466,7 +1510,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d12_manha-reel.jpg",
   "titulo": "O patinho feio",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O patinho feio"
+  "alt": "Conto ilustrado em papel recortado: O patinho feio",
+  "gancho": "Todos riam dele. Ninguém sabia quem ele era."
  },
  {
   "id": "c4-2026-11-04-12-reel",
@@ -1482,7 +1527,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-04-12-reel.jpg",
   "titulo": "A casa do carpinteiro",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A casa do carpinteiro"
+  "alt": "Conto ilustrado em papel recortado: A casa do carpinteiro",
+  "gancho": "Era a última casa antes de se aposentar."
  },
  {
   "id": "st4-2026-11-04-12",
@@ -1537,7 +1583,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d12_tarde-reel.jpg",
   "titulo": "O rei e o falcão",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O rei e o falcão"
+  "alt": "Conto ilustrado em papel recortado: O rei e o falcão",
+  "gancho": "O falcão derrubou a água três vezes."
  },
  {
   "id": "st4-2026-11-04-17",
@@ -1563,7 +1610,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d12_noite-reel.jpg",
   "titulo": "Isto também passará",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Isto também passará"
+  "alt": "Conto ilustrado em papel recortado: Isto também passará",
+  "gancho": "Três palavras num anel mudaram um rei."
  },
  {
   "id": "st4-2026-11-04-21",
@@ -1599,7 +1647,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d13_manha-reel.jpg",
   "titulo": "As três perguntas",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: As três perguntas"
+  "alt": "Conto ilustrado em papel recortado: As três perguntas",
+  "gancho": "Um rei queria três respostas para a vida."
  },
  {
   "id": "c4-2026-11-05-12-reel",
@@ -1615,7 +1664,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-05-12-reel.jpg",
   "titulo": "A lebre e a tartaruga",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A lebre e a tartaruga"
+  "alt": "Conto ilustrado em papel recortado: A lebre e a tartaruga",
+  "gancho": "A mais rápida perdeu a corrida."
  },
  {
   "id": "st4-2026-11-05-12",
@@ -1670,7 +1720,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d13_tarde-reel.jpg",
   "titulo": "A roupa nova do rei",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A roupa nova do rei"
+  "alt": "Conto ilustrado em papel recortado: A roupa nova do rei",
+  "gancho": "Todos viram. Ninguém teve coragem de falar."
  },
  {
   "id": "st4-2026-11-05-17",
@@ -1696,7 +1747,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d13_noite-reel.jpg",
   "titulo": "Os dois lobos",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os dois lobos"
+  "alt": "Conto ilustrado em papel recortado: Os dois lobos",
+  "gancho": "Existe uma briga dentro de você."
  },
  {
   "id": "st4-2026-11-05-21",
@@ -1732,7 +1784,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d14_manha-reel.jpg",
   "titulo": "Os músicos de Bremen",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os músicos de Bremen"
+  "alt": "Conto ilustrado em papel recortado: Os músicos de Bremen",
+  "gancho": "Ninguém queria mais os quatro bichos velhos."
  },
  {
   "id": "c4-2026-11-06-12-reel",
@@ -1748,7 +1801,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-06-12-reel.jpg",
   "titulo": "A galinha dos ovos de ouro",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A galinha dos ovos de ouro"
+  "alt": "Conto ilustrado em papel recortado: A galinha dos ovos de ouro",
+  "gancho": "Todo dia, um ovo de ouro. Não bastou."
  },
  {
   "id": "st4-2026-11-06-12",
@@ -1803,7 +1857,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d14_tarde-reel.jpg",
   "titulo": "A sopa de pedra",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A sopa de pedra"
+  "alt": "Conto ilustrado em papel recortado: A sopa de pedra",
+  "gancho": "Ninguém deu comida. Ele pegou uma pedra."
  },
  {
   "id": "st4-2026-11-06-17",
@@ -1829,7 +1884,8 @@
   "miniatura": "midia/semana2/miniaturas/contos-s2-d14_noite-reel.jpg",
   "titulo": "O avô e o netinho",
   "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O avô e o netinho"
+  "alt": "Conto ilustrado em papel recortado: O avô e o netinho",
+  "gancho": "O menino fazia uma tigela de madeira."
  },
  {
   "id": "st4-2026-11-06-21",
