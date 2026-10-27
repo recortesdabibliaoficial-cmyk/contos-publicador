@@ -541,7 +541,7 @@
     "saved": 1,
     "shares": 0,
     "total_interactions": 3,
-    "ig_reels_avg_watch_time": 11284,
+    "ig_reels_avg_watch_time": 11206,
     "reels_skip_rate": 50.4
    },
    "contos-d04_noite-reel": {
@@ -552,7 +552,7 @@
     "saved": 0,
     "shares": 3,
     "total_interactions": 6,
-    "ig_reels_avg_watch_time": 26549,
+    "ig_reels_avg_watch_time": 26560,
     "reels_skip_rate": 48.1
    },
    "contos-d04_noite-car": {
@@ -565,6 +565,28 @@
     "total_interactions": 0
    }
   },
-  "em": "2026-10-26T23:26-03:00"
+  "em": "2026-10-26T23:30-03:00",
+  "conta": {
+   "reach": 400,
+   "views": 611,
+   "accounts_engaged": 9,
+   "total_interactions": 16,
+   "profile_views": 3
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "FOLLOWER": 4,
+    "NON_FOLLOWER": 395
+   },
+   "views:follow_type": {
+    "UNKNOWN": 3,
+    "FOLLOWER": 29,
+    "NON_FOLLOWER": 579
+   },
+   "views:media_product_type": {
+    "REEL": 608,
+    "CAROUSEL_CONTAINER": 3
+   }
+  }
  }
 }
