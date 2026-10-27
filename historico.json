@@ -541,19 +541,19 @@
     "saved": 1,
     "shares": 0,
     "total_interactions": 3,
-    "ig_reels_avg_watch_time": 11267,
+    "ig_reels_avg_watch_time": 11284,
     "reels_skip_rate": 50.4
    },
    "contos-d04_noite-reel": {
-    "reach": 2,
-    "views": 38,
-    "likes": 1,
+    "reach": 124,
+    "views": 222,
+    "likes": 2,
     "comments": 0,
     "saved": 0,
-    "shares": 0,
-    "total_interactions": 1,
-    "ig_reels_avg_watch_time": 21372,
-    "reels_skip_rate": 0
+    "shares": 3,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 26925,
+    "reels_skip_rate": 46.9
    },
    "contos-d04_noite-car": {
     "reach": 0,
@@ -565,6 +565,6 @@
     "total_interactions": 0
    }
   },
-  "em": "2026-10-26T20:41-03:00"
+  "em": "2026-10-26T22:26-03:00"
  }
 }
