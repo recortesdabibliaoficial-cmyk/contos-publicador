@@ -1,0 +1,150 @@
+{
+ "contos-d02_manha-reel": {
+  "publicado": "2026-10-24T13:01:03.523997+00:00",
+  "pontos": [
+   {
+    "reach": 1820,
+    "views": 2877,
+    "likes": 26,
+    "shares": 7,
+    "saved": 9,
+    "reels_skip_rate": 46.2,
+    "ig_reels_avg_watch_time": 10249,
+    "t": "2026-10-27T11:50+00:00",
+    "h": 70.82
+   }
+  ]
+ },
+ "contos-d01_tarde-reel": {
+  "publicado": "2026-10-24T19:01:07.554239+00:00",
+  "pontos": [
+   {
+    "reach": 1122,
+    "views": 1828,
+    "likes": 33,
+    "shares": 2,
+    "saved": 4,
+    "reels_skip_rate": 44.4,
+    "ig_reels_avg_watch_time": 10726,
+    "t": "2026-10-27T11:50+00:00",
+    "h": 64.82
+   }
+  ]
+ },
+ "contos-d02_noite-reel": {
+  "publicado": "2026-10-24T23:02:06.691056+00:00",
+  "pontos": [
+   {
+    "reach": 143,
+    "views": 248,
+    "likes": 7,
+    "shares": 1,
+    "saved": 0,
+    "reels_skip_rate": 44.8,
+    "ig_reels_avg_watch_time": 11126,
+    "t": "2026-10-27T11:50+00:00",
+    "h": 60.81
+   }
+  ]
+ },
+ "contos-d03_manha-reel": {
+  "publicado": "2026-10-25T13:01:05.684280+00:00",
+  "pontos": [
+   {
+    "reach": 20,
+    "views": 29,
+    "likes": 1,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 57.1,
+    "ig_reels_avg_watch_time": 6386,
+    "t": "2026-10-27T11:50+00:00",
+    "h": 46.82
+   }
+  ]
+ },
+ "contos-d02_tarde-reel": {
+  "publicado": "2026-10-25T19:01:03.267436+00:00",
+  "pontos": [
+   {
+    "reach": 106,
+    "views": 141,
+    "likes": 2,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 60.6,
+    "ig_reels_avg_watch_time": 5345,
+    "t": "2026-10-27T11:50+00:00",
+    "h": 40.82
+   }
+  ]
+ },
+ "contos-d03_noite-reel": {
+  "publicado": "2026-10-25T23:01:52.826254+00:00",
+  "pontos": [
+   {
+    "reach": 127,
+    "views": 178,
+    "likes": 3,
+    "shares": 1,
+    "saved": 0,
+    "reels_skip_rate": 67.7,
+    "ig_reels_avg_watch_time": 7298,
+    "t": "2026-10-27T11:50+00:00",
+    "h": 36.81
+   }
+  ]
+ },
+ "contos-d04_manha-reel": {
+  "publicado": "2026-10-26T13:01:06.581933+00:00",
+  "pontos": [
+   {
+    "reach": 106,
+    "views": 167,
+    "likes": 1,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 64,
+    "ig_reels_avg_watch_time": 8163,
+    "t": "2026-10-27T11:50+00:00",
+    "h": 22.82
+   }
+  ]
+ },
+ "contos-d03_tarde-reel": {
+  "publicado": "2026-10-26T19:01:42.226470+00:00",
+  "pontos": []
+ },
+ "contos-extra-2026-10-26-burro": {
+  "publicado": "2026-10-26T20:01:13.373918+00:00",
+  "pontos": [
+   {
+    "reach": 131,
+    "views": 217,
+    "likes": 2,
+    "shares": 0,
+    "saved": 1,
+    "reels_skip_rate": 50.4,
+    "ig_reels_avg_watch_time": 11206,
+    "t": "2026-10-27T11:50+00:00",
+    "h": 15.82
+   }
+  ]
+ },
+ "contos-d04_noite-reel": {
+  "publicado": "2026-10-26T23:01:03.719291+00:00",
+  "pontos": [
+   {
+    "reach": 129,
+    "views": 230,
+    "likes": 2,
+    "shares": 3,
+    "saved": 0,
+    "reels_skip_rate": 48.1,
+    "ig_reels_avg_watch_time": 25852,
+    "t": "2026-10-27T11:50+00:00",
+    "h": 12.82
+   }
+  ]
+ }
+}
