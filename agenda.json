@@ -561,6 +561,50 @@
   "destaque": "Fábulas"
  },
  {
+  "id": "stu-2026-10-27-1",
+  "tipo": "STORY",
+  "quando": "2026-10-27T21:05:00-03:00",
+  "midia": [
+   "midia/semana2/stories/stu-2026-10-27-1.jpg"
+  ],
+  "titulo": "A janela do hospital",
+  "destaque": "Consolo",
+  "miniatura": "midia/semana2/miniaturas/contos-stu-2026-10-27-1.jpg"
+ },
+ {
+  "id": "stu-2026-10-27-2",
+  "tipo": "STORY",
+  "quando": "2026-10-27T21:06:00-03:00",
+  "midia": [
+   "midia/semana2/stories/stu-2026-10-27-2.jpg"
+  ],
+  "titulo": "Talvez sim, talvez não",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-stu-2026-10-27-2.jpg"
+ },
+ {
+  "id": "stu-2026-10-27-3",
+  "tipo": "STORY",
+  "quando": "2026-10-27T21:07:00-03:00",
+  "midia": [
+   "midia/semana2/stories/stu-2026-10-27-3.jpg"
+  ],
+  "titulo": "A árvore do avô",
+  "destaque": "Pais e filhos",
+  "miniatura": "midia/semana2/miniaturas/contos-stu-2026-10-27-3.jpg"
+ },
+ {
+  "id": "stu-2026-10-27-4",
+  "tipo": "STORY",
+  "quando": "2026-10-27T21:08:00-03:00",
+  "midia": [
+   "midia/semana2/stories/stu-2026-10-27-4.jpg"
+  ],
+  "titulo": "Os dois monges e o rio",
+  "destaque": "Sabedoria",
+  "miniatura": "midia/semana2/miniaturas/contos-stu-2026-10-27-4.jpg"
+ },
+ {
   "id": "st4-2026-10-28-08",
   "tipo": "STORY",
   "quando": "2026-10-28T08:00:00-03:00",
