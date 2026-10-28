@@ -538,6 +538,10 @@
   {
    "t": "2026-10-28T13:15-03:00",
    "n": 14
+  },
+  {
+   "t": "2026-10-28T14:10-03:00",
+   "n": 15
   }
  ],
  "contos-d01_manha-reel": {
@@ -838,7 +842,7 @@
    "tap_forward": 4,
    "tap_exit": 2
   },
-  "lido_em": "2026-10-28T15:06:55.772370+00:00"
+  "lido_em": "2026-10-28T17:10:39.724798+00:00"
  },
  "c4-2026-10-27-12-reel": {
   "reach": 116,
@@ -893,13 +897,13 @@
  },
  "st4-2026-10-27-21": {
   "reach": 0,
-  "views": 2,
+  "views": 3,
   "replies": 0,
   "shares": 0,
   "total_interactions": 0,
   "follows": 0,
   "profile_visits": 0,
-  "lido_em": "2026-10-28T15:06:55.772370+00:00"
+  "lido_em": "2026-10-28T17:10:39.724798+00:00"
  },
  "stu-2026-10-27-1": {
   "reach": 0,
@@ -909,7 +913,7 @@
   "total_interactions": 0,
   "follows": 0,
   "profile_visits": 0,
-  "lido_em": "2026-10-28T15:06:55.772370+00:00"
+  "lido_em": "2026-10-28T17:10:39.724798+00:00"
  },
  "stu-2026-10-27-2": {
   "reach": 0,
@@ -919,41 +923,45 @@
   "total_interactions": 0,
   "follows": 0,
   "profile_visits": 0,
-  "lido_em": "2026-10-28T15:06:55.772370+00:00"
+  "lido_em": "2026-10-28T17:10:39.724798+00:00"
  },
  "stu-2026-10-27-3": {
-  "reach": 5,
-  "views": 6,
+  "reach": 6,
+  "views": 8,
   "replies": 0,
   "shares": 0,
   "total_interactions": 0,
   "follows": 0,
   "profile_visits": 1,
   "nav": {
-   "tap_forward": 2,
-   "tap_exit": 2
+   "swipe_forward": 2,
+   "tap_exit": 2,
+   "tap_forward": 2
   },
-  "lido_em": "2026-10-28T15:06:55.772370+00:00"
+  "lido_em": "2026-10-28T17:10:39.724798+00:00"
  },
  "stu-2026-10-27-4": {
-  "reach": 0,
-  "views": 4,
+  "reach": 5,
+  "views": 5,
   "replies": 0,
   "shares": 0,
   "total_interactions": 0,
   "follows": 0,
   "profile_visits": 0,
-  "lido_em": "2026-10-28T15:06:55.772370+00:00"
+  "nav": {
+   "tap_forward": 3
+  },
+  "lido_em": "2026-10-28T17:10:39.724798+00:00"
  },
  "st4-2026-10-28-08": {
   "reach": 0,
-  "views": 4,
+  "views": 5,
   "replies": 0,
   "shares": 0,
   "total_interactions": 0,
   "follows": 0,
   "profile_visits": 0,
-  "lido_em": "2026-10-28T15:06:55.772370+00:00"
+  "lido_em": "2026-10-28T17:10:39.724798+00:00"
  },
  "contos-d06_manha-reel": {
   "reach": 22,
@@ -970,13 +978,13 @@
  },
  "st4-2026-10-28-12": {
   "reach": 0,
-  "views": 0,
+  "views": 1,
   "replies": 0,
   "shares": 0,
   "total_interactions": 0,
   "follows": 0,
   "profile_visits": 0,
-  "lido_em": "2026-10-28T15:06:55.772370+00:00"
+  "lido_em": "2026-10-28T17:10:39.724798+00:00"
  },
  "c4-2026-10-28-12-reel": {
   "reach": 0,
