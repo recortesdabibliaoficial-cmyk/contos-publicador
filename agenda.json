@@ -699,7 +699,7 @@
   "tipo": "REEL",
   "quando": "2026-10-28T17:00:00-03:00",
   "midia": [
-   "midia/semana1/d05_tarde_reel_314a4533.mp4"
+   "midia/arte3/contos-d05_tarde_a9ec58c6d.mp4"
   ],
   "legenda": "O leão e o rato: Ninguém é pequeno demais para ajudar.\n\nUm leão dormia quando um ratinho passou correndo por cima dele.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -710,7 +710,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O leão e o rato",
   "gancho": "Ninguém acreditou na promessa do ratinho.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-28-17",
@@ -728,7 +730,7 @@
   "tipo": "REEL",
   "quando": "2026-10-28T19:00:00-03:00",
   "midia": [
-   "midia/semana2/contos-d06_noite_n49631d18.mp4"
+   "midia/arte3/contos-d06_noite_aa1800f65.mp4"
   ],
   "legenda": "O sábio e o escorpião: Não deixe a maldade dos outros mudar quem você é.\n\nUm sábio se banhava no rio quando viu um escorpião se afogando.\n\n📜 tradição indiana\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -740,7 +742,9 @@
   "alt": "Conto ilustrado em papel recortado: O sábio e o escorpião",
   "gancho": "Ajudou e se machucou? Continue sendo bom.",
   "gancho_antigo": "Por que ajudar quem só machuca?",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-28-21",
