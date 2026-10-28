@@ -773,7 +773,7 @@
   "tipo": "REEL",
   "quando": "2026-10-29T10:00:00-03:00",
   "midia": [
-   "midia/semana1/d07_manha_reel_2227fffe.mp4"
+   "midia/arte3/contos-d07_manha_a7dd7d4e5.mp4"
   ],
   "legenda": "A pedra no caminho: Tire a pedra do caminho. Pode ter um presente embaixo.\n\nUm rei mandou colocar uma pedra enorme no meio da estrada.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -784,14 +784,16 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A pedra no caminho",
   "gancho": "Todo mundo desviou. Só um parou.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "c4-2026-10-29-12-reel",
   "tipo": "REEL",
   "quando": "2026-10-29T12:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-10-29-12_n4e318643.mp4"
+   "midia/arte3/c4-2026-10-29-12_a0cfe5091.mp4"
   ],
   "legenda": "A trouxa de problemas: Não inveje a vida dos outros. Você dá conta da sua.\n\nNuma aldeia, todo mundo reclamava da própria vida.\n\n📜 conto tradicional judaico\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -803,7 +805,9 @@
   "alt": "Conto ilustrado em papel recortado: A trouxa de problemas",
   "gancho": "Queria a vida de outra pessoa? Veja o que ela carrega.",
   "gancho_antigo": "E se você pudesse trocar de problema?",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-29-12",
@@ -849,7 +853,7 @@
   "tipo": "REEL",
   "quando": "2026-10-29T17:00:00-03:00",
   "midia": [
-   "midia/semana2/contos-d06_tarde_n8dc042bb.mp4"
+   "midia/arte3/contos-d06_tarde_a815065e2.mp4"
   ],
   "legenda": "Os pregos na cerca: Na raiva, cale. Desculpa não apaga a marca.\n\nUm menino tinha um gênio difícil.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -861,7 +865,9 @@
   "alt": "Conto ilustrado em papel recortado: Os pregos na cerca",
   "gancho": "Falou na raiva? O prego sai, a marca fica.",
   "gancho_antigo": "Ele explodia por qualquer coisa. Depois, se arrependia.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-29-17",
@@ -879,7 +885,7 @@
   "tipo": "REEL",
   "quando": "2026-10-29T19:00:00-03:00",
   "midia": [
-   "midia/semana1/d07_noite_reel_fdd82620.mp4"
+   "midia/arte3/contos-d07_noite_a8cb3a3c9.mp4"
   ],
   "legenda": "O eco: O que você fala volta para você.\n\nUm menino passeava com o pai na montanha.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -890,7 +896,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O eco",
   "gancho": "Alguém na montanha gritava de volta.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-29-21",
@@ -919,7 +927,7 @@
   "tipo": "REEL",
   "quando": "2026-10-30T10:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-10-30-10_n55aa6ff9.mp4"
+   "midia/arte3/c4-2026-10-30-10_afa6261e6.mp4"
   ],
   "legenda": "O toque de ouro: Dinheiro não abraça. Dê valor a quem você ama.\n\nO rei Midas amava o ouro mais do que tudo.\n\n📜 mito grego do rei Midas; a filha entra na versão de Nathaniel Hawthorne, 1852\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -931,14 +939,16 @@
   "alt": "Conto ilustrado em papel recortado: O toque de ouro",
   "gancho": "Correndo atrás de dinheiro? Ouro não abraça.",
   "gancho_antigo": "Tudo o que ele tocava virava ouro.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "c4-2026-10-30-12-reel",
   "tipo": "REEL",
   "quando": "2026-10-30T12:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-10-30-12_reel_856aa23a.mp4"
+   "midia/arte3/c4-2026-10-30-12_ab521211b.mp4"
   ],
   "legenda": "As colheres compridas: Ajude quem está do seu lado. Quem dá, também recebe.\n\nUm homem pediu para ver o inferno e o céu.\n\n📜 conto popular, tradição judaica\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -949,7 +959,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: As colheres compridas",
   "gancho": "Comida farta, e todos passavam fome.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-30-12",
@@ -967,7 +979,7 @@
   "tipo": "REEL",
   "quando": "2026-10-30T17:00:00-03:00",
   "midia": [
-   "midia/semana2/d07_tarde_reel_674cd9d1.mp4"
+   "midia/arte3/contos-d07_tarde_a4e5009f2.mp4"
   ],
   "legenda": "A vaquinha: Não se acomode com o pouco. Você é capaz de mais.\n\nUm mestre e seu aluno pararam numa casinha pobre.\n\n📜 parábola popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -978,7 +990,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A vaquinha",
   "gancho": "Uma família inteira vivia de uma vaquinha.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-30-17",
@@ -996,7 +1010,7 @@
   "tipo": "REEL",
   "quando": "2026-10-30T19:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-10-30-19_n76bba062.mp4"
+   "midia/arte3/c4-2026-10-30-19_a71f18fea.mp4"
   ],
   "legenda": "Vivo ou morto: Sua vida está nas suas mãos. Escolha o que fazer com ela.\n\nNuma aldeia, vivia um velho sábio que sabia responder tudo.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1008,7 +1022,9 @@
   "alt": "Conto ilustrado em papel recortado: Vivo ou morto",
   "gancho": "Esperando a vida mudar sozinha? Quem decide é você.",
   "gancho_antigo": "Um passarinho na mão. E uma pergunta difícil.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-30-21",
@@ -1037,7 +1053,7 @@
   "tipo": "REEL",
   "quando": "2026-10-31T10:00:00-03:00",
   "midia": [
-   "midia/semana2/cor-s2-d08_manha_60f16902.mp4"
+   "midia/arte3/s2-d08_manha_af3bba585.mp4"
   ],
   "legenda": "O corvo e o jarro: Quem não desiste sempre encontra um jeito.\n\nFazia um calor enorme.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1048,14 +1064,16 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O corvo e o jarro",
   "gancho": "A água estava ali, mas ele não alcançava.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "c4-2026-10-31-12-reel",
   "tipo": "REEL",
   "quando": "2026-10-31T12:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-10-31-12_nd9a266a6.mp4"
+   "midia/arte3/c4-2026-10-31-12_a81db1ce0.mp4"
   ],
   "legenda": "Os dois irmãos: Cuide da sua família sem esperar nada em troca.\n\nDois irmãos plantavam juntos e dividiam a colheita meio a meio.\n\n📜 lenda judaica, registrada por Lamartine em 1835\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1067,7 +1085,9 @@
   "alt": "Conto ilustrado em papel recortado: Os dois irmãos",
   "gancho": "Cuida da família em silêncio? O amor encontra o caminho.",
   "gancho_antigo": "Toda manhã, o trigo continuava igual. Por quê?",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-31-12",
@@ -1115,7 +1135,7 @@
   "tipo": "REEL",
   "quando": "2026-10-31T17:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d08_tarde_n4a4bf8e0.mp4"
+   "midia/arte3/s2-d08_tarde_aa9d4be13.mp4"
   ],
   "legenda": "O vaso rachado: Até o defeito pode dar flor.\n\nUm homem buscava água no rio todos os dias, com dois vasos pendurados numa vara.\n\n📜 conto popular indiano\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1127,7 +1147,9 @@
   "alt": "Conto ilustrado em papel recortado: O vaso rachado",
   "gancho": "Tem vergonha dos seus defeitos? Eles fazem flores nascer.",
   "gancho_antigo": "Todo dia, ele chegava pela metade.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-31-17",
@@ -1145,7 +1167,7 @@
   "tipo": "REEL",
   "quando": "2026-10-31T19:00:00-03:00",
   "midia": [
-   "midia/semana2/d08_noite_reel_a6e0e037.mp4"
+   "midia/arte3/s2-d08_noite_a59c669bf.mp4"
   ],
   "legenda": "O ladrão e a lua: As coisas mais bonitas da vida ninguém consegue roubar.\n\nRyokan era um monge zen que morava numa cabana pobre, no pé de uma montanha.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1156,7 +1178,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O ladrão e a lua",
   "gancho": "O ladrão entrou, e não havia nada para levar.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-10-31-21",
@@ -1185,7 +1209,7 @@
   "tipo": "REEL",
   "quando": "2026-11-01T10:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d09_manha_ncade2302.mp4"
+   "midia/arte3/s2-d09_manha_af6b49b98.mp4"
   ],
   "legenda": "O rato do campo e o rato da cidade: Melhor pouco com paz do que muito com medo.\n\nUm rato do campo vivia numa toca simples.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1197,14 +1221,16 @@
   "alt": "Conto ilustrado em papel recortado: O rato do campo e o rato da cidade",
   "gancho": "Acha a vida dos outros melhor? Veja o preço que pagam.",
   "gancho_antigo": "Um tinha pouco. O outro tinha de tudo.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "c4-2026-11-01-12-reel",
   "tipo": "REEL",
   "quando": "2026-11-01T12:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-11-01-12_reel_8308b39b.mp4"
+   "midia/arte3/c4-2026-11-01-12_aec5f21af.mp4"
   ],
   "legenda": "A xícara cheia: Quem acha que já sabe tudo parou de aprender.\n\nUm homem foi aprender com um mestre, mas só falava do que já sabia.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1214,7 +1240,9 @@
   "titulo": "A xícara cheia",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A xícara cheia",
-  "gancho": "Ele foi aprender, mas só sabia falar."
+  "gancho": "Ele foi aprender, mas só sabia falar.",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-01-12",
@@ -1262,7 +1290,7 @@
   "tipo": "REEL",
   "quando": "2026-11-01T17:00:00-03:00",
   "midia": [
-   "midia/semana2/d09_tarde_reel_73fa3eec.mp4"
+   "midia/arte3/s2-d09_tarde_a18cbdc97.mp4"
   ],
   "legenda": "O vento e o sol: Grito não convence. Gentileza, sim.\n\nO vento e o sol discutiam quem era o mais forte.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1273,7 +1301,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O vento e o sol",
   "gancho": "O vento e o sol apostaram um casaco.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-01-17",
@@ -1291,7 +1321,7 @@
   "tipo": "REEL",
   "quando": "2026-11-01T19:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d09_noite_nc7c34669.mp4"
+   "midia/arte3/s2-d09_noite_a8ec1af56.mp4"
   ],
   "legenda": "O macaco e o crocodilo: Na hora do aperto, cabeça fria salva.\n\nUm macaco morava numa árvore na beira do rio e ficou amigo de um crocodilo.\n\n📜 Panchatantra, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1303,7 +1333,9 @@
   "alt": "Conto ilustrado em papel recortado: O macaco e o crocodilo",
   "gancho": "Foi enganado? A calma é sua melhor amiga.",
   "gancho_antigo": "No meio do rio, ele descobriu a armadilha.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-01-21",
@@ -1332,7 +1364,7 @@
   "tipo": "REEL",
   "quando": "2026-11-02T10:00:00-03:00",
   "midia": [
-   "midia/semana2/cor-s2-d10_manha_4830b628.mp4"
+   "midia/arte3/s2-d10_manha_ad28fa831.mp4"
   ],
   "legenda": "O velho, o menino e o burro: Quem vive para agradar todo mundo não agrada ninguém.\n\nUm velho e o filho levavam o burro para vender na feira.\n\n📜 fábula popular, recontada por La Fontaine\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1343,14 +1375,16 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O velho, o menino e o burro",
   "gancho": "Ele mudou tudo para agradar os outros.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "c4-2026-11-02-12-reel",
   "tipo": "REEL",
   "quando": "2026-11-02T12:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-11-02-12_nf039089a.mp4"
+   "midia/arte3/c4-2026-11-02-12_a0dc6b953.mp4"
   ],
   "legenda": "Os diamantes do quintal: Dê valor ao que você já tem. A riqueza pode estar perto.\n\nAli Hafed era um fazendeiro feliz.\n\n📜 conto persa contado por Russell Conwell, 1890\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1362,7 +1396,9 @@
   "alt": "Conto ilustrado em papel recortado: Os diamantes do quintal",
   "gancho": "Procurando a felicidade longe? Olhe o seu quintal.",
   "gancho_antigo": "Ele correu o mundo atrás de diamantes.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-02-12",
@@ -1410,7 +1446,7 @@
   "tipo": "REEL",
   "quando": "2026-11-02T17:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d10_tarde_nbc693705.mp4"
+   "midia/arte3/s2-d10_tarde_a323a3975.mp4"
   ],
   "legenda": "A pitada de sal: A dor é a mesma. Cresça por dentro e ela pesa menos.\n\nUm jovem vivia triste.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1422,7 +1458,9 @@
   "alt": "Conto ilustrado em papel recortado: A pitada de sal",
   "gancho": "A dor está amarga demais? Vire lago, não copo.",
   "gancho_antigo": "Um punhado de sal, um copo e um lago.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-02-17",
@@ -1440,7 +1478,7 @@
   "tipo": "REEL",
   "quando": "2026-11-02T19:00:00-03:00",
   "midia": [
-   "midia/semana2/d10_noite_reel_9e4b22c4.mp4"
+   "midia/arte3/s2-d10_noite_a73febdbe.mp4"
   ],
   "legenda": "A semente de mostarda: Toda casa já chorou alguém. Ninguém sofre sozinho.\n\nKisa Gotami perdeu o filho pequeno.\n\n📜 conto budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1451,7 +1489,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A semente de mostarda",
   "gancho": "Ela bateu em todas as portas da cidade.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-02-21",
@@ -1480,7 +1520,7 @@
   "tipo": "REEL",
   "quando": "2026-11-03T10:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d11_manha_n892d3178.mp4"
+   "midia/arte3/s2-d11_manha_aaba37045.mp4"
   ],
   "legenda": "O feixe de varas: Só, a gente quebra. Junto, a gente aguenta.\n\nUm pai tinha vários filhos.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1492,14 +1532,16 @@
   "alt": "Conto ilustrado em papel recortado: O feixe de varas",
   "gancho": "Brigas em casa? Sozinho você quebra, junto aguenta.",
   "gancho_antigo": "Os filhos brigavam. O pai pegou umas varas.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "c4-2026-11-03-12-reel",
   "tipo": "REEL",
   "quando": "2026-11-03T12:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-11-03-12_reel_d173f377.mp4"
+   "midia/arte3/c4-2026-11-03-12_ac9d8b879.mp4"
   ],
   "legenda": "Coma, casaco!: Não julgue ninguém pela roupa. Trate todos com respeito.\n\nNasrudin foi convidado para uma festa.\n\n📜 história de Nasrudin, tradição turca\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1510,7 +1552,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: Coma, casaco!",
   "gancho": "Ninguém olhou para ele na festa.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-03-12",
@@ -1558,7 +1602,7 @@
   "tipo": "REEL",
   "quando": "2026-11-03T17:00:00-03:00",
   "midia": [
-   "midia/semana2/d11_tarde_reel_17090ba3.mp4"
+   "midia/arte3/s2-d11_tarde_ad97b11e2.mp4"
   ],
   "legenda": "As três peneiras: Antes de passar adiante, pergunte: é verdade, é bom, é útil?\n\nUm homem chegou correndo para falar com Sócrates:\n\n📜 atribuída a Sócrates, tradição popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1569,7 +1613,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: As três peneiras",
   "gancho": "Ele chegou correndo com uma fofoca.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-03-17",
@@ -1587,7 +1633,7 @@
   "tipo": "REEL",
   "quando": "2026-11-03T19:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d11_noite_n647df861.mp4"
+   "midia/arte3/s2-d11_noite_a56ea5723.mp4"
   ],
   "legenda": "O presente recusado: Ofensa que você não aceita volta para quem mandou.\n\nUm homem, cheio de raiva, foi até Buda e o xingou de tudo o que é nome, na frente de todos.\n\n📜 ensinamento budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1599,7 +1645,9 @@
   "alt": "Conto ilustrado em papel recortado: O presente recusado",
   "gancho": "Te ofenderam? Não receba esse presente.",
   "gancho_antigo": "Ele xingou Buda na frente de todos.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-03-21",
@@ -1628,7 +1676,7 @@
   "tipo": "REEL",
   "quando": "2026-11-04T10:00:00-03:00",
   "midia": [
-   "midia/semana2/cor-s2-d12_manha_a56c4130.mp4"
+   "midia/arte3/s2-d12_manha_ae2391574.mp4"
   ],
   "legenda": "O patinho feio: Não é você. É o lugar.\n\nNum ninho de patos, nasceu um filhote diferente.\n\n📜 Hans Christian Andersen\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1639,14 +1687,16 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O patinho feio",
   "gancho": "Todos riam dele. Ninguém sabia quem ele era.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "c4-2026-11-04-12-reel",
   "tipo": "REEL",
   "quando": "2026-11-04T12:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-11-04-12_n85555ddd.mp4"
+   "midia/arte3/c4-2026-11-04-12_a54adbdf5.mp4"
   ],
   "legenda": "A casa do carpinteiro: Faça tudo bem feito. É a sua vida que você está construindo.\n\nUm carpinteiro trabalhou a vida inteira para o mesmo patrão.\n\n📜 história popular, autor desconhecido\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1658,7 +1708,9 @@
   "alt": "Conto ilustrado em papel recortado: A casa do carpinteiro",
   "gancho": "Quem faz de má vontade pode ter uma péssima novidade.",
   "gancho_antigo": "Era a última casa antes de se aposentar.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-04-12",
@@ -1706,7 +1758,7 @@
   "tipo": "REEL",
   "quando": "2026-11-04T17:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d12_tarde_n2b6b74eb.mp4"
+   "midia/arte3/s2-d12_tarde_a014395bd.mp4"
   ],
   "legenda": "O rei e o falcão: Na raiva, não decida nada.\n\nUm rei caçava nas montanhas com seu falcão.\n\n📜 lenda popular, contada sobre Gêngis Khan\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1718,7 +1770,9 @@
   "alt": "Conto ilustrado em papel recortado: O rei e o falcão",
   "gancho": "Furioso com quem te atrapalha? Ele pode estar te salvando.",
   "gancho_antigo": "O falcão derrubou a água três vezes.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-04-17",
@@ -1736,7 +1790,7 @@
   "tipo": "REEL",
   "quando": "2026-11-04T19:00:00-03:00",
   "midia": [
-   "midia/semana2/d12_noite_reel_16026e72.mp4"
+   "midia/arte3/s2-d12_noite_a4e9ae9d1.mp4"
   ],
   "legenda": "Isto também passará: Nenhuma dor dura para sempre. Nem a sua.\n\nUm rei pediu aos sábios um anel que servisse para todos os dias da vida.\n\n📜 lenda popular persa\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1747,7 +1801,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: Isto também passará",
   "gancho": "Três palavras num anel mudaram um rei.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-04-21",
@@ -1776,7 +1832,7 @@
   "tipo": "REEL",
   "quando": "2026-11-05T10:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d13_manha_nc8aafb4b.mp4"
+   "midia/arte3/s2-d13_manha_a4d6a63d4.mp4"
   ],
   "legenda": "As três perguntas: Viva o agora. Cuide de quem está do seu lado.\n\nUm rei queria saber três coisas: a hora certa de agir, a pessoa mais importante e o que mais importa fazer.\n\n📜 Liev Tolstói, 1903\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1788,14 +1844,16 @@
   "alt": "Conto ilustrado em papel recortado: As três perguntas",
   "gancho": "Esperando o momento certo para viver? Ele já chegou.",
   "gancho_antigo": "Um rei queria três respostas para a vida.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "c4-2026-11-05-12-reel",
   "tipo": "REEL",
   "quando": "2026-11-05T12:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-11-05-12_reel_ff26787f.mp4"
+   "midia/arte3/c4-2026-11-05-12_a23b2a9d8.mp4"
   ],
   "legenda": "A lebre e a tartaruga: A pressa é inimiga da perfeição. Constância sempre ganha.\n\nA lebre riu da tartaruga e apostou uma corrida.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1805,7 +1863,9 @@
   "titulo": "A lebre e a tartaruga",
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A lebre e a tartaruga",
-  "gancho": "A mais rápida perdeu a corrida."
+  "gancho": "A mais rápida perdeu a corrida.",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-05-12",
@@ -1853,7 +1913,7 @@
   "tipo": "REEL",
   "quando": "2026-11-05T17:00:00-03:00",
   "midia": [
-   "midia/semana2/d13_tarde_reel_625b7863.mp4"
+   "midia/arte3/s2-d13_tarde_a585bc79e.mp4"
   ],
   "legenda": "A roupa nova do rei: Fale a verdade. Mesmo que ninguém fale.\n\nDois espertalhões chegaram ao reino.\n\n📜 Hans Christian Andersen\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1864,7 +1924,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: A roupa nova do rei",
   "gancho": "Todos viram. Ninguém teve coragem de falar.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-05-17",
@@ -1882,7 +1944,7 @@
   "tipo": "REEL",
   "quando": "2026-11-05T19:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d13_noite_n995208d4.mp4"
+   "midia/arte3/s2-d13_noite_adcf34a7d.mp4"
   ],
   "legenda": "Os dois lobos: Cuide do que você alimenta por dentro. É isso que cresce.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1894,7 +1956,9 @@
   "alt": "Conto ilustrado em papel recortado: Os dois lobos",
   "gancho": "Raiva e paz brigando em você? Uma delas vai vencer.",
   "gancho_antigo": "Existe uma briga dentro de você.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-05-21",
@@ -1923,7 +1987,7 @@
   "tipo": "REEL",
   "quando": "2026-11-06T10:00:00-03:00",
   "midia": [
-   "midia/semana2/cor-s2-d14_manha_ea966b93.mp4"
+   "midia/arte3/s2-d14_manha_a79bbe722.mp4"
   ],
   "legenda": "Os músicos de Bremen: Nunca é tarde para recomeçar. Ainda mais com amigos.\n\nUm burro trabalhou a vida inteira.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1934,14 +1998,16 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: Os músicos de Bremen",
   "gancho": "Ninguém queria mais os quatro bichos velhos.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "c4-2026-11-06-12-reel",
   "tipo": "REEL",
   "quando": "2026-11-06T12:00:00-03:00",
   "midia": [
-   "midia/semana2/c4-2026-11-06-12_n9d24e8aa.mp4"
+   "midia/arte3/c4-2026-11-06-12_a57b2f69b.mp4"
   ],
   "legenda": "A galinha dos ovos de ouro: Tenha paciência. Quem quer tudo de uma vez perde até o que tem.\n\nUm casal pobre tinha uma galinha diferente.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -1953,7 +2019,9 @@
   "alt": "Conto ilustrado em papel recortado: A galinha dos ovos de ouro",
   "gancho": "Quem tudo quer, tudo perde.",
   "gancho_antigo": "Todo dia, um ovo de ouro. Não bastou.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-06-12",
@@ -2001,7 +2069,7 @@
   "tipo": "REEL",
   "quando": "2026-11-06T17:00:00-03:00",
   "midia": [
-   "midia/semana2/s2-d14_tarde_n280adfba.mp4"
+   "midia/arte3/s2-d14_tarde_a294cce44.mp4"
   ],
   "legenda": "A sopa de pedra: Quando cada um dá um pouco, sobra para todos.\n\nUm viajante com fome chegou a uma aldeia.\n\n📜 conto popular português\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -2013,7 +2081,9 @@
   "alt": "Conto ilustrado em papel recortado: A sopa de pedra",
   "gancho": "Ninguém quis ajudar? Uma pedra mudou tudo.",
   "gancho_antigo": "Ninguém deu comida. Ele pegou uma pedra.",
-  "experimento": "N-A"
+  "experimento": "N-A",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-06-17",
@@ -2031,7 +2101,7 @@
   "tipo": "REEL",
   "quando": "2026-11-06T19:00:00-03:00",
   "midia": [
-   "midia/semana2/d14_noite_reel_ee7c9f70.mp4"
+   "midia/arte3/s2-d14_noite_aa1e86e0f.mp4"
   ],
   "legenda": "O avô e o netinho: Trate bem os mais velhos. Os pequenos estão olhando.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
@@ -2042,7 +2112,9 @@
   "dur": 12.0,
   "alt": "Conto ilustrado em papel recortado: O avô e o netinho",
   "gancho": "O menino fazia uma tigela de madeira.",
-  "experimento": "N-B"
+  "experimento": "N-B",
+  "arte": "nova",
+  "texto_curto": true
  },
  {
   "id": "st4-2026-11-06-21",
