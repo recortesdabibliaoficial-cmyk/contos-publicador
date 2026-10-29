@@ -2206,5 +2206,71 @@
   "titulo": "Os músicos de Bremen",
   "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-06-21.jpg",
   "destaque": "Fábulas"
+ },
+ {
+  "id": "cn-2026-10-30-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-30T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-10-30-09_01_ab93136b.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-09_02_d0133dd9.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-09_03_7bc1ce84.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-09_04_ea32282b.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-09_05_d3905844.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-09_06_e3d089b0.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-09_07_8588e5b2.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-09_08_228824de.jpg"
+  ],
+  "legenda": "Jogaram terra no poço. O burro ainda estava lá dentro.\n\nUm burro velho caiu num poço seco, e o dono decidiu enterrar os dois de uma vez.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O burro no poço. Ilustração em papel recortado.",
+   "Slide 2 de 8: O burro no poço. Ilustração em papel recortado.",
+   "Slide 3 de 8: O burro no poço. Ilustração em papel recortado.",
+   "Slide 4 de 8: O burro no poço. Ilustração em papel recortado.",
+   "Slide 5 de 8: O burro no poço. Ilustração em papel recortado.",
+   "Slide 6 de 8: O burro no poço. Ilustração em papel recortado.",
+   "Slide 7 de 8: O burro no poço. Ilustração em papel recortado.",
+   "Slide 8 de 8: O burro no poço. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-10-30-09.jpg",
+  "titulo": "O burro no poço",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "dia"
+ },
+ {
+  "id": "cn-2026-10-30-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-30T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-10-30-20_01_be434885.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-20_02_3a747600.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-20_03_7270deea.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-20_04_14e9616c.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-20_05_d0fdc2e6.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-20_06_e406bae8.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-20_07_9300ef37.jpg",
+   "midia/carrossel_novo/cn-2026-10-30-20_08_fd0cc4f8.jpg"
+  ],
+  "legenda": "Um ratinho prometeu salvar o leão. O leão riu.\n\nUm leão poupou um ratinho, que prometeu ajudá-lo um dia.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O leão e o rato. Ilustração em papel recortado.",
+   "Slide 2 de 8: O leão e o rato. Ilustração em papel recortado.",
+   "Slide 3 de 8: O leão e o rato. Ilustração em papel recortado.",
+   "Slide 4 de 8: O leão e o rato. Ilustração em papel recortado.",
+   "Slide 5 de 8: O leão e o rato. Ilustração em papel recortado.",
+   "Slide 6 de 8: O leão e o rato. Ilustração em papel recortado.",
+   "Slide 7 de 8: O leão e o rato. Ilustração em papel recortado.",
+   "Slide 8 de 8: O leão e o rato. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-10-30-20.jpg",
+  "titulo": "O leão e o rato",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "amanhecer"
  }
 ]
