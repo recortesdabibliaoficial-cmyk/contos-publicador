@@ -1284,16 +1284,16 @@
     }
    },
    "c4-2026-10-27-12-reel": {
-    "reach": 117,
+    "reach": 118,
     "views": 202,
     "likes": 5,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 5,
-    "ig_reels_avg_watch_time": 11772,
+    "ig_reels_avg_watch_time": 12542,
     "reels_skip_rate": 51.7,
-    "ig_reels_video_view_total_time": 1424464
+    "ig_reels_video_view_total_time": 1530221
    },
    "contos-d05_noite-car": {
     "reach": 3,
@@ -1450,27 +1450,27 @@
     "profile_visits": 0
    },
    "contos-d05_tarde-reel": {
-    "reach": 109,
+    "reach": 110,
     "views": 208,
     "likes": 5,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 6,
-    "ig_reels_avg_watch_time": 15003,
+    "ig_reels_avg_watch_time": 14938,
     "reels_skip_rate": 39.8,
-    "ig_reels_video_view_total_time": 1710417
+    "ig_reels_video_view_total_time": 1717892
    },
    "contos-d06_noite-reel": {
     "reach": 130,
-    "views": 222,
+    "views": 223,
     "likes": 5,
     "comments": 0,
     "saved": 0,
     "shares": 2,
     "total_interactions": 8,
     "ig_reels_avg_watch_time": 11598,
-    "reels_skip_rate": 43.3,
+    "reels_skip_rate": 43,
     "ig_reels_video_view_total_time": 1600599
    },
    "st4-2026-10-28-21": {
@@ -1483,6 +1483,56 @@
     "profile_visits": 0
    }
   },
-  "em": "2026-10-28T22:52-03:00"
+  "em": "2026-10-28T23:30-03:00",
+  "conta": {
+   "reach": 444,
+   "views": 804,
+   "accounts_engaged": 17,
+   "total_interactions": 35,
+   "profile_views": 4,
+   "likes": 24,
+   "comments": 0,
+   "saves": 4,
+   "shares": 2,
+   "replies": 0,
+   "reposts": 3,
+   "profile_links_taps": 0
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "FOLLOWER": 7,
+    "NON_FOLLOWER": 439
+   },
+   "views:follow_type": {
+    "NON_FOLLOWER": 736,
+    "FOLLOWER": 68
+   },
+   "views:media_product_type": {
+    "STORY": 29,
+    "REEL": 736,
+    "CAROUSEL_CONTAINER": 39
+   },
+   "total_interactions:media_product_type": {
+    "REEL": 25,
+    "POST": 10
+   },
+   "likes:media_product_type": {
+    "REEL": 15,
+    "POST": 9
+   },
+   "saves:media_product_type": {
+    "REEL": 3,
+    "POST": 1
+   },
+   "shares:media_product_type": {
+    "REEL": 2
+   },
+   "comments:media_product_type": {},
+   "reach:media_product_type": {
+    "CAROUSEL_CONTAINER": 6,
+    "REEL": 438,
+    "STORY": 6
+   }
+  }
  }
 }
