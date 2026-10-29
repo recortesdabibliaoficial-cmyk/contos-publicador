@@ -771,7 +771,7 @@
  {
   "id": "contos-d07_manha-reel",
   "tipo": "REEL",
-  "quando": "2026-10-29T17:00:00-03:00",
+  "quando": "2026-10-29T12:00:00-03:00",
   "midia": [
    "midia/arte3/contos-d07_manha_a7dd7d4e5.mp4"
   ],
@@ -788,12 +788,12 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-29T10:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "c4-2026-10-29-12-reel",
   "tipo": "REEL",
-  "quando": "2026-10-30T17:00:00-03:00",
+  "quando": "2026-10-29T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-10-29-12_a0cfe5091.mp4"
   ],
@@ -811,7 +811,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-29T12:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-10-29-12",
@@ -855,7 +855,7 @@
  {
   "id": "contos-d06_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-10-31T17:00:00-03:00",
+  "quando": "2026-10-30T12:00:00-03:00",
   "midia": [
    "midia/arte3/contos-d06_tarde_a815065e2.mp4"
   ],
@@ -873,7 +873,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-29T17:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-10-29-17",
@@ -889,7 +889,7 @@
  {
   "id": "contos-d07_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-11-01T17:00:00-03:00",
+  "quando": "2026-10-30T17:00:00-03:00",
   "midia": [
    "midia/arte3/contos-d07_noite_a8cb3a3c9.mp4"
   ],
@@ -906,7 +906,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-29T19:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-10-29-21",
@@ -933,7 +933,7 @@
  {
   "id": "c4-2026-10-30-10-reel",
   "tipo": "REEL",
-  "quando": "2026-11-02T17:00:00-03:00",
+  "quando": "2026-10-31T12:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-10-30-10_afa6261e6.mp4"
   ],
@@ -951,12 +951,12 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-30T10:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "c4-2026-10-30-12-reel",
   "tipo": "REEL",
-  "quando": "2026-11-03T17:00:00-03:00",
+  "quando": "2026-10-31T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-10-30-12_ab521211b.mp4"
   ],
@@ -973,7 +973,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-30T12:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-10-30-12",
@@ -989,7 +989,7 @@
  {
   "id": "contos-d07_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-11-04T17:00:00-03:00",
+  "quando": "2026-11-01T12:00:00-03:00",
   "midia": [
    "midia/arte3/contos-d07_tarde_a4e5009f2.mp4"
   ],
@@ -1006,7 +1006,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-30T17:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-10-30-17",
@@ -1022,7 +1022,7 @@
  {
   "id": "c4-2026-10-30-19-reel",
   "tipo": "REEL",
-  "quando": "2026-11-05T17:00:00-03:00",
+  "quando": "2026-11-01T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-10-30-19_a71f18fea.mp4"
   ],
@@ -1040,7 +1040,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-30T19:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-10-30-21",
@@ -1067,7 +1067,7 @@
  {
   "id": "s2-d08_manha-reel",
   "tipo": "REEL",
-  "quando": "2026-11-06T17:00:00-03:00",
+  "quando": "2026-11-02T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d08_manha_af3bba585.mp4"
   ],
@@ -1084,12 +1084,12 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-31T10:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "c4-2026-10-31-12-reel",
   "tipo": "REEL",
-  "quando": "2026-11-07T17:00:00-03:00",
+  "quando": "2026-11-02T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-10-31-12_a81db1ce0.mp4"
   ],
@@ -1107,7 +1107,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-31T12:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-10-31-12",
@@ -1153,7 +1153,7 @@
  {
   "id": "s2-d08_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-11-08T17:00:00-03:00",
+  "quando": "2026-11-03T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d08_tarde_aa9d4be13.mp4"
   ],
@@ -1171,7 +1171,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-31T17:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-10-31-17",
@@ -1187,7 +1187,7 @@
  {
   "id": "s2-d08_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-11-09T17:00:00-03:00",
+  "quando": "2026-11-03T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d08_noite_a59c669bf.mp4"
   ],
@@ -1204,7 +1204,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-10-31T19:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-10-31-21",
@@ -1231,7 +1231,7 @@
  {
   "id": "s2-d09_manha-reel",
   "tipo": "REEL",
-  "quando": "2026-11-10T17:00:00-03:00",
+  "quando": "2026-11-04T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d09_manha_af6b49b98.mp4"
   ],
@@ -1249,12 +1249,12 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-01T10:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "c4-2026-11-01-12-reel",
   "tipo": "REEL",
-  "quando": "2026-11-11T17:00:00-03:00",
+  "quando": "2026-11-04T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-11-01-12_aec5f21af.mp4"
   ],
@@ -1270,7 +1270,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-01T12:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-01-12",
@@ -1316,7 +1316,7 @@
  {
   "id": "s2-d09_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-11-12T17:00:00-03:00",
+  "quando": "2026-11-05T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d09_tarde_a18cbdc97.mp4"
   ],
@@ -1333,7 +1333,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-01T17:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-01-17",
@@ -1349,7 +1349,7 @@
  {
   "id": "s2-d09_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-11-13T17:00:00-03:00",
+  "quando": "2026-11-05T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d09_noite_a8ec1af56.mp4"
   ],
@@ -1367,7 +1367,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-01T19:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-01-21",
@@ -1394,7 +1394,7 @@
  {
   "id": "s2-d10_manha-reel",
   "tipo": "REEL",
-  "quando": "2026-11-14T17:00:00-03:00",
+  "quando": "2026-11-06T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d10_manha_ad28fa831.mp4"
   ],
@@ -1411,12 +1411,12 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-02T10:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "c4-2026-11-02-12-reel",
   "tipo": "REEL",
-  "quando": "2026-11-15T17:00:00-03:00",
+  "quando": "2026-11-06T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-11-02-12_a0dc6b953.mp4"
   ],
@@ -1434,7 +1434,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-02T12:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-02-12",
@@ -1480,7 +1480,7 @@
  {
   "id": "s2-d10_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-11-16T17:00:00-03:00",
+  "quando": "2026-11-07T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d10_tarde_a323a3975.mp4"
   ],
@@ -1498,7 +1498,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-02T17:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-02-17",
@@ -1514,7 +1514,7 @@
  {
   "id": "s2-d10_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-11-17T17:00:00-03:00",
+  "quando": "2026-11-07T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d10_noite_a73febdbe.mp4"
   ],
@@ -1531,7 +1531,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-02T19:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-02-21",
@@ -1558,7 +1558,7 @@
  {
   "id": "s2-d11_manha-reel",
   "tipo": "REEL",
-  "quando": "2026-11-18T17:00:00-03:00",
+  "quando": "2026-11-08T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d11_manha_aaba37045.mp4"
   ],
@@ -1576,12 +1576,12 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-03T10:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "c4-2026-11-03-12-reel",
   "tipo": "REEL",
-  "quando": "2026-11-19T17:00:00-03:00",
+  "quando": "2026-11-08T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-11-03-12_ac9d8b879.mp4"
   ],
@@ -1598,7 +1598,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-03T12:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-03-12",
@@ -1644,7 +1644,7 @@
  {
   "id": "s2-d11_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-11-20T17:00:00-03:00",
+  "quando": "2026-11-09T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d11_tarde_ad97b11e2.mp4"
   ],
@@ -1661,7 +1661,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-03T17:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-03-17",
@@ -1677,7 +1677,7 @@
  {
   "id": "s2-d11_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-11-21T17:00:00-03:00",
+  "quando": "2026-11-09T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d11_noite_a56ea5723.mp4"
   ],
@@ -1695,7 +1695,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-03T19:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-03-21",
@@ -1722,7 +1722,7 @@
  {
   "id": "s2-d12_manha-reel",
   "tipo": "REEL",
-  "quando": "2026-11-22T17:00:00-03:00",
+  "quando": "2026-11-10T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d12_manha_ae2391574.mp4"
   ],
@@ -1739,12 +1739,12 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-04T10:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "c4-2026-11-04-12-reel",
   "tipo": "REEL",
-  "quando": "2026-11-23T17:00:00-03:00",
+  "quando": "2026-11-10T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-11-04-12_a54adbdf5.mp4"
   ],
@@ -1762,7 +1762,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-04T12:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-04-12",
@@ -1808,7 +1808,7 @@
  {
   "id": "s2-d12_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-11-24T17:00:00-03:00",
+  "quando": "2026-11-11T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d12_tarde_a014395bd.mp4"
   ],
@@ -1826,7 +1826,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-04T17:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-04-17",
@@ -1842,7 +1842,7 @@
  {
   "id": "s2-d12_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-11-25T17:00:00-03:00",
+  "quando": "2026-11-11T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d12_noite_a4e9ae9d1.mp4"
   ],
@@ -1859,7 +1859,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-04T19:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-04-21",
@@ -1886,7 +1886,7 @@
  {
   "id": "s2-d13_manha-reel",
   "tipo": "REEL",
-  "quando": "2026-11-26T17:00:00-03:00",
+  "quando": "2026-11-12T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d13_manha_a4d6a63d4.mp4"
   ],
@@ -1904,12 +1904,12 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-05T10:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "c4-2026-11-05-12-reel",
   "tipo": "REEL",
-  "quando": "2026-11-27T17:00:00-03:00",
+  "quando": "2026-11-12T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-11-05-12_a23b2a9d8.mp4"
   ],
@@ -1925,7 +1925,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-05T12:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-05-12",
@@ -1971,7 +1971,7 @@
  {
   "id": "s2-d13_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-11-28T17:00:00-03:00",
+  "quando": "2026-11-13T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d13_tarde_a585bc79e.mp4"
   ],
@@ -1988,7 +1988,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-05T17:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-05-17",
@@ -2004,7 +2004,7 @@
  {
   "id": "s2-d13_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-11-29T17:00:00-03:00",
+  "quando": "2026-11-13T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d13_noite_adcf34a7d.mp4"
   ],
@@ -2022,7 +2022,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-05T19:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-05-21",
@@ -2049,7 +2049,7 @@
  {
   "id": "s2-d14_manha-reel",
   "tipo": "REEL",
-  "quando": "2026-11-30T17:00:00-03:00",
+  "quando": "2026-11-14T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d14_manha_a79bbe722.mp4"
   ],
@@ -2066,12 +2066,12 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-06T10:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "c4-2026-11-06-12-reel",
   "tipo": "REEL",
-  "quando": "2026-12-01T17:00:00-03:00",
+  "quando": "2026-11-14T17:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-11-06-12_a57b2f69b.mp4"
   ],
@@ -2089,7 +2089,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-06T12:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-06-12",
@@ -2135,7 +2135,7 @@
  {
   "id": "s2-d14_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-12-02T17:00:00-03:00",
+  "quando": "2026-11-15T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d14_tarde_a294cce44.mp4"
   ],
@@ -2153,7 +2153,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-06T17:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-06-17",
@@ -2169,7 +2169,7 @@
  {
   "id": "s2-d14_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-12-03T17:00:00-03:00",
+  "quando": "2026-11-15T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d14_noite_aa1e86e0f.mp4"
   ],
@@ -2186,7 +2186,7 @@
   "arte": "nova",
   "texto_curto": true,
   "quando_antes": "2026-11-06T19:00:00-03:00",
-  "experimento_grade": "P-1conto"
+  "experimento_grade": "P-2conto"
  },
  {
   "id": "st4-2026-11-06-21",
