@@ -1304,36 +1304,6 @@
   "destaque": "Sabedoria"
  },
  {
-  "id": "s2-d09_noite-car",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-01T12:01:00-03:00",
-  "midia": [
-   "midia/semana2/rv-s2-d09_noite_c01.jpg",
-   "midia/semana2/rv-s2-d09_noite_c02.jpg",
-   "midia/semana2/rv-s2-d09_noite_c03.jpg",
-   "midia/semana2/rv-s2-d09_noite_c04.jpg",
-   "midia/semana2/rv-s2-d09_noite_c05.jpg",
-   "midia/semana2/rv-s2-d09_noite_c06.jpg",
-   "midia/semana2/rv-s2-d09_noite_c07.jpg",
-   "midia/semana2/rv-s2-d09_noite_c08.jpg"
-  ],
-  "legenda": "O macaco e o crocodilo: Na hora do aperto, cabeça fria salva.\n\nUm macaco morava numa árvore na beira do rio e ficou amigo de um crocodilo.\n\n📜 Panchatantra, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 2 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 3 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 4 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 5 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 6 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 7 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 8 de 8 do conto: O macaco e o crocodilo. Ilustração em papel recortado."
-  ],
-  "titulo": "O macaco e o crocodilo",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d09_noite-car.jpg",
-  "cor": "amanhecer"
- },
- {
   "id": "s2-d09_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-11-05T12:00:00-03:00",
@@ -1470,36 +1440,6 @@
   "titulo": "Os diamantes do quintal",
   "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-02-12.jpg",
   "destaque": "Sabedoria"
- },
- {
-  "id": "s2-d10_noite-car",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-02T12:01:00-03:00",
-  "midia": [
-   "midia/semana2/rv-s2-d10_noite_c01.jpg",
-   "midia/semana2/rv-s2-d10_noite_c02.jpg",
-   "midia/semana2/rv-s2-d10_noite_c03.jpg",
-   "midia/semana2/rv-s2-d10_noite_c04.jpg",
-   "midia/semana2/rv-s2-d10_noite_c05.jpg",
-   "midia/semana2/rv-s2-d10_noite_c06.jpg",
-   "midia/semana2/rv-s2-d10_noite_c07.jpg",
-   "midia/semana2/rv-s2-d10_noite_c08.jpg"
-  ],
-  "legenda": "A semente de mostarda: Toda casa já chorou alguém. Ninguém sofre sozinho.\n\nKisa Gotami perdeu o filho pequeno.\n\n📜 conto budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
-   "Slide 2 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
-   "Slide 3 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
-   "Slide 4 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
-   "Slide 5 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
-   "Slide 6 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
-   "Slide 7 de 8 do conto: A semente de mostarda. Ilustração em papel recortado.",
-   "Slide 8 de 8 do conto: A semente de mostarda. Ilustração em papel recortado."
-  ],
-  "titulo": "A semente de mostarda",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d10_noite-car.jpg",
-  "cor": "dia"
  },
  {
   "id": "s2-d10_tarde-reel",
@@ -2272,5 +2212,203 @@
   "formato": "carrossel_novo",
   "origem": "historia_do_reel",
   "cor": "amanhecer"
+ },
+ {
+  "id": "cn-2026-10-31-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-31T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-10-31-09_01_71a7382a.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-09_02_8d91696a.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-09_03_c46aae5c.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-09_04_221a6815.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-09_05_1b140c1d.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-09_06_67aec4ac.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-09_07_7d18b599.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-09_08_3fe8820b.jpg"
+  ],
+  "legenda": "Todas as sementes floresceram. A do menino, não.\n\nUm imperador deu uma semente a cada criança do reino para escolher quem ficaria no lugar dele.\n\n📜 conto popular chinês\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: A semente vazia. Ilustração em papel recortado.",
+   "Slide 2 de 8: A semente vazia. Ilustração em papel recortado.",
+   "Slide 3 de 8: A semente vazia. Ilustração em papel recortado.",
+   "Slide 4 de 8: A semente vazia. Ilustração em papel recortado.",
+   "Slide 5 de 8: A semente vazia. Ilustração em papel recortado.",
+   "Slide 6 de 8: A semente vazia. Ilustração em papel recortado.",
+   "Slide 7 de 8: A semente vazia. Ilustração em papel recortado.",
+   "Slide 8 de 8: A semente vazia. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-10-31-09.jpg",
+  "titulo": "A semente vazia",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "entardecer"
+ },
+ {
+  "id": "cn-2026-10-31-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-31T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-10-31-20_01_1bf69566.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-20_02_e66f74ac.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-20_03_1fcfcd39.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-20_04_3a8e35b3.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-20_05_0d7b63fd.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-20_06_6e6f956b.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-20_07_e0dad3ff.jpg",
+   "midia/carrossel_novo/cn-2026-10-31-20_08_946afa22.jpg"
+  ],
+  "legenda": "O carvalho zombava do junco. Então veio a tempestade.\n\nUm carvalho enorme tinha orgulho de nunca se dobrar ao vento.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O carvalho e o junco. Ilustração em papel recortado.",
+   "Slide 2 de 8: O carvalho e o junco. Ilustração em papel recortado.",
+   "Slide 3 de 8: O carvalho e o junco. Ilustração em papel recortado.",
+   "Slide 4 de 8: O carvalho e o junco. Ilustração em papel recortado.",
+   "Slide 5 de 8: O carvalho e o junco. Ilustração em papel recortado.",
+   "Slide 6 de 8: O carvalho e o junco. Ilustração em papel recortado.",
+   "Slide 7 de 8: O carvalho e o junco. Ilustração em papel recortado.",
+   "Slide 8 de 8: O carvalho e o junco. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-10-31-20.jpg",
+  "titulo": "O carvalho e o junco",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "amanhecer"
+ },
+ {
+  "id": "cn-2026-11-01-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-01T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-01-09_01_15012b89.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-09_02_02dec44d.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-09_03_53cf17f1.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-09_04_c02c4d4e.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-09_05_14853c67.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-09_06_8acf0a6f.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-09_07_2f7ed0a0.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-09_08_a0e6a228.jpg"
+  ],
+  "legenda": "Ele só queria ajudar a borboleta. Foi aí que errou.\n\nUm homem viu uma borboleta lutando para sair do casulo e ficou com pena.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: A borboleta. Ilustração em papel recortado.",
+   "Slide 2 de 8: A borboleta. Ilustração em papel recortado.",
+   "Slide 3 de 8: A borboleta. Ilustração em papel recortado.",
+   "Slide 4 de 8: A borboleta. Ilustração em papel recortado.",
+   "Slide 5 de 8: A borboleta. Ilustração em papel recortado.",
+   "Slide 6 de 8: A borboleta. Ilustração em papel recortado.",
+   "Slide 7 de 8: A borboleta. Ilustração em papel recortado.",
+   "Slide 8 de 8: A borboleta. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-01-09.jpg",
+  "titulo": "A borboleta",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "dia"
+ },
+ {
+  "id": "cn-2026-11-01-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-01T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-01-20_01_24f21aad.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-20_02_87ca759a.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-20_03_d0e68e4f.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-20_04_0f13ea80.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-20_05_85366f4e.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-20_06_1bc709d2.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-20_07_a014038b.jpg",
+   "midia/carrossel_novo/cn-2026-11-01-20_08_de41a6f7.jpg"
+  ],
+  "legenda": "Um tigre em cima, outro embaixo. E ele viu um morango.\n\nUm homem fugiu de um tigre e ficou pendurado na beira de um penhasco.\n\n📜 parábola zen, tradição budista\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O tigre e o morango. Ilustração em papel recortado.",
+   "Slide 2 de 8: O tigre e o morango. Ilustração em papel recortado.",
+   "Slide 3 de 8: O tigre e o morango. Ilustração em papel recortado.",
+   "Slide 4 de 8: O tigre e o morango. Ilustração em papel recortado.",
+   "Slide 5 de 8: O tigre e o morango. Ilustração em papel recortado.",
+   "Slide 6 de 8: O tigre e o morango. Ilustração em papel recortado.",
+   "Slide 7 de 8: O tigre e o morango. Ilustração em papel recortado.",
+   "Slide 8 de 8: O tigre e o morango. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-01-20.jpg",
+  "titulo": "O tigre e o morango",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "noite"
+ },
+ {
+  "id": "cn-2026-11-02-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-02T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-02-09_01_0192eac7.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-09_02_b126300f.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-09_03_5b2f887e.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-09_04_27c28f55.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-09_05_f38d23d5.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-09_06_83559a39.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-09_07_176cc357.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-09_08_6868c901.jpg"
+  ],
+  "legenda": "Um lenhador nunca parou. O outro parava toda hora.\n\nDois lenhadores apostaram quem cortaria mais árvores num dia.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O lenhador e o machado. Ilustração em papel recortado.",
+   "Slide 2 de 8: O lenhador e o machado. Ilustração em papel recortado.",
+   "Slide 3 de 8: O lenhador e o machado. Ilustração em papel recortado.",
+   "Slide 4 de 8: O lenhador e o machado. Ilustração em papel recortado.",
+   "Slide 5 de 8: O lenhador e o machado. Ilustração em papel recortado.",
+   "Slide 6 de 8: O lenhador e o machado. Ilustração em papel recortado.",
+   "Slide 7 de 8: O lenhador e o machado. Ilustração em papel recortado.",
+   "Slide 8 de 8: O lenhador e o machado. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-02-09.jpg",
+  "titulo": "O lenhador e o machado",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "dia"
+ },
+ {
+  "id": "cn-2026-11-02-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-02T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-02-20_01_bfc7d4ba.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-20_02_03a0f512.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-20_03_16ca29d5.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-20_04_371f03f3.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-20_05_519e17df.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-20_06_06133dad.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-20_07_5c1c5acd.jpg",
+   "midia/carrossel_novo/cn-2026-11-02-20_08_33b85b41.jpg"
+  ],
+  "legenda": "O rei pôs uma pedra na estrada e se escondeu para olhar.\n\nUm rei queria descobrir quem, no reino, tiraria uma pedra enorme do caminho.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: A pedra no caminho. Ilustração em papel recortado.",
+   "Slide 2 de 8: A pedra no caminho. Ilustração em papel recortado.",
+   "Slide 3 de 8: A pedra no caminho. Ilustração em papel recortado.",
+   "Slide 4 de 8: A pedra no caminho. Ilustração em papel recortado.",
+   "Slide 5 de 8: A pedra no caminho. Ilustração em papel recortado.",
+   "Slide 6 de 8: A pedra no caminho. Ilustração em papel recortado.",
+   "Slide 7 de 8: A pedra no caminho. Ilustração em papel recortado.",
+   "Slide 8 de 8: A pedra no caminho. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-02-20.jpg",
+  "titulo": "A pedra no caminho",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "entardecer"
  }
 ]
