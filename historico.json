@@ -1996,20 +1996,20 @@
     "ig_reels_video_view_total_time": 1748430
    },
    "contos-d06_noite-reel": {
-    "reach": 141,
-    "views": 235,
+    "reach": 145,
+    "views": 240,
     "likes": 5,
     "comments": 0,
     "saved": 0,
     "shares": 2,
     "total_interactions": 8,
-    "ig_reels_avg_watch_time": 10389,
-    "reels_skip_rate": 47.6,
-    "ig_reels_video_view_total_time": 1631091
+    "ig_reels_avg_watch_time": 10175,
+    "reels_skip_rate": 48.3,
+    "ig_reels_video_view_total_time": 1648502
    },
    "st4-2026-10-28-21": {
-    "reach": 23,
-    "views": 32,
+    "reach": 24,
+    "views": 34,
     "replies": 0,
     "shares": 1,
     "total_interactions": 1,
@@ -2050,14 +2050,14 @@
    },
    "contos-d07_manha-reel": {
     "reach": 126,
-    "views": 220,
+    "views": 221,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
     "ig_reels_avg_watch_time": 12930,
-    "reels_skip_rate": 39.4,
+    "reels_skip_rate": 39.1,
     "ig_reels_video_view_total_time": 1668005
    },
    "st4-2026-10-29-17": {
@@ -2070,18 +2070,18 @@
     "profile_visits": 0
    },
    "c4-2026-10-29-12-reel": {
-    "reach": 40,
-    "views": 60,
+    "reach": 60,
+    "views": 82,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 6664,
-    "reels_skip_rate": 39.1,
-    "ig_reels_video_view_total_time": 259928
+    "ig_reels_avg_watch_time": 7723,
+    "reels_skip_rate": 44.3,
+    "ig_reels_video_view_total_time": 447987
    }
   },
-  "em": "2026-10-29T18:57-03:00"
+  "em": "2026-10-29T19:51-03:00"
  }
 }
