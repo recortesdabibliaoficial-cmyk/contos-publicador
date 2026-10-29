@@ -1912,34 +1912,9 @@
   "destaque": "Consolo"
  },
  {
-  "id": "s2-d13_manha-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-12T12:00:00-03:00",
-  "midia": [
-   "midia/arte3/s2-d13_manha_a20cca658.mp4"
-  ],
-  "legenda": "O rei e o sábio: A hora certa é agora. E quem mais importa é quem está com você.\n\nUm rei queria saber qual a hora certa de agir e quem é a pessoa mais importante.\n\n📜 Liev Tolstói, 1903\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_manha-reel.jpg",
-  "titulo": "O rei e o sábio",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: As três perguntas",
-  "gancho": "Esperando o momento certo para viver? Ele já chegou.",
-  "gancho_antigo": "Um rei queria três respostas para a vida.",
-  "experimento": "N-A",
-  "arte": "nova",
-  "texto_curto": true,
-  "quando_antes": "2026-11-05T10:00:00-03:00",
-  "experimento_grade": "P-2conto",
-  "teste": true,
-  "experimento_teste": "T-12h"
- },
- {
   "id": "c4-2026-11-05-12-reel",
   "tipo": "REEL",
-  "quando": "2026-11-12T17:00:00-03:00",
+  "quando": "2026-11-12T12:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-11-05-12_a23b2a9d8.mp4"
   ],
@@ -2001,7 +1976,7 @@
  {
   "id": "s2-d13_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-11-13T12:00:00-03:00",
+  "quando": "2026-11-12T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d13_tarde_a6b6e7f43.mp4"
   ],
@@ -2036,7 +2011,7 @@
  {
   "id": "s2-d13_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-11-13T17:00:00-03:00",
+  "quando": "2026-11-13T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d13_noite_adcf34a7d.mp4"
   ],
@@ -2057,17 +2032,6 @@
   "experimento_grade": "P-2conto"
  },
  {
-  "id": "st4-2026-11-05-21",
-  "tipo": "STORY",
-  "quando": "2026-11-05T21:00:00-03:00",
-  "midia": [
-   "midia/semana2/stories/st4-2026-11-05-21_3022f9b4.jpg"
-  ],
-  "titulo": "As três perguntas",
-  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-05-21.jpg",
-  "destaque": "Sabedoria"
- },
- {
   "id": "st4-2026-11-06-08",
   "tipo": "STORY",
   "quando": "2026-11-06T08:00:00-03:00",
@@ -2081,7 +2045,7 @@
  {
   "id": "s2-d14_manha-reel",
   "tipo": "REEL",
-  "quando": "2026-11-14T12:00:00-03:00",
+  "quando": "2026-11-13T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d14_manha_a79bbe722.mp4"
   ],
@@ -2105,7 +2069,7 @@
  {
   "id": "c4-2026-11-06-12-reel",
   "tipo": "REEL",
-  "quando": "2026-11-14T17:00:00-03:00",
+  "quando": "2026-11-14T12:00:00-03:00",
   "midia": [
    "midia/arte3/c4-2026-11-06-12_a57b2f69b.mp4"
   ],
@@ -2169,7 +2133,7 @@
  {
   "id": "s2-d14_tarde-reel",
   "tipo": "REEL",
-  "quando": "2026-11-15T12:00:00-03:00",
+  "quando": "2026-11-14T17:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d14_tarde_a294cce44.mp4"
   ],
@@ -2205,7 +2169,7 @@
  {
   "id": "s2-d14_noite-reel",
   "tipo": "REEL",
-  "quando": "2026-11-15T17:00:00-03:00",
+  "quando": "2026-11-15T12:00:00-03:00",
   "midia": [
    "midia/arte3/s2-d14_noite_aa1e86e0f.mp4"
   ],
