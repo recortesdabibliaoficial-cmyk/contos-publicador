@@ -829,30 +829,33 @@
  {
   "id": "contos-d07_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-10-29T12:01:00-03:00",
+  "quando": "2026-10-29T09:00:00-03:00",
   "midia": [
-   "midia/semana2/rv-contos-d07_noite_c01.jpg",
-   "midia/semana2/rv-contos-d07_noite_c02.jpg",
-   "midia/semana2/rv-contos-d07_noite_c03.jpg",
-   "midia/semana2/rv-contos-d07_noite_c04.jpg",
-   "midia/semana2/rv-contos-d07_noite_c05.jpg",
-   "midia/semana2/rv-contos-d07_noite_c06.jpg",
-   "midia/semana2/rv-contos-d07_noite_c07.jpg"
+   "midia/carrossel_novo/contos-d07_noite-car_01_d706d4a0.jpg",
+   "midia/carrossel_novo/contos-d07_noite-car_02_6fdabdf2.jpg",
+   "midia/carrossel_novo/contos-d07_noite-car_03_535a48a2.jpg",
+   "midia/carrossel_novo/contos-d07_noite-car_04_39643814.jpg",
+   "midia/carrossel_novo/contos-d07_noite-car_05_6108a615.jpg",
+   "midia/carrossel_novo/contos-d07_noite-car_06_25ded85d.jpg",
+   "midia/carrossel_novo/contos-d07_noite-car_07_31ef24b6.jpg"
   ],
-  "legenda": "O eco: O que você fala volta para você.\n\nUm menino passeava com o pai na montanha.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "legenda": "Ele gritou 'covarde'. A montanha respondeu.\n\nUm menino passeava com o pai na montanha.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
   "alt": [
-   "Slide 1 de 7 do conto: O eco. Ilustração em papel recortado.",
-   "Slide 2 de 7 do conto: O eco. Ilustração em papel recortado.",
-   "Slide 3 de 7 do conto: O eco. Ilustração em papel recortado.",
-   "Slide 4 de 7 do conto: O eco. Ilustração em papel recortado.",
-   "Slide 5 de 7 do conto: O eco. Ilustração em papel recortado.",
-   "Slide 6 de 7 do conto: O eco. Ilustração em papel recortado.",
-   "Slide 7 de 7 do conto: O eco. Ilustração em papel recortado."
+   "Slide 1 de 7: O eco. Ilustração em papel recortado.",
+   "Slide 2 de 7: O eco. Ilustração em papel recortado.",
+   "Slide 3 de 7: O eco. Ilustração em papel recortado.",
+   "Slide 4 de 7: O eco. Ilustração em papel recortado.",
+   "Slide 5 de 7: O eco. Ilustração em papel recortado.",
+   "Slide 6 de 7: O eco. Ilustração em papel recortado.",
+   "Slide 7 de 7: O eco. Ilustração em papel recortado."
   ],
   "titulo": "O eco",
   "miniatura": "midia/miniaturas/contos-d07_noite-car.jpg",
-  "cor": "entardecer"
+  "cor": "entardecer",
+  "quando_antes": "2026-10-29T12:01:00-03:00",
+  "formato": "carrossel_novo",
+  "legenda_antiga_1": "O eco: O que você fala volta para você."
  },
  {
   "id": "contos-d06_tarde-reel",
@@ -1133,32 +1136,35 @@
  {
   "id": "s2-d08_noite-car",
   "tipo": "CARROSSEL",
-  "quando": "2026-10-31T12:01:00-03:00",
+  "quando": "2026-10-29T20:00:00-03:00",
   "midia": [
-   "midia/semana2/rv-s2-d08_noite_c01.jpg",
-   "midia/semana2/rv-s2-d08_noite_c02.jpg",
-   "midia/semana2/rv-s2-d08_noite_c03.jpg",
-   "midia/semana2/rv-s2-d08_noite_c04.jpg",
-   "midia/semana2/rv-s2-d08_noite_c05.jpg",
-   "midia/semana2/rv-s2-d08_noite_c06.jpg",
-   "midia/semana2/rv-s2-d08_noite_c07.jpg",
-   "midia/semana2/rv-s2-d08_noite_c08.jpg"
+   "midia/carrossel_novo/s2-d08_noite-car_01_7d4b5b0c.jpg",
+   "midia/carrossel_novo/s2-d08_noite-car_02_c0a2e669.jpg",
+   "midia/carrossel_novo/s2-d08_noite-car_03_0ab09e2d.jpg",
+   "midia/carrossel_novo/s2-d08_noite-car_04_7f72827e.jpg",
+   "midia/carrossel_novo/s2-d08_noite-car_05_4336d427.jpg",
+   "midia/carrossel_novo/s2-d08_noite-car_06_a7765f69.jpg",
+   "midia/carrossel_novo/s2-d08_noite-car_07_2229fcab.jpg",
+   "midia/carrossel_novo/s2-d08_noite-car_08_2b6f3eda.jpg"
   ],
-  "legenda": "O ladrão e a lua: As coisas mais bonitas da vida ninguém consegue roubar.\n\nRyokan era um monge zen que morava numa cabana pobre, no pé de uma montanha.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "legenda": "O ladrão entrou. O monge deu a ele a própria roupa.\n\nRyokan era um monge zen que morava numa cabana pobre, no pé de uma montanha.\n\n📜 conto zen, Japão\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "cta": null,
   "alt": [
-   "Slide 1 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
-   "Slide 2 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
-   "Slide 3 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
-   "Slide 4 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
-   "Slide 5 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
-   "Slide 6 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
-   "Slide 7 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado.",
-   "Slide 8 de 8 do conto: O ladrão e a lua. Ilustração em papel recortado."
+   "Slide 1 de 8: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 2 de 8: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 3 de 8: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 4 de 8: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 5 de 8: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 6 de 8: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 7 de 8: O ladrão e a lua. Ilustração em papel recortado.",
+   "Slide 8 de 8: O ladrão e a lua. Ilustração em papel recortado."
   ],
   "titulo": "O ladrão e a lua",
   "miniatura": "midia/semana2/miniaturas/contos-s2-d08_noite-car.jpg",
-  "cor": "noite"
+  "cor": "noite",
+  "quando_antes": "2026-10-31T12:01:00-03:00",
+  "formato": "carrossel_novo",
+  "legenda_antiga_1": "O ladrão e a lua: As coisas mais bonitas da vida ninguém consegue roubar."
  },
  {
   "id": "s2-d08_tarde-reel",
