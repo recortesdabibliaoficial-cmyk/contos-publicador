@@ -1593,9 +1593,9 @@
     "saved": 9,
     "shares": 7,
     "total_interactions": 46,
-    "ig_reels_avg_watch_time": 10245,
+    "ig_reels_avg_watch_time": 10236,
     "reels_skip_rate": 46.1,
-    "ig_reels_video_view_total_time": 19179116
+    "ig_reels_video_view_total_time": 19182310
    },
    "contos-d02_manha-car": {
     "reach": 7,
@@ -1628,9 +1628,9 @@
     "saved": 0,
     "shares": 1,
     "total_interactions": 8,
-    "ig_reels_avg_watch_time": 11035,
+    "ig_reels_avg_watch_time": 10974,
     "reels_skip_rate": 44.1,
-    "ig_reels_video_view_total_time": 1721532
+    "ig_reels_video_view_total_time": 1722930
    },
    "contos-d02_noite-car": {
     "reach": 7,
@@ -1814,16 +1814,16 @@
     }
    },
    "c4-2026-10-27-12-reel": {
-    "reach": 118,
-    "views": 202,
+    "reach": 119,
+    "views": 207,
     "likes": 5,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 5,
-    "ig_reels_avg_watch_time": 12542,
-    "reels_skip_rate": 51.7,
-    "ig_reels_video_view_total_time": 1530221
+    "ig_reels_avg_watch_time": 13020,
+    "reels_skip_rate": 51.3,
+    "ig_reels_video_view_total_time": 1601556
    },
    "contos-d05_noite-car": {
     "reach": 3,
@@ -1928,14 +1928,14 @@
    },
    "contos-d06_manha-reel": {
     "reach": 121,
-    "views": 226,
+    "views": 231,
     "likes": 3,
     "comments": 0,
     "saved": 2,
     "shares": 0,
     "total_interactions": 5,
     "ig_reels_avg_watch_time": 20589,
-    "reels_skip_rate": 50,
+    "reels_skip_rate": 49.6,
     "ig_reels_video_view_total_time": 2573670
    },
    "st4-2026-10-28-12": {
@@ -2008,8 +2008,8 @@
     "ig_reels_video_view_total_time": 1629924
    },
    "st4-2026-10-28-21": {
-    "reach": 16,
-    "views": 22,
+    "reach": 20,
+    "views": 28,
     "replies": 0,
     "shares": 1,
     "total_interactions": 1,
@@ -2049,18 +2049,18 @@
     "profile_visits": 0
    },
    "contos-d07_manha-reel": {
-    "reach": 37,
-    "views": 157,
+    "reach": 118,
+    "views": 205,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 15564,
-    "reels_skip_rate": 20.2,
-    "ig_reels_video_view_total_time": 638150
+    "ig_reels_avg_watch_time": 12711,
+    "reels_skip_rate": 40.3,
+    "ig_reels_video_view_total_time": 1538146
    }
   },
-  "em": "2026-10-29T13:46-03:00"
+  "em": "2026-10-29T15:35-03:00"
  }
 }
