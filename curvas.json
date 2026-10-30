@@ -5540,6 +5540,17 @@
     "ig_reels_avg_watch_time": 9550,
     "t": "2026-10-30T19:06+00:00",
     "h": 23.09
+   },
+   {
+    "reach": 101,
+    "views": 152,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 43.6,
+    "ig_reels_avg_watch_time": 9550,
+    "t": "2026-10-30T20:01+00:00",
+    "h": 24.01
    }
   ]
  },
@@ -5611,6 +5622,22 @@
     "ig_reels_avg_watch_time": 7871,
     "t": "2026-10-30T19:40+00:00",
     "h": 4.65
+   }
+  ]
+ },
+ "contos-d07_noite-reel": {
+  "publicado": "2026-10-30T20:01:51.613951+00:00",
+  "pontos": [
+   {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 0,
+    "ig_reels_avg_watch_time": 0,
+    "t": "2026-10-30T20:01+00:00",
+    "h": 0.0
    }
   ]
  }
