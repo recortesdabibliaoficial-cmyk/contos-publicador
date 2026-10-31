@@ -2755,15 +2755,15 @@
     "profile_visits": 0
    },
    "contos-d06_tarde-reel": {
-    "reach": 15,
-    "views": 23,
+    "reach": 16,
+    "views": 24,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
     "ig_reels_avg_watch_time": 10506,
-    "reels_skip_rate": 37.5,
+    "reels_skip_rate": 41.2,
     "ig_reels_video_view_total_time": 178610
    },
    "contos-d07_noite-reel": {
@@ -2799,6 +2799,53 @@
     "profile_visits": 0
    }
   },
-  "em": "2026-10-30T23:12-03:00"
+  "em": "2026-10-30T23:30-03:00",
+  "conta": {
+   "reach": 143,
+   "views": 250,
+   "accounts_engaged": 4,
+   "total_interactions": 6,
+   "profile_views": 0,
+   "likes": 3,
+   "comments": 0,
+   "saves": 1,
+   "shares": 1,
+   "replies": 0,
+   "reposts": 0,
+   "profile_links_taps": 0
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "NON_FOLLOWER": 138,
+    "FOLLOWER": 5
+   },
+   "views:follow_type": {
+    "FOLLOWER": 24,
+    "NON_FOLLOWER": 226
+   },
+   "views:media_product_type": {
+    "CAROUSEL_CONTAINER": 15,
+    "STORY": 5,
+    "REEL": 230
+   },
+   "total_interactions:media_product_type": {
+    "REEL": 6
+   },
+   "likes:media_product_type": {
+    "REEL": 3
+   },
+   "saves:media_product_type": {
+    "REEL": 1
+   },
+   "shares:media_product_type": {
+    "REEL": 1
+   },
+   "comments:media_product_type": {},
+   "reach:media_product_type": {
+    "REEL": 140,
+    "CAROUSEL_CONTAINER": 4,
+    "STORY": 1
+   }
+  }
  }
 }
