@@ -2152,7 +2152,7 @@
  },
  "2026-10-30": {
   "seguidores": 15,
-  "publicacoes": 13,
+  "publicacoes": 14,
   "itens": {
    "contos-d01_manha-reel": {
     "reach": 18,
@@ -2644,8 +2644,8 @@
     "profile_visits": 0
    },
    "contos-d07_noite-car": {
-    "reach": 2,
-    "views": 5,
+    "reach": 3,
+    "views": 6,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -2685,16 +2685,16 @@
     "profile_visits": 0
    },
    "c4-2026-10-29-12-reel": {
-    "reach": 101,
-    "views": 152,
+    "reach": 102,
+    "views": 153,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 9550,
-    "reels_skip_rate": 43.6,
-    "ig_reels_video_view_total_time": 974145
+    "ig_reels_avg_watch_time": 9520,
+    "reels_skip_rate": 43.1,
+    "ig_reels_video_view_total_time": 980659
    },
    "st4-2026-10-29-21": {
     "reach": 0,
@@ -2745,31 +2745,40 @@
     "follows": 0,
     "profile_visits": 0
    },
+   "st4-2026-10-30-17": {
+    "reach": 0,
+    "views": 1,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   },
    "contos-d06_tarde-reel": {
-    "reach": 8,
-    "views": 11,
+    "reach": 15,
+    "views": 23,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 8836,
-    "reels_skip_rate": 62.5,
-    "ig_reels_video_view_total_time": 79527
+    "ig_reels_avg_watch_time": 10506,
+    "reels_skip_rate": 37.5,
+    "ig_reels_video_view_total_time": 178610
    },
    "contos-d07_noite-reel": {
-    "reach": 0,
-    "views": 0,
-    "likes": 0,
+    "reach": 126,
+    "views": 228,
+    "likes": 3,
     "comments": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 0,
-    "ig_reels_avg_watch_time": 0,
-    "reels_skip_rate": 0,
-    "ig_reels_video_view_total_time": 0
+    "saved": 1,
+    "shares": 1,
+    "total_interactions": 5,
+    "ig_reels_avg_watch_time": 12873,
+    "reels_skip_rate": 25.8,
+    "ig_reels_video_view_total_time": 1737982
    },
-   "st4-2026-10-30-17": {
+   "st4-2026-10-30-21": {
     "reach": 0,
     "views": 0,
     "replies": 0,
@@ -2777,8 +2786,19 @@
     "total_interactions": 0,
     "follows": 0,
     "profile_visits": 0
+   },
+   "cn-2026-10-30-20": {
+    "reach": 1,
+    "views": 5,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
    }
   },
-  "em": "2026-10-30T17:02-03:00"
+  "em": "2026-10-30T23:12-03:00"
  }
 }
