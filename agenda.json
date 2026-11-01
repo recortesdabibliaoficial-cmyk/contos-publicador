@@ -1004,31 +1004,6 @@
   "destaque": "Sabedoria"
  },
  {
-  "id": "contos-d07_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-01T12:00:00-03:00",
-  "midia": [
-   "midia/arte3/contos-d07_tarde_a4e5009f2.mp4"
-  ],
-  "legenda": "A vaquinha: Não se acomode com o pouco. Você é capaz de mais.\n\nUm mestre e seu aluno pararam numa casinha pobre.\n\n📜 parábola popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-d07_tarde-reel.jpg",
-  "titulo": "A vaquinha",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A vaquinha",
-  "gancho": "Uma família inteira vivia de uma vaquinha.",
-  "experimento": "N-B",
-  "arte": "nova",
-  "texto_curto": true,
-  "quando_antes": "2026-10-30T17:00:00-03:00",
-  "experimento_grade": "P-2conto",
-  "teste": true,
-  "experimento_teste": "T-12h",
-  "nota_moral": 3
- },
- {
   "id": "st4-2026-10-30-17",
   "tipo": "STORY",
   "quando": "2026-10-30T17:00:00-03:00",
@@ -1349,17 +1324,6 @@
   "nota_moral": 5
  },
  {
-  "id": "st4-2026-11-01-17",
-  "tipo": "STORY",
-  "quando": "2026-11-01T17:00:00-03:00",
-  "midia": [
-   "midia/semana2/stories/st4-2026-11-01-17_467d81e4.jpg"
-  ],
-  "titulo": "O vento e o sol",
-  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-01-17.jpg",
-  "destaque": "Sabedoria"
- },
- {
   "id": "s2-d09_noite-reel",
   "tipo": "REEL",
   "quando": "2026-11-05T17:00:00-03:00",
@@ -1383,17 +1347,6 @@
   "experimento_grade": "P-2conto",
   "nota_moral": 4,
   "adiavel": true
- },
- {
-  "id": "st4-2026-11-01-21",
-  "tipo": "STORY",
-  "quando": "2026-11-01T21:00:00-03:00",
-  "midia": [
-   "midia/semana2/stories/st4-2026-11-01-21_064defc7.jpg"
-  ],
-  "titulo": "O rato do campo e o rato da cidade",
-  "miniatura": "midia/semana2/miniaturas/contos-st4-2026-11-01-21.jpg",
-  "destaque": "Fábulas"
  },
  {
   "id": "st4-2026-11-02-08",
