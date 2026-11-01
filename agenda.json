@@ -1460,7 +1460,7 @@
   "midia": [
    "midia/arte3/c4-2026-10-31-12_a81db1ce0.mp4"
   ],
-  "legenda": "Os dois irmãos: Cuide da sua família sem esperar nada em troca.\n\nDois irmãos plantavam juntos e dividiam a colheita meio a meio.\n\n📜 lenda judaica, registrada por Lamartine em 1835\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "legenda": "Os dois irmãos: Cuide da sua família sem esperar nada em troca.\n\nDois irmãos plantavam juntos e dividiam a colheita meio a meio.\n\n📜 lenda popular, registrada por Lamartine em 1835\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
   "na_grade": false,
   "capa_ms": 500,
   "cta": "nenhum",
@@ -1548,6 +1548,39 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-03-08.jpg"
  },
  {
+  "id": "cn-2026-11-03-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-03T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-03-09_01_71c11d7e.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-09_02_41969516.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-09_03_db6d7af9.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-09_04_0f8c377a.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-09_05_aaf6dfd9.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-09_06_0b03c5f6.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-09_07_4459e223.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-09_08_73b6525a.jpg"
+  ],
+  "legenda": "Ele tirou todos os pregos da cerca. O pai mostrou o que ficou.\n\nUm menino tinha um gênio difícil, e o pai deu a ele um saco de pregos.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: Os pregos na cerca. Ilustração em papel recortado.",
+   "Slide 2 de 8: Os pregos na cerca. Ilustração em papel recortado.",
+   "Slide 3 de 8: Os pregos na cerca. Ilustração em papel recortado.",
+   "Slide 4 de 8: Os pregos na cerca. Ilustração em papel recortado.",
+   "Slide 5 de 8: Os pregos na cerca. Ilustração em papel recortado.",
+   "Slide 6 de 8: Os pregos na cerca. Ilustração em papel recortado.",
+   "Slide 7 de 8: Os pregos na cerca. Ilustração em papel recortado.",
+   "Slide 8 de 8: Os pregos na cerca. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-03-09.jpg",
+  "titulo": "Os pregos na cerca",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "noite"
+ },
+ {
   "id": "s2-d08_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-11-03T12:00:00-03:00",
@@ -1586,36 +1619,6 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-03-12.jpg"
  },
  {
-  "id": "s2-d11_noite-car",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-03T12:01:00-03:00",
-  "midia": [
-   "midia/semana2/rv-s2-d11_noite_c01.jpg",
-   "midia/semana2/rv-s2-d11_noite_c02.jpg",
-   "midia/semana2/rv-s2-d11_noite_c03.jpg",
-   "midia/semana2/rv-s2-d11_noite_c04.jpg",
-   "midia/semana2/rv-s2-d11_noite_c05.jpg",
-   "midia/semana2/rv-s2-d11_noite_c06.jpg",
-   "midia/semana2/rv-s2-d11_noite_c07.jpg",
-   "midia/semana2/rv-s2-d11_noite_c08.jpg"
-  ],
-  "legenda": "O presente recusado: Ofensa que você não aceita volta para quem mandou.\n\nUm homem, cheio de raiva, foi até Buda e o xingou de tudo o que é nome, na frente de todos.\n\n📜 ensinamento budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
-   "Slide 2 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
-   "Slide 3 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
-   "Slide 4 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
-   "Slide 5 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
-   "Slide 6 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
-   "Slide 7 de 8 do conto: O presente recusado. Ilustração em papel recortado.",
-   "Slide 8 de 8 do conto: O presente recusado. Ilustração em papel recortado."
-  ],
-  "titulo": "O presente recusado",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d11_noite-car.jpg",
-  "cor": "entardecer"
- },
- {
   "id": "s2-d08_noite-reel",
   "tipo": "REEL",
   "quando": "2026-11-03T17:00:00-03:00",
@@ -1652,6 +1655,39 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-03-17.jpg"
  },
  {
+  "id": "cn-2026-11-03-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-03T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-03-20_01_e6e658a9.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-20_02_604a62b5.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-20_03_174cc5be.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-20_04_072effd9.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-20_05_382d4510.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-20_06_0859ac2a.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-20_07_f985041e.jpg",
+   "midia/carrossel_novo/cn-2026-11-03-20_08_df462f25.jpg"
+  ],
+  "legenda": "Todo dia tiravam trigo do monte dele. E o monte não diminuía.\n\nDois irmãos dividiam a colheita meio a meio, e cada um se preocupava com o outro em segredo.\n\n📜 lenda popular, registrada por Lamartine em 1835\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: Os dois irmãos. Ilustração em papel recortado.",
+   "Slide 2 de 8: Os dois irmãos. Ilustração em papel recortado.",
+   "Slide 3 de 8: Os dois irmãos. Ilustração em papel recortado.",
+   "Slide 4 de 8: Os dois irmãos. Ilustração em papel recortado.",
+   "Slide 5 de 8: Os dois irmãos. Ilustração em papel recortado.",
+   "Slide 6 de 8: Os dois irmãos. Ilustração em papel recortado.",
+   "Slide 7 de 8: Os dois irmãos. Ilustração em papel recortado.",
+   "Slide 8 de 8: Os dois irmãos. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-03-20.jpg",
+  "titulo": "Os dois irmãos",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "amanhecer"
+ },
+ {
   "id": "st5-2026-11-03-21",
   "tipo": "STORY",
   "quando": "2026-11-03T21:00:00-03:00",
@@ -1674,6 +1710,39 @@
   "destaque": "Sabedoria",
   "fixo": true,
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-04-08.jpg"
+ },
+ {
+  "id": "cn-2026-11-04-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-04T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-04-09_01_7ffbaf88.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-09_02_097843e1.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-09_03_06fcaf1d.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-09_04_4677cbd7.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-09_05_b3ee37b2.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-09_06_ca4ed498.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-09_07_9493cd48.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-09_08_4bcdd599.jpg"
+  ],
+  "legenda": "A água estava no jarro. O corvo não alcançava.\n\nUm corvo, com muita sede, achou um jarro com um pouco de água no fundo.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 2 de 8: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 3 de 8: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 4 de 8: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 5 de 8: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 6 de 8: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 7 de 8: O corvo e o jarro. Ilustração em papel recortado.",
+   "Slide 8 de 8: O corvo e o jarro. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-04-09.jpg",
+  "titulo": "O corvo e o jarro",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "dia"
  },
  {
   "id": "s2-d09_manha-reel",
@@ -1714,36 +1783,6 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-04-12.jpg"
  },
  {
-  "id": "s2-d12_noite-car",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-04T12:01:00-03:00",
-  "midia": [
-   "midia/semana2/rv-s2-d12_noite_c01.jpg",
-   "midia/semana2/rv-s2-d12_noite_c02.jpg",
-   "midia/semana2/rv-s2-d12_noite_c03.jpg",
-   "midia/semana2/rv-s2-d12_noite_c04.jpg",
-   "midia/semana2/rv-s2-d12_noite_c05.jpg",
-   "midia/semana2/rv-s2-d12_noite_c06.jpg",
-   "midia/semana2/rv-s2-d12_noite_c07.jpg",
-   "midia/semana2/rv-s2-d12_noite_c08.jpg"
-  ],
-  "legenda": "Isto também passará: Nenhuma dor dura para sempre. Nem a sua.\n\nUm rei pediu aos sábios um anel que servisse para todos os dias da vida.\n\n📜 lenda popular persa\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
-   "Slide 2 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
-   "Slide 3 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
-   "Slide 4 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
-   "Slide 5 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
-   "Slide 6 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
-   "Slide 7 de 8 do conto: Isto também passará. Ilustração em papel recortado.",
-   "Slide 8 de 8 do conto: Isto também passará. Ilustração em papel recortado."
-  ],
-  "titulo": "Isto também passará",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d12_noite-car.jpg",
-  "cor": "noite"
- },
- {
   "id": "c4-2026-11-01-12-reel",
   "tipo": "REEL",
   "quando": "2026-11-04T17:00:00-03:00",
@@ -1779,6 +1818,39 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-04-17.jpg"
  },
  {
+  "id": "cn-2026-11-04-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-04T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-04-20_01_96034b15.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-20_02_c09178d2.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-20_03_29b0b814.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-20_04_43af955f.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-20_05_64976c3b.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-20_06_1a3bffdb.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-20_07_b0080eaa.jpg",
+   "midia/carrossel_novo/cn-2026-11-04-20_08_4cd4c62b.jpg"
+  ],
+  "legenda": "A mesa estava cheia de queijo e doces. Ninguém conseguia comer.\n\nUm rato do campo foi conhecer a vida boa do primo da cidade.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 2 de 8: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 3 de 8: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 4 de 8: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 5 de 8: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 6 de 8: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 7 de 8: O rato do campo e o rato da cidade. Ilustração em papel recortado.",
+   "Slide 8 de 8: O rato do campo e o rato da cidade. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-04-20.jpg",
+  "titulo": "O rato do campo e o rato da cidade",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "entardecer"
+ },
+ {
   "id": "st5-2026-11-04-21",
   "tipo": "STORY",
   "quando": "2026-11-04T21:00:00-03:00",
@@ -1801,6 +1873,39 @@
   "destaque": "Pais e filhos",
   "fixo": true,
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-05-08.jpg"
+ },
+ {
+  "id": "cn-2026-11-05-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-05T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-05-09_01_a96fb65b.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-09_02_a4c2df1a.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-09_03_8f2eeeff.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-09_04_f065798e.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-09_05_21bc6fd6.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-09_06_91ccd9f1.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-09_07_add4c8fb.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-09_08_66f84583.jpg"
+  ],
+  "legenda": "O menino queria enganar o sábio com uma pergunta sem saída.\n\nUm menino escondeu um passarinho nas mãos para enganar um velho sábio.\n\n📜 conto popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: Vivo ou morto. Ilustração em papel recortado.",
+   "Slide 2 de 8: Vivo ou morto. Ilustração em papel recortado.",
+   "Slide 3 de 8: Vivo ou morto. Ilustração em papel recortado.",
+   "Slide 4 de 8: Vivo ou morto. Ilustração em papel recortado.",
+   "Slide 5 de 8: Vivo ou morto. Ilustração em papel recortado.",
+   "Slide 6 de 8: Vivo ou morto. Ilustração em papel recortado.",
+   "Slide 7 de 8: Vivo ou morto. Ilustração em papel recortado.",
+   "Slide 8 de 8: Vivo ou morto. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-05-09.jpg",
+  "titulo": "Vivo ou morto",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "noite"
  },
  {
   "id": "s2-d09_tarde-reel",
@@ -1840,36 +1945,6 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-05-12.jpg"
  },
  {
-  "id": "s2-d13_noite-car",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-05T12:01:00-03:00",
-  "midia": [
-   "midia/semana2/rv-s2-d13_noite_c01.jpg",
-   "midia/semana2/rv-s2-d13_noite_c02.jpg",
-   "midia/semana2/rv-s2-d13_noite_c03.jpg",
-   "midia/semana2/rv-s2-d13_noite_c04.jpg",
-   "midia/semana2/rv-s2-d13_noite_c05.jpg",
-   "midia/semana2/rv-s2-d13_noite_c06.jpg",
-   "midia/semana2/rv-s2-d13_noite_c07.jpg",
-   "midia/semana2/rv-s2-d13_noite_c08.jpg"
-  ],
-  "legenda": "Os dois lobos: Cuide do que você alimenta por dentro. É isso que cresce.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
-   "Slide 2 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
-   "Slide 3 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
-   "Slide 4 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
-   "Slide 5 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
-   "Slide 6 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
-   "Slide 7 de 8 do conto: Os dois lobos. Ilustração em papel recortado.",
-   "Slide 8 de 8 do conto: Os dois lobos. Ilustração em papel recortado."
-  ],
-  "titulo": "Os dois lobos",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_noite-car.jpg",
-  "cor": "amanhecer"
- },
- {
   "id": "s2-d09_noite-reel",
   "tipo": "REEL",
   "quando": "2026-11-05T17:00:00-03:00",
@@ -1907,6 +1982,39 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-05-17.jpg"
  },
  {
+  "id": "cn-2026-11-05-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-05T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-05-20_01_eba2a8cd.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-20_02_a5b93267.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-20_03_796d1672.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-20_04_2ce6fdb7.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-20_05_9bdb8e36.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-20_06_a7ac0a61.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-20_07_703d9c9d.jpg",
+   "midia/carrossel_novo/cn-2026-11-05-20_08_1b5c3319.jpg"
+  ],
+  "legenda": "O vento soprou com toda a força. O casaco não saiu.\n\nO vento e o sol apostaram quem faria um homem tirar o casaco.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O vento e o sol. Ilustração em papel recortado.",
+   "Slide 2 de 8: O vento e o sol. Ilustração em papel recortado.",
+   "Slide 3 de 8: O vento e o sol. Ilustração em papel recortado.",
+   "Slide 4 de 8: O vento e o sol. Ilustração em papel recortado.",
+   "Slide 5 de 8: O vento e o sol. Ilustração em papel recortado.",
+   "Slide 6 de 8: O vento e o sol. Ilustração em papel recortado.",
+   "Slide 7 de 8: O vento e o sol. Ilustração em papel recortado.",
+   "Slide 8 de 8: O vento e o sol. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-05-20.jpg",
+  "titulo": "O vento e o sol",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "amanhecer"
+ },
+ {
   "id": "st5-2026-11-05-21",
   "tipo": "STORY",
   "quando": "2026-11-05T21:00:00-03:00",
@@ -1929,6 +2037,39 @@
   "destaque": "Fábulas",
   "fixo": true,
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-06-08.jpg"
+ },
+ {
+  "id": "cn-2026-11-06-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-06T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-06-09_01_0bb8e333.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-09_02_d8e9dc5d.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-09_03_b7048677.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-09_04_61fea71f.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-09_05_2c55d0ca.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-09_06_011f2cf4.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-09_07_c302fd7d.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-09_08_0ab79e50.jpg"
+  ],
+  "legenda": "No meio do rio, o amigo contou: querem comer o seu coração.\n\nUm macaco ficou amigo de um crocodilo e aceitou um convite para jantar.\n\n📜 Panchatantra, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 2 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 3 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 4 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 5 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 6 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 7 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
+   "Slide 8 de 8: O macaco e o crocodilo. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-06-09.jpg",
+  "titulo": "O macaco e o crocodilo",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "dia"
  },
  {
   "id": "s2-d10_manha-reel",
@@ -1968,36 +2109,6 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-06-12.jpg"
  },
  {
-  "id": "s2-d14_noite-car",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-06T12:01:00-03:00",
-  "midia": [
-   "midia/semana2/rv-s2-d14_noite_c01.jpg",
-   "midia/semana2/rv-s2-d14_noite_c02.jpg",
-   "midia/semana2/rv-s2-d14_noite_c03.jpg",
-   "midia/semana2/rv-s2-d14_noite_c04.jpg",
-   "midia/semana2/rv-s2-d14_noite_c05.jpg",
-   "midia/semana2/rv-s2-d14_noite_c06.jpg",
-   "midia/semana2/rv-s2-d14_noite_c07.jpg",
-   "midia/semana2/rv-s2-d14_noite_c08.jpg"
-  ],
-  "legenda": "O avô e o netinho: Trate bem os mais velhos. Os pequenos estão olhando.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
-   "Slide 2 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
-   "Slide 3 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
-   "Slide 4 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
-   "Slide 5 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
-   "Slide 6 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
-   "Slide 7 de 8 do conto: O avô e o netinho. Ilustração em papel recortado.",
-   "Slide 8 de 8 do conto: O avô e o netinho. Ilustração em papel recortado."
-  ],
-  "titulo": "O avô e o netinho",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_noite-car.jpg",
-  "cor": "dia"
- },
- {
   "id": "c4-2026-11-02-12-reel",
   "tipo": "REEL",
   "quando": "2026-11-06T17:00:00-03:00",
@@ -2035,6 +2146,39 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-06-17.jpg"
  },
  {
+  "id": "cn-2026-11-06-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-06T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-06-20_01_10a176e1.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-20_02_0cb8caf4.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-20_03_5678d8a3.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-20_04_95128101.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-20_05_4476b6c3.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-20_06_2f961b15.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-20_07_0760d9d1.jpg",
+   "midia/carrossel_novo/cn-2026-11-06-20_08_d8ac000a.jpg"
+  ],
+  "legenda": "Fizeram tudo o que os outros disseram. Acabaram carregando o burro.\n\nUm velho e o filho iam vender o burro na feira e ouviram a opinião de todo mundo.\n\n📜 fábula popular, recontada por La Fontaine\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 2 de 8: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 3 de 8: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 4 de 8: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 5 de 8: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 6 de 8: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 7 de 8: O velho, o menino e o burro. Ilustração em papel recortado.",
+   "Slide 8 de 8: O velho, o menino e o burro. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-06-20.jpg",
+  "titulo": "O velho, o menino e o burro",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "entardecer"
+ },
+ {
   "id": "st5-2026-11-06-21",
   "tipo": "STORY",
   "quando": "2026-11-06T21:00:00-03:00",
@@ -2057,6 +2201,39 @@
   "destaque": "Pais e filhos",
   "fixo": true,
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-07-08.jpg"
+ },
+ {
+  "id": "cn-2026-11-07-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-07T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-07-09_01_37310d2b.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-09_02_34468e87.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-09_03_a2657b7b.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-09_04_bc09179c.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-09_05_93e0095b.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-09_06_c49ec5b5.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-09_07_973fe450.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-09_08_f65d431a.jpg"
+  ],
+  "legenda": "Ele vendeu a fazenda para procurar diamantes. O que o novo dono achou?\n\nAli Hafed era um fazendeiro feliz até ouvir falar de diamantes.\n\n📜 conto persa contado por Russell Conwell, 1890\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
+   "Slide 2 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
+   "Slide 3 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
+   "Slide 4 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
+   "Slide 5 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
+   "Slide 6 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
+   "Slide 7 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
+   "Slide 8 de 8: Os diamantes do quintal. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-07-09.jpg",
+  "titulo": "Os diamantes do quintal",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "noite"
  },
  {
   "id": "s2-d10_tarde-reel",
@@ -2133,6 +2310,39 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-07-17.jpg"
  },
  {
+  "id": "cn-2026-11-07-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-07T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-07-20_01_f25fd9ee.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-20_02_6d0eaf92.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-20_03_32e93c1e.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-20_04_7d838cdf.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-20_05_d7accd12.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-20_06_e8cd0b4b.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-20_07_9a8e7d31.jpg",
+   "midia/carrossel_novo/cn-2026-11-07-20_08_6f5bd1a8.jpg"
+  ],
+  "legenda": "Ela bateu de porta em porta com um único pedido.\n\nKisa Gotami perdeu o filho pequeno e foi pedir ajuda a Buda.\n\n📜 conto budista, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 2 de 8: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 3 de 8: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 4 de 8: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 5 de 8: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 6 de 8: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 7 de 8: A semente de mostarda. Ilustração em papel recortado.",
+   "Slide 8 de 8: A semente de mostarda. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-07-20.jpg",
+  "titulo": "A semente de mostarda",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "amanhecer"
+ },
+ {
   "id": "st5-2026-11-07-21",
   "tipo": "STORY",
   "quando": "2026-11-07T21:00:00-03:00",
@@ -2155,6 +2365,39 @@
   "destaque": "Consolo",
   "fixo": true,
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-08-08.jpg"
+ },
+ {
+  "id": "cn-2026-11-08-09",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-08T09:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-08-09_01_e0c6437f.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-09_02_683c6a34.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-09_03_44370a54.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-09_04_b680c037.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-09_05_38a7f6c0.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-09_06_0dc7db41.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-09_07_10f8f469.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-09_08_b1e2f022.jpg"
+  ],
+  "legenda": "Todos os filhos tentaram quebrar o feixe. Ninguém conseguiu.\n\nUm pai tinha vários filhos que viviam brigando por qualquer coisa.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 2 de 8: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 3 de 8: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 4 de 8: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 5 de 8: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 6 de 8: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 7 de 8: O feixe de varas. Ilustração em papel recortado.",
+   "Slide 8 de 8: O feixe de varas. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-08-09.jpg",
+  "titulo": "O feixe de varas",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "dia"
  },
  {
   "id": "s2-d11_manha-reel",
@@ -2229,6 +2472,39 @@
   "destaque": "Pais e filhos",
   "fixo": true,
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-08-17.jpg"
+ },
+ {
+  "id": "cn-2026-11-08-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-08T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn-2026-11-08-20_01_c09208b3.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-20_02_29e8b17e.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-20_03_58439ea7.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-20_04_6e13ad32.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-20_05_33cfd260.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-20_06_b10c0b2e.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-20_07_69f67614.jpg",
+   "midia/carrossel_novo/cn-2026-11-08-20_08_51b5f239.jpg"
+  ],
+  "legenda": "Ele derramou a sopa no casaco, no meio da festa.\n\nNasrudin foi a uma festa com a roupa velha do trabalho, e ninguém falou com ele.\n\n📜 história de Nasrudin, tradição turca\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 8: Coma, casaco!. Ilustração em papel recortado.",
+   "Slide 2 de 8: Coma, casaco!. Ilustração em papel recortado.",
+   "Slide 3 de 8: Coma, casaco!. Ilustração em papel recortado.",
+   "Slide 4 de 8: Coma, casaco!. Ilustração em papel recortado.",
+   "Slide 5 de 8: Coma, casaco!. Ilustração em papel recortado.",
+   "Slide 6 de 8: Coma, casaco!. Ilustração em papel recortado.",
+   "Slide 7 de 8: Coma, casaco!. Ilustração em papel recortado.",
+   "Slide 8 de 8: Coma, casaco!. Ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn-2026-11-08-20.jpg",
+  "titulo": "Coma, casaco!",
+  "fixo": true,
+  "formato": "carrossel_novo",
+  "origem": "historia_do_reel",
+  "cor": "entardecer"
  },
  {
   "id": "st5-2026-11-08-21",
