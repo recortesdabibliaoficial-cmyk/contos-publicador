@@ -7503,8 +7503,8 @@
   }
  },
  "2026-11-05": {
-  "seguidores": 18,
-  "publicacoes": 24,
+  "seguidores": 21,
+  "publicacoes": 25,
   "itens": {
    "contos-d01_manha-reel": {
     "reach": 19,
@@ -7542,8 +7542,8 @@
     "ig_reels_video_view_total_time": 137924
    },
    "contos-d01_noite-car": {
-    "reach": 9,
-    "views": 23,
+    "reach": 10,
+    "views": 24,
     "likes": 2,
     "comments": 0,
     "saved": 1,
@@ -7583,9 +7583,9 @@
     "saved": 4,
     "shares": 2,
     "total_interactions": 41,
-    "ig_reels_avg_watch_time": 10702,
+    "ig_reels_avg_watch_time": 10693,
     "reels_skip_rate": 44.5,
-    "ig_reels_video_view_total_time": 12585963
+    "ig_reels_video_view_total_time": 12586585
    },
    "contos-d02_noite-reel": {
     "reach": 145,
@@ -7658,8 +7658,8 @@
     "ig_reels_video_view_total_time": 1090147
    },
    "contos-d03_noite-car": {
-    "reach": 7,
-    "views": 16,
+    "reach": 8,
+    "views": 17,
     "likes": 2,
     "comments": 0,
     "saved": 0,
@@ -7931,8 +7931,8 @@
     "ig_reels_video_view_total_time": 2060845
    },
    "contos-d06_noite-car": {
-    "reach": 4,
-    "views": 7,
+    "reach": 5,
+    "views": 8,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -7996,8 +7996,8 @@
     "profile_visits": 0
    },
    "contos-d07_noite-car": {
-    "reach": 4,
-    "views": 8,
+    "reach": 5,
+    "views": 9,
     "likes": 1,
     "comments": 0,
     "saved": 0,
@@ -8078,8 +8078,8 @@
     "profile_visits": 0
    },
    "cn-2026-10-30-09": {
-    "reach": 4,
-    "views": 10,
+    "reach": 5,
+    "views": 11,
     "likes": 1,
     "comments": 0,
     "saved": 0,
@@ -8140,13 +8140,13 @@
     "profile_visits": 0
    },
    "cn-2026-10-30-20": {
-    "reach": 2,
-    "views": 7,
-    "likes": 0,
+    "reach": 3,
+    "views": 9,
+    "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
-    "total_interactions": 0,
+    "total_interactions": 1,
     "follows": 0,
     "profile_visits": 0
    },
@@ -8242,8 +8242,8 @@
     "profile_visits": 0
    },
    "cn-2026-11-01-09": {
-    "reach": 2,
-    "views": 4,
+    "reach": 3,
+    "views": 5,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -8292,8 +8292,8 @@
     "ig_reels_video_view_total_time": 1025400
    },
    "cn-2026-11-01-20": {
-    "reach": 2,
-    "views": 10,
+    "reach": 3,
+    "views": 11,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -8444,16 +8444,16 @@
     "ig_reels_video_view_total_time": 1228186
    },
    "s2-d08_noite-reel": {
-    "reach": 108,
-    "views": 211,
+    "reach": 109,
+    "views": 212,
     "likes": 2,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 13100,
-    "reels_skip_rate": 38.5,
-    "ig_reels_video_view_total_time": 1545858
+    "ig_reels_avg_watch_time": 12995,
+    "reels_skip_rate": 39,
+    "ig_reels_video_view_total_time": 1546448
    },
    "cn-2026-11-03-20": {
     "reach": 2,
@@ -8476,8 +8476,8 @@
     "profile_visits": 0
    },
    "cn-2026-11-04-09": {
-    "reach": 1,
-    "views": 2,
+    "reach": 2,
+    "views": 3,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -8497,7 +8497,7 @@
    },
    "st5-2026-11-04-17": {
     "reach": 0,
-    "views": 1,
+    "views": 3,
     "replies": 0,
     "shares": 0,
     "total_interactions": 0,
@@ -8506,7 +8506,7 @@
    },
    "st5-2026-11-04-21": {
     "reach": 0,
-    "views": 1,
+    "views": 2,
     "replies": 0,
     "shares": 0,
     "total_interactions": 0,
@@ -8514,32 +8514,32 @@
     "profile_visits": 0
    },
    "s2-d09_manha-reel": {
-    "reach": 431,
-    "views": 807,
-    "likes": 1,
+    "reach": 1240,
+    "views": 2571,
+    "likes": 7,
     "comments": 0,
     "saved": 0,
-    "shares": 0,
-    "total_interactions": 1,
-    "ig_reels_avg_watch_time": 12632,
-    "reels_skip_rate": 34.7,
-    "ig_reels_video_view_total_time": 5722740
+    "shares": 1,
+    "total_interactions": 9,
+    "ig_reels_avg_watch_time": 15201,
+    "reels_skip_rate": 31.8,
+    "ig_reels_video_view_total_time": 20492292
    },
    "c4-2026-11-01-12-reel": {
-    "reach": 103,
-    "views": 174,
+    "reach": 104,
+    "views": 178,
     "likes": 3,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 3,
-    "ig_reels_avg_watch_time": 10195,
-    "reels_skip_rate": 41.7,
-    "ig_reels_video_view_total_time": 1111318
+    "ig_reels_avg_watch_time": 10228,
+    "reels_skip_rate": 42.2,
+    "ig_reels_video_view_total_time": 1125109
    },
    "cn-2026-11-04-20": {
-    "reach": 1,
-    "views": 5,
+    "reach": 2,
+    "views": 7,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -8547,8 +8547,70 @@
     "total_interactions": 0,
     "follows": 0,
     "profile_visits": 0
+   },
+   "st5-2026-11-05-08": {
+    "reach": 0,
+    "views": 1,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   },
+   "st5-2026-11-05-12": {
+    "reach": 0,
+    "views": 1,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   },
+   "st5-2026-11-05-17": {
+    "reach": 0,
+    "views": 1,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   },
+   "cn-2026-11-05-09": {
+    "reach": 2,
+    "views": 6,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   },
+   "s2-d09_tarde-reel": {
+    "reach": 115,
+    "views": 190,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 11108,
+    "reels_skip_rate": 44.8,
+    "ig_reels_video_view_total_time": 1288541
+   },
+   "s2-d09_noite-reel": {
+    "reach": 113,
+    "views": 222,
+    "likes": 1,
+    "comments": 2,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 15278,
+    "reels_skip_rate": 41.9,
+    "ig_reels_video_view_total_time": 1787569
    }
   },
-  "em": "2026-11-05T07:56-03:00"
+  "em": "2026-11-05T18:47-03:00"
  }
 }
