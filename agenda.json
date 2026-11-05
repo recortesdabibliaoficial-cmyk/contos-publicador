@@ -2039,39 +2039,6 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-06-08.jpg"
  },
  {
-  "id": "cn-2026-11-06-09",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-06T09:00:00-03:00",
-  "midia": [
-   "midia/carrossel_novo/cn-2026-11-06-09_01_0bb8e333.jpg",
-   "midia/carrossel_novo/cn-2026-11-06-09_02_d8e9dc5d.jpg",
-   "midia/carrossel_novo/cn-2026-11-06-09_03_b7048677.jpg",
-   "midia/carrossel_novo/cn-2026-11-06-09_04_61fea71f.jpg",
-   "midia/carrossel_novo/cn-2026-11-06-09_05_2c55d0ca.jpg",
-   "midia/carrossel_novo/cn-2026-11-06-09_06_011f2cf4.jpg",
-   "midia/carrossel_novo/cn-2026-11-06-09_07_c302fd7d.jpg",
-   "midia/carrossel_novo/cn-2026-11-06-09_08_0ab79e50.jpg"
-  ],
-  "legenda": "No meio do rio, o amigo contou: querem comer o seu coração.\n\nUm macaco ficou amigo de um crocodilo e aceitou um convite para jantar.\n\n📜 Panchatantra, Índia\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 2 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 3 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 4 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 5 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 6 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 7 de 8: O macaco e o crocodilo. Ilustração em papel recortado.",
-   "Slide 8 de 8: O macaco e o crocodilo. Ilustração em papel recortado."
-  ],
-  "miniatura": "midia/miniaturas/cn-2026-11-06-09.jpg",
-  "titulo": "O macaco e o crocodilo",
-  "fixo": true,
-  "formato": "carrossel_novo",
-  "origem": "historia_do_reel",
-  "cor": "dia"
- },
- {
   "id": "s2-d10_manha-reel",
   "tipo": "REEL",
   "quando": "2026-11-06T12:00:00-03:00",
@@ -2203,39 +2170,6 @@
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-07-08.jpg"
  },
  {
-  "id": "cn-2026-11-07-09",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-07T09:00:00-03:00",
-  "midia": [
-   "midia/carrossel_novo/cn-2026-11-07-09_01_37310d2b.jpg",
-   "midia/carrossel_novo/cn-2026-11-07-09_02_34468e87.jpg",
-   "midia/carrossel_novo/cn-2026-11-07-09_03_a2657b7b.jpg",
-   "midia/carrossel_novo/cn-2026-11-07-09_04_bc09179c.jpg",
-   "midia/carrossel_novo/cn-2026-11-07-09_05_93e0095b.jpg",
-   "midia/carrossel_novo/cn-2026-11-07-09_06_c49ec5b5.jpg",
-   "midia/carrossel_novo/cn-2026-11-07-09_07_973fe450.jpg",
-   "midia/carrossel_novo/cn-2026-11-07-09_08_f65d431a.jpg"
-  ],
-  "legenda": "Ele vendeu a fazenda para procurar diamantes. O que o novo dono achou?\n\nAli Hafed era um fazendeiro feliz até ouvir falar de diamantes.\n\n📜 conto persa contado por Russell Conwell, 1890\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
-   "Slide 2 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
-   "Slide 3 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
-   "Slide 4 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
-   "Slide 5 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
-   "Slide 6 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
-   "Slide 7 de 8: Os diamantes do quintal. Ilustração em papel recortado.",
-   "Slide 8 de 8: Os diamantes do quintal. Ilustração em papel recortado."
-  ],
-  "miniatura": "midia/miniaturas/cn-2026-11-07-09.jpg",
-  "titulo": "Os diamantes do quintal",
-  "fixo": true,
-  "formato": "carrossel_novo",
-  "origem": "historia_do_reel",
-  "cor": "noite"
- },
- {
   "id": "s2-d10_tarde-reel",
   "tipo": "REEL",
   "quando": "2026-11-07T12:00:00-03:00",
@@ -2365,39 +2299,6 @@
   "destaque": "Consolo",
   "fixo": true,
   "miniatura": "midia/lote0311/miniaturas/contos-st5-2026-11-08-08.jpg"
- },
- {
-  "id": "cn-2026-11-08-09",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-08T09:00:00-03:00",
-  "midia": [
-   "midia/carrossel_novo/cn-2026-11-08-09_01_e0c6437f.jpg",
-   "midia/carrossel_novo/cn-2026-11-08-09_02_683c6a34.jpg",
-   "midia/carrossel_novo/cn-2026-11-08-09_03_44370a54.jpg",
-   "midia/carrossel_novo/cn-2026-11-08-09_04_b680c037.jpg",
-   "midia/carrossel_novo/cn-2026-11-08-09_05_38a7f6c0.jpg",
-   "midia/carrossel_novo/cn-2026-11-08-09_06_0dc7db41.jpg",
-   "midia/carrossel_novo/cn-2026-11-08-09_07_10f8f469.jpg",
-   "midia/carrossel_novo/cn-2026-11-08-09_08_b1e2f022.jpg"
-  ],
-  "legenda": "Todos os filhos tentaram quebrar o feixe. Ninguém conseguiu.\n\nUm pai tinha vários filhos que viviam brigando por qualquer coisa.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 8: O feixe de varas. Ilustração em papel recortado.",
-   "Slide 2 de 8: O feixe de varas. Ilustração em papel recortado.",
-   "Slide 3 de 8: O feixe de varas. Ilustração em papel recortado.",
-   "Slide 4 de 8: O feixe de varas. Ilustração em papel recortado.",
-   "Slide 5 de 8: O feixe de varas. Ilustração em papel recortado.",
-   "Slide 6 de 8: O feixe de varas. Ilustração em papel recortado.",
-   "Slide 7 de 8: O feixe de varas. Ilustração em papel recortado.",
-   "Slide 8 de 8: O feixe de varas. Ilustração em papel recortado."
-  ],
-  "miniatura": "midia/miniaturas/cn-2026-11-08-09.jpg",
-  "titulo": "O feixe de varas",
-  "fixo": true,
-  "formato": "carrossel_novo",
-  "origem": "historia_do_reel",
-  "cor": "dia"
  },
  {
   "id": "s2-d11_manha-reel",
