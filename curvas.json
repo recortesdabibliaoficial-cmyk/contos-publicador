@@ -10749,6 +10749,17 @@
     "ig_reels_avg_watch_time": 13723,
     "t": "2026-11-05T14:05+00:00",
     "h": 23.06
+   },
+   {
+    "reach": 932,
+    "views": 2137,
+    "likes": 6,
+    "shares": 1,
+    "saved": 0,
+    "reels_skip_rate": 30.3,
+    "ig_reels_avg_watch_time": 14168,
+    "t": "2026-11-05T15:01+00:00",
+    "h": 24.0
    }
   ]
  },
@@ -10985,6 +10996,22 @@
     "ig_reels_avg_watch_time": 10228,
     "t": "2026-11-05T14:25+00:00",
     "h": 18.4
+   }
+  ]
+ },
+ "s2-d09_tarde-reel": {
+  "publicado": "2026-11-05T15:01:13.083088+00:00",
+  "pontos": [
+   {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 0,
+    "ig_reels_avg_watch_time": 0,
+    "t": "2026-11-05T15:01+00:00",
+    "h": 0.01
    }
   ]
  }

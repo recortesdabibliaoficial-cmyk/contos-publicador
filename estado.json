@@ -1,5 +1,5 @@
 {
- "_comentarios_em": "2026-11-05T12:55:26.195544+00:00",
+ "_comentarios_em": "2026-11-05T15:01:38.870654+00:00",
  "_token_renovado_em": "2026-10-23T17:52:42.763947+00:00",
  "contos-d01_manha-reel": {
   "tentativas": 0,
@@ -705,5 +705,21 @@
   "media_id": "18109083859976524",
   "em": "2026-11-05T12:01:19.474410+00:00",
   "link": "https://www.instagram.com/p/DfW-6o2lJwF/"
+ },
+ "s2-d09_tarde-reel": {
+  "tentativas": 0,
+  "status": "publicado",
+  "media_id": "18023798078930249",
+  "em": "2026-11-05T15:01:13.083088+00:00",
+  "link": "https://www.instagram.com/reel/DfXTeeXjWXI/",
+  "como_teste": false,
+  "teste_recusado": "17841462777796896/media: {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 2207081, 'is_transient': False, 'error_user_title': "
+ },
+ "st5-2026-11-05-12": {
+  "tentativas": 0,
+  "status": "publicado",
+  "media_id": "18024001943869082",
+  "em": "2026-11-05T15:01:33.989230+00:00",
+  "link": "https://www.instagram.com/stories/contosrecortados/4023770752370145773"
  }
 }
