@@ -13029,6 +13029,17 @@
     "ig_reels_avg_watch_time": 12529,
     "t": "2026-11-07T19:05+00:00",
     "h": 23.06
+   },
+   {
+    "reach": 125,
+    "views": 214,
+    "likes": 5,
+    "shares": 1,
+    "saved": 0,
+    "reels_skip_rate": 43.6,
+    "ig_reels_avg_watch_time": 12529,
+    "t": "2026-11-07T20:02+00:00",
+    "h": 24.0
    }
   ]
  },
@@ -13100,6 +13111,22 @@
     "ig_reels_avg_watch_time": 29024,
     "t": "2026-11-07T19:40+00:00",
     "h": 4.65
+   }
+  ]
+ },
+ "s2-d10_noite-reel": {
+  "publicado": "2026-11-07T20:02:00.044995+00:00",
+  "pontos": [
+   {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 0,
+    "ig_reels_avg_watch_time": 0,
+    "t": "2026-11-07T20:02+00:00",
+    "h": 0.0
    }
   ]
  }
