@@ -12260,16 +12260,16 @@
     "profile_visits": 0
    },
    "s2-d09_manha-reel": {
-    "reach": 1444,
-    "views": 3001,
+    "reach": 1462,
+    "views": 3064,
     "likes": 11,
     "comments": 0,
     "saved": 0,
     "shares": 1,
     "total_interactions": 14,
-    "ig_reels_avg_watch_time": 15496,
-    "reels_skip_rate": 31.6,
-    "ig_reels_video_view_total_time": 24330122
+    "ig_reels_avg_watch_time": 15681,
+    "reels_skip_rate": 31.4,
+    "ig_reels_video_view_total_time": 24996324
    },
    "c4-2026-11-01-12-reel": {
     "reach": 106,
@@ -12413,16 +12413,16 @@
     "profile_visits": 0
    },
    "s2-d10_manha-reel": {
-    "reach": 130,
-    "views": 247,
+    "reach": 131,
+    "views": 250,
     "likes": 2,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 13083,
-    "reels_skip_rate": 38.1,
-    "ig_reels_video_view_total_time": 1831725
+    "ig_reels_avg_watch_time": 13232,
+    "reels_skip_rate": 37.9,
+    "ig_reels_video_view_total_time": 1865802
    },
    "c4-2026-11-02-12-reel": {
     "reach": 126,
@@ -12476,7 +12476,7 @@
    },
    "st5-2026-11-07-21": {
     "reach": 0,
-    "views": 0,
+    "views": 1,
     "replies": 0,
     "shares": 0,
     "total_interactions": 0,
@@ -12496,16 +12496,16 @@
     "ig_reels_video_view_total_time": 1320197
    },
    "s2-d10_noite-reel": {
-    "reach": 113,
-    "views": 224,
+    "reach": 114,
+    "views": 225,
     "likes": 2,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 14794,
-    "reels_skip_rate": 31.6,
-    "ig_reels_video_view_total_time": 1745736
+    "ig_reels_avg_watch_time": 14695,
+    "reels_skip_rate": 31.4,
+    "ig_reels_video_view_total_time": 1748760
    },
    "cn-2026-11-07-20": {
     "reach": 0,
@@ -12520,14 +12520,35 @@
    },
    "st5-2026-11-08-08": {
     "reach": 0,
-    "views": 0,
+    "views": 1,
     "replies": 0,
     "shares": 0,
     "total_interactions": 0,
     "follows": 0,
     "profile_visits": 0
+   },
+   "st5-2026-11-08-12": {
+    "reach": 0,
+    "views": 1,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   },
+   "s2-d11_manha-reel": {
+    "reach": 127,
+    "views": 187,
+    "likes": 2,
+    "comments": 0,
+    "saved": 1,
+    "shares": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 8642,
+    "reels_skip_rate": 44.4,
+    "ig_reels_video_view_total_time": 1149484
    }
   },
-  "em": "2026-11-08T11:30-03:00"
+  "em": "2026-11-08T16:17-03:00"
  }
 }
