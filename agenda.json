@@ -2945,5 +2945,337 @@
   "texto_curto": true,
   "nota_moral": 4,
   "adiavel": true
+ },
+ {
+  "id": "st6-2026-11-09-08",
+  "tipo": "STORY",
+  "quando": "2026-11-09T08:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-09-08_cda9949a.jpg"
+  ],
+  "titulo": "O macaco e o crocodilo",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-09-08.jpg",
+  "destaque": "Fábulas"
+ },
+ {
+  "id": "st6-2026-11-09-12",
+  "tipo": "STORY",
+  "quando": "2026-11-09T12:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-09-12_638b14e7.jpg"
+  ],
+  "titulo": "A semente de mostarda",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-09-12.jpg",
+  "destaque": "Consolo"
+ },
+ {
+  "id": "st6-2026-11-09-17",
+  "tipo": "STORY",
+  "quando": "2026-11-09T17:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-09-17_0c4df102.jpg"
+  ],
+  "titulo": "As três peneiras",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-09-17.jpg"
+ },
+ {
+  "id": "st6-2026-11-09-21",
+  "tipo": "STORY",
+  "quando": "2026-11-09T21:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-09-21_e08c83d9.jpg"
+  ],
+  "titulo": "A pedra no caminho",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-09-21.jpg",
+  "destaque": "Sabedoria"
+ },
+ {
+  "id": "st6-2026-11-10-08",
+  "tipo": "STORY",
+  "quando": "2026-11-10T08:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-10-08_395a1140.jpg"
+  ],
+  "titulo": "Os diamantes do quintal",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-10-08.jpg"
+ },
+ {
+  "id": "st6-2026-11-10-12",
+  "tipo": "STORY",
+  "quando": "2026-11-10T12:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-10-12_982dd888.jpg"
+  ],
+  "titulo": "O vaso rachado",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-10-12.jpg",
+  "destaque": "Consolo"
+ },
+ {
+  "id": "st6-2026-11-10-17",
+  "tipo": "STORY",
+  "quando": "2026-11-10T17:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-10-17_724524d0.jpg"
+  ],
+  "titulo": "O patinho feio",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-10-17.jpg",
+  "destaque": "Consolo"
+ },
+ {
+  "id": "st6-2026-11-10-21",
+  "tipo": "STORY",
+  "quando": "2026-11-10T21:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-10-21_edb90975.jpg"
+  ],
+  "titulo": "Os dois irmãos",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-10-21.jpg",
+  "destaque": "Sabedoria"
+ },
+ {
+  "id": "st6-2026-11-11-08",
+  "tipo": "STORY",
+  "quando": "2026-11-11T08:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-11-08_ed77a36b.jpg"
+  ],
+  "titulo": "O rato do campo e o rato da cidade",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-11-08.jpg",
+  "destaque": "Fábulas"
+ },
+ {
+  "id": "st6-2026-11-11-12",
+  "tipo": "STORY",
+  "quando": "2026-11-11T12:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-11-12_a9e5860d.jpg"
+  ],
+  "titulo": "A xícara cheia",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-11-12.jpg",
+  "destaque": "Sabedoria"
+ },
+ {
+  "id": "st6-2026-11-11-17",
+  "tipo": "STORY",
+  "quando": "2026-11-11T17:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-11-17_442be2ba.jpg"
+  ],
+  "titulo": "O rei e o falcão",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-11-17.jpg"
+ },
+ {
+  "id": "st6-2026-11-11-21",
+  "tipo": "STORY",
+  "quando": "2026-11-11T21:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-11-21_42fc7673.jpg"
+  ],
+  "titulo": "A janela do hospital",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-11-21.jpg",
+  "destaque": "Consolo"
+ },
+ {
+  "id": "st6-2026-11-12-08",
+  "tipo": "STORY",
+  "quando": "2026-11-12T08:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-12-08_2e1a0a1a.jpg"
+  ],
+  "titulo": "O velho, o menino e o burro",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-12-08.jpg",
+  "destaque": "Pais e filhos"
+ },
+ {
+  "id": "st6-2026-11-12-12",
+  "tipo": "STORY",
+  "quando": "2026-11-12T12:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-12-12_51d91e38.jpg"
+  ],
+  "titulo": "O sábio e o escorpião",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-12-12.jpg",
+  "destaque": "Sabedoria"
+ },
+ {
+  "id": "st6-2026-11-12-17",
+  "tipo": "STORY",
+  "quando": "2026-11-12T17:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-12-17_01ed2aae.jpg"
+  ],
+  "titulo": "A lebre e a tartaruga",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-12-17.jpg",
+  "destaque": "Fábulas"
+ },
+ {
+  "id": "st6-2026-11-12-21",
+  "tipo": "STORY",
+  "quando": "2026-11-12T21:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-12-21_0c4f9fda.jpg"
+  ],
+  "titulo": "Os sapos no buraco",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-12-21.jpg",
+  "destaque": "Fábulas"
+ },
+ {
+  "id": "st6-2026-11-13-08",
+  "tipo": "STORY",
+  "quando": "2026-11-13T08:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-13-08_19d0eb47.jpg"
+  ],
+  "titulo": "A borboleta",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-13-08.jpg",
+  "destaque": "Consolo"
+ },
+ {
+  "id": "st6-2026-11-13-12",
+  "tipo": "STORY",
+  "quando": "2026-11-13T12:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-13-12_f5bd6acf.jpg"
+  ],
+  "titulo": "O lenhador e o machado",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-13-12.jpg",
+  "destaque": "Sabedoria"
+ },
+ {
+  "id": "st6-2026-11-13-17",
+  "tipo": "STORY",
+  "quando": "2026-11-13T17:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-13-17_14134fe2.jpg"
+  ],
+  "titulo": "Os dois lobos",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-13-17.jpg",
+  "destaque": "Sabedoria"
+ },
+ {
+  "id": "st6-2026-11-13-21",
+  "tipo": "STORY",
+  "quando": "2026-11-13T21:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-13-21_ed8f0a3f.jpg"
+  ],
+  "titulo": "O eco",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-13-21.jpg",
+  "destaque": "Pais e filhos"
+ },
+ {
+  "id": "st6-2026-11-14-08",
+  "tipo": "STORY",
+  "quando": "2026-11-14T08:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-14-08_90dfeacb.jpg"
+  ],
+  "titulo": "O tigre e o morango",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-14-08.jpg",
+  "destaque": "Sabedoria"
+ },
+ {
+  "id": "st6-2026-11-14-12",
+  "tipo": "STORY",
+  "quando": "2026-11-14T12:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-14-12_6f4e5f3b.jpg"
+  ],
+  "titulo": "O burro no poço",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-14-12.jpg",
+  "destaque": "Consolo"
+ },
+ {
+  "id": "st6-2026-11-14-17",
+  "tipo": "STORY",
+  "quando": "2026-11-14T17:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-14-17_eb5a82fe.jpg"
+  ],
+  "titulo": "A galinha dos ovos de ouro",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-14-17.jpg"
+ },
+ {
+  "id": "st6-2026-11-14-21",
+  "tipo": "STORY",
+  "quando": "2026-11-14T21:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-14-21_569912fb.jpg"
+  ],
+  "titulo": "O leão e o rato",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-14-21.jpg",
+  "destaque": "Fábulas"
+ },
+ {
+  "id": "st6-2026-11-15-08",
+  "tipo": "STORY",
+  "quando": "2026-11-15T08:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-15-08_964ec068.jpg"
+  ],
+  "titulo": "O ladrão e a lua",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-15-08.jpg",
+  "destaque": "Sabedoria"
+ },
+ {
+  "id": "st6-2026-11-15-12",
+  "tipo": "STORY",
+  "quando": "2026-11-15T12:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-15-12_14e8c051.jpg"
+  ],
+  "titulo": "A semente vazia",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-15-12.jpg",
+  "destaque": "Sabedoria"
+ },
+ {
+  "id": "st6-2026-11-15-17",
+  "tipo": "STORY",
+  "quando": "2026-11-15T17:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-15-17_736d912f.jpg"
+  ],
+  "titulo": "O avô e o netinho",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-15-17.jpg",
+  "destaque": "Pais e filhos"
+ },
+ {
+  "id": "st6-2026-11-15-21",
+  "tipo": "STORY",
+  "quando": "2026-11-15T21:00:00-03:00",
+  "midia": [
+   "midia/lote0911/stories/st6-2026-11-15-21_96bb6b73.jpg"
+  ],
+  "titulo": "O beija-flor e o incêndio",
+  "fixo": true,
+  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-15-21.jpg",
+  "destaque": "Fábulas"
  }
 ]
