@@ -2742,5 +2742,187 @@
   "teste": true,
   "experimento_teste": "T-12h",
   "nota_moral": 5
+ },
+ {
+  "id": "cn3-2026-11-09-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-09T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn3-2026-11-09-20_01_01f589d7.jpg",
+   "midia/carrossel_novo/cn3-2026-11-09-20_02_50141781.jpg",
+   "midia/carrossel_novo/cn3-2026-11-09-20_03_ef2aa6c3.jpg",
+   "midia/carrossel_novo/cn3-2026-11-09-20_04_df6ab840.jpg",
+   "midia/carrossel_novo/cn3-2026-11-09-20_05_9bba26c8.jpg"
+  ],
+  "legenda": "As três peneiras: Antes de passar adiante, pergunte: é verdade, é bom, é útil?\n\nUm homem chegou correndo para falar com Sócrates:\n\n📜 atribuída a Sócrates, tradição popular\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 5: As três peneiras. Texto sobre ilustração em papel recortado.",
+   "Slide 2 de 5: As três peneiras. Texto sobre ilustração em papel recortado.",
+   "Slide 3 de 5: As três peneiras. Texto sobre ilustração em papel recortado.",
+   "Slide 4 de 5: As três peneiras. Texto sobre ilustração em papel recortado.",
+   "Slide 5 de 5: As três peneiras. Texto sobre ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn3-2026-11-09-20.jpg",
+  "titulo": "As três peneiras",
+  "fixo": true,
+  "formato": "carrossel_simples",
+  "origem": "historia_do_reel"
+ },
+ {
+  "id": "cn3-2026-11-10-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-10T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn3-2026-11-10-20_01_faa1ee77.jpg",
+   "midia/carrossel_novo/cn3-2026-11-10-20_02_c13b0884.jpg",
+   "midia/carrossel_novo/cn3-2026-11-10-20_03_8a45d3cc.jpg",
+   "midia/carrossel_novo/cn3-2026-11-10-20_04_eaae3b3c.jpg",
+   "midia/carrossel_novo/cn3-2026-11-10-20_05_2b0159b7.jpg"
+  ],
+  "legenda": "O patinho feio: Não é você. É o lugar.\n\nNum ninho de patos, nasceu um filhote diferente.\n\n📜 Hans Christian Andersen\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 5: O patinho feio. Texto sobre ilustração em papel recortado.",
+   "Slide 2 de 5: O patinho feio. Texto sobre ilustração em papel recortado.",
+   "Slide 3 de 5: O patinho feio. Texto sobre ilustração em papel recortado.",
+   "Slide 4 de 5: O patinho feio. Texto sobre ilustração em papel recortado.",
+   "Slide 5 de 5: O patinho feio. Texto sobre ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn3-2026-11-10-20.jpg",
+  "titulo": "O patinho feio",
+  "fixo": true,
+  "formato": "carrossel_simples",
+  "origem": "historia_do_reel"
+ },
+ {
+  "id": "cn3-2026-11-11-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-11T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn3-2026-11-11-20_01_34c774ec.jpg",
+   "midia/carrossel_novo/cn3-2026-11-11-20_02_b2be1fd1.jpg",
+   "midia/carrossel_novo/cn3-2026-11-11-20_03_71f5f857.jpg",
+   "midia/carrossel_novo/cn3-2026-11-11-20_04_7e51cee4.jpg",
+   "midia/carrossel_novo/cn3-2026-11-11-20_05_8ff33bff.jpg"
+  ],
+  "legenda": "O rei e o falcão: Não tome decisões de cabeça quente.\n\nUm rei caçava nas montanhas com seu falcão.\n\n📜 lenda popular, contada sobre Gêngis Khan\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 5: O rei e o falcão. Texto sobre ilustração em papel recortado.",
+   "Slide 2 de 5: O rei e o falcão. Texto sobre ilustração em papel recortado.",
+   "Slide 3 de 5: O rei e o falcão. Texto sobre ilustração em papel recortado.",
+   "Slide 4 de 5: O rei e o falcão. Texto sobre ilustração em papel recortado.",
+   "Slide 5 de 5: O rei e o falcão. Texto sobre ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn3-2026-11-11-20.jpg",
+  "titulo": "O rei e o falcão",
+  "fixo": true,
+  "formato": "carrossel_simples",
+  "origem": "historia_do_reel"
+ },
+ {
+  "id": "cn3-2026-11-12-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-12T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn3-2026-11-12-20_01_2f954946.jpg",
+   "midia/carrossel_novo/cn3-2026-11-12-20_02_510d9e0b.jpg",
+   "midia/carrossel_novo/cn3-2026-11-12-20_03_23e59c7f.jpg",
+   "midia/carrossel_novo/cn3-2026-11-12-20_04_cbae8ccd.jpg",
+   "midia/carrossel_novo/cn3-2026-11-12-20_05_c0da22b4.jpg"
+  ],
+  "legenda": "A lebre e a tartaruga: A pressa é inimiga da perfeição. Constância sempre ganha.\n\nA lebre riu da tartaruga e apostou uma corrida.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado.",
+   "Slide 2 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado.",
+   "Slide 3 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado.",
+   "Slide 4 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado.",
+   "Slide 5 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn3-2026-11-12-20.jpg",
+  "titulo": "A lebre e a tartaruga",
+  "fixo": true,
+  "formato": "carrossel_simples",
+  "origem": "historia_do_reel"
+ },
+ {
+  "id": "cn3-2026-11-13-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-13T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn3-2026-11-13-20_01_00bb6275.jpg",
+   "midia/carrossel_novo/cn3-2026-11-13-20_02_9ca56979.jpg",
+   "midia/carrossel_novo/cn3-2026-11-13-20_03_a5ce5e1d.jpg",
+   "midia/carrossel_novo/cn3-2026-11-13-20_04_056b8d71.jpg",
+   "midia/carrossel_novo/cn3-2026-11-13-20_05_d4082b3b.jpg"
+  ],
+  "legenda": "Os dois lobos: Cuide do que você alimenta por dentro. É isso que cresce.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 5: Os dois lobos. Texto sobre ilustração em papel recortado.",
+   "Slide 2 de 5: Os dois lobos. Texto sobre ilustração em papel recortado.",
+   "Slide 3 de 5: Os dois lobos. Texto sobre ilustração em papel recortado.",
+   "Slide 4 de 5: Os dois lobos. Texto sobre ilustração em papel recortado.",
+   "Slide 5 de 5: Os dois lobos. Texto sobre ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn3-2026-11-13-20.jpg",
+  "titulo": "Os dois lobos",
+  "fixo": true,
+  "formato": "carrossel_simples",
+  "origem": "historia_do_reel"
+ },
+ {
+  "id": "cn3-2026-11-14-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-14T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn3-2026-11-14-20_01_f1fdbea4.jpg",
+   "midia/carrossel_novo/cn3-2026-11-14-20_02_8e304750.jpg",
+   "midia/carrossel_novo/cn3-2026-11-14-20_03_18959d6e.jpg",
+   "midia/carrossel_novo/cn3-2026-11-14-20_04_2acabee1.jpg",
+   "midia/carrossel_novo/cn3-2026-11-14-20_05_b92f55f9.jpg"
+  ],
+  "legenda": "A galinha dos ovos de ouro: Tenha paciência. Quem quer tudo de uma vez perde até o que tem.\n\nUm casal pobre tinha uma galinha diferente.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado.",
+   "Slide 2 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado.",
+   "Slide 3 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado.",
+   "Slide 4 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado.",
+   "Slide 5 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn3-2026-11-14-20.jpg",
+  "titulo": "A galinha dos ovos de ouro",
+  "fixo": true,
+  "formato": "carrossel_simples",
+  "origem": "historia_do_reel"
+ },
+ {
+  "id": "cn3-2026-11-15-20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-11-15T20:00:00-03:00",
+  "midia": [
+   "midia/carrossel_novo/cn3-2026-11-15-20_01_901cc522.jpg",
+   "midia/carrossel_novo/cn3-2026-11-15-20_02_49ca369a.jpg",
+   "midia/carrossel_novo/cn3-2026-11-15-20_03_f971b3b6.jpg",
+   "midia/carrossel_novo/cn3-2026-11-15-20_04_d24486d8.jpg",
+   "midia/carrossel_novo/cn3-2026-11-15-20_05_1c9d7290.jpg"
+  ],
+  "legenda": "O avô e o netinho: Trate bem os mais velhos. Os pequenos estão olhando.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "cta": null,
+  "alt": [
+   "Slide 1 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado.",
+   "Slide 2 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado.",
+   "Slide 3 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado.",
+   "Slide 4 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado.",
+   "Slide 5 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado."
+  ],
+  "miniatura": "midia/miniaturas/cn3-2026-11-15-20.jpg",
+  "titulo": "O avô e o netinho",
+  "fixo": true,
+  "formato": "carrossel_simples",
+  "origem": "historia_do_reel"
  }
 ]
