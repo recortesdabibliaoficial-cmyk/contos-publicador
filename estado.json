@@ -883,7 +883,7 @@
   "link": "https://www.instagram.com/reel/DffkMiGkeB0/"
  },
  "st5-2026-11-08-17": {
-  "tentativas": 1,
-  "ultimo_erro": "17841462777796896/media_publish: {'message': 'The requested resource does not exist', 'type': 'OAuthException', 'code': 24, 'error_subcode': 2207006, 'is_transient': False, 'error_user_title': 'Media Not Found', 'error_user_msg': 'The media with 17,949,950,115,092,594 cannot be found.', 'fbtrace_id': 'AZNMN-VCXUsd6fLKN47bBGA'}"
+  "tentativas": 2,
+  "ultimo_erro": "17841462777796896/media_publish: {'message': 'The requested resource does not exist', 'type': 'OAuthException', 'code': 24, 'error_subcode': 2207006, 'is_transient': False, 'error_user_title': 'Media Not Found', 'error_user_msg': 'The media with 17,949,951,435,092,594 cannot be found.', 'fbtrace_id': 'AJVdvOAbcrfOF-vnu9MG0cl'}"
  }
 }
