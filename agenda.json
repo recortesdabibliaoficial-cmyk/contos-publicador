@@ -2924,5 +2924,26 @@
   "fixo": true,
   "formato": "carrossel_simples",
   "origem": "historia_do_reel"
+ },
+ {
+  "id": "c5-2026-11-15-17-reel",
+  "tipo": "REEL",
+  "quando": "2026-11-15T17:00:00-03:00",
+  "midia": [
+   "midia/arte3/c5-2026-11-15-17_a31a2fe48.mp4"
+  ],
+  "legenda": "A tigela de ouro: O que quebrou em você também pode brilhar.\n\nNo Japão, consertar com ouro ganhou um nome: kintsugi.\n\n📜 Lenda japonesa\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
+  "na_grade": false,
+  "capa_ms": 500,
+  "cta": "nenhum",
+  "miniatura": "midia/miniaturas/c5-2026-11-15-17-reel.jpg",
+  "titulo": "A tigela de ouro",
+  "dur": 12.0,
+  "alt": "Conto ilustrado em papel recortado: A tigela de ouro",
+  "gancho": "Quebrou algo que você amava? Veja como consertaram.",
+  "arte": "nova",
+  "texto_curto": true,
+  "nota_moral": 4,
+  "adiavel": true
  }
 ]
