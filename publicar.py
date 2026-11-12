@@ -182,21 +182,31 @@ def renovar_token(token, estado):
     novo = r['access_token']
     pat, repo = os.environ.get('GH_PAT'), os.environ.get('GITHUB_REPOSITORY')
     if pat and repo:
-        from nacl import encoding, public
-        h = {'Authorization': f'Bearer {pat}', 'Accept': 'application/vnd.github+json'}
-        k = requests.get(f'https://api.github.com/repos/{repo}/actions/secrets/public-key', headers=h, timeout=60).json()
-        caixa = public.SealedBox(public.PublicKey(k['key'].encode(), encoding.Base64Encoder()))
-        cifrado = base64.b64encode(caixa.encrypt(novo.encode())).decode()
-        s = requests.put(f'https://api.github.com/repos/{repo}/actions/secrets/IG_TOKEN', headers=h, timeout=60,
-                         json={'encrypted_value': cifrado, 'key_id': k['key_id']})
-        if s.status_code in (201, 204):
-            log('Chave renovada e salva no segredo IG_TOKEN.')
-            estado['_token_renovado_em'] = datetime.now(timezone.utc).isoformat()
-        else:
-            log('AVISO: chave renovada, mas não consegui salvar no GitHub:', s.status_code, s.text[:200])
+        try: return _salvar_token(novo, pat, repo, estado)
+        except Exception as e:      # 12/11: GH_PAT sem acesso derrubava tudo; a chave antiga ainda vale, então segue publicando
+            log('AVISO: chave renovada, mas não consegui salvar no GitHub (conferir o segredo GH_PAT):', str(e)[:200])
+            estado['_token_aviso'] = f"{datetime.now(timezone.utc).isoformat(timespec='minutes')} GH_PAT falhou: {str(e)[:150]}"
+            estado['_token_renovado_em'] = (datetime.now(timezone.utc) - timedelta(days=19)).isoformat()   # tenta de novo amanhã
+            return token
     else:
         log('AVISO: chave renovada só nesta execução (falta o segredo GH_PAT para guardar a nova).')
         estado['_token_renovado_em'] = datetime.now(timezone.utc).isoformat()
+    return novo
+
+
+def _salvar_token(novo, pat, repo, estado):
+    """Grava a chave nova no segredo IG_TOKEN. Qualquer falha levanta erro (quem chama segue com a chave antiga)."""
+    from nacl import encoding, public
+    h = {'Authorization': f'Bearer {pat}', 'Accept': 'application/vnd.github+json'}
+    k = requests.get(f'https://api.github.com/repos/{repo}/actions/secrets/public-key', headers=h, timeout=60).json()
+    if 'key' not in k: raise RuntimeError(f'chave pública do GitHub: {str(k)[:150]}')
+    caixa = public.SealedBox(public.PublicKey(k['key'].encode(), encoding.Base64Encoder()))
+    cifrado = base64.b64encode(caixa.encrypt(novo.encode())).decode()
+    s = requests.put(f'https://api.github.com/repos/{repo}/actions/secrets/IG_TOKEN', headers=h, timeout=60,
+                     json={'encrypted_value': cifrado, 'key_id': k['key_id']})
+    if s.status_code not in (201, 204): raise RuntimeError(f'gravar segredo: {s.status_code} {s.text[:150]}')
+    log('Chave renovada e salva no segredo IG_TOKEN.')
+    estado['_token_renovado_em'] = datetime.now(timezone.utc).isoformat(); estado.pop('_token_aviso', None)
     return novo
 
 
