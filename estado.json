@@ -1,6 +1,6 @@
 {
- "_comentarios_em": "2026-11-12T17:30:38.532158+00:00",
- "_token_renovado_em": "2026-10-23T17:52:42.763947+00:00",
+ "_comentarios_em": "2026-11-12T22:21:36.901295+00:00",
+ "_token_renovado_em": "2026-10-24T22:20:38.798868+00:00",
  "contos-d01_manha-reel": {
   "tentativas": 0,
   "status": "publicado",
@@ -1078,5 +1078,20 @@
   "media_id": "18122914508077849",
   "em": "2026-11-12T15:05:51.023533+00:00",
   "link": "https://www.instagram.com/stories/contosrecortados/4028846327278450438"
+ },
+ "_token_aviso": "2026-11-12T22:20+00:00 GH_PAT falhou: chave pública do GitHub: {'message': 'Resource not accessible by personal access token', 'documentation_url': 'https://docs.github.com/rest/actions/se",
+ "s2-d13_tarde-reel": {
+  "tentativas": 0,
+  "status": "publicado",
+  "media_id": "18140041927629720",
+  "em": "2026-11-12T22:21:19.454613+00:00",
+  "link": "https://www.instagram.com/reel/DfqHZyPD9gC/"
+ },
+ "st6-2026-11-12-17": {
+  "tentativas": 0,
+  "status": "publicado",
+  "media_id": "18578011942073652",
+  "em": "2026-11-12T22:21:26.117951+00:00",
+  "link": "https://www.instagram.com/stories/contosrecortados/4029065698286314424"
  }
 }

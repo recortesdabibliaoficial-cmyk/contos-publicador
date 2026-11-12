@@ -16815,6 +16815,17 @@
     "ig_reels_avg_watch_time": 8835,
     "t": "2026-11-12T17:25+00:00",
     "h": 50.38
+   },
+   {
+    "reach": 111,
+    "views": 159,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 42.9,
+    "ig_reels_avg_watch_time": 8835,
+    "t": "2026-11-12T22:21+00:00",
+    "h": 55.32
    }
   ]
  },
@@ -17194,6 +17205,17 @@
     "ig_reels_avg_watch_time": 11165,
     "t": "2026-11-12T16:35+00:00",
     "h": 44.57
+   },
+   {
+    "reach": 164,
+    "views": 263,
+    "likes": 3,
+    "shares": 1,
+    "saved": 2,
+    "reels_skip_rate": 38,
+    "ig_reels_avg_watch_time": 11165,
+    "t": "2026-11-12T22:21+00:00",
+    "h": 50.34
    }
   ]
  },
@@ -17507,6 +17529,17 @@
     "ig_reels_avg_watch_time": 9726,
     "t": "2026-11-12T15:25+00:00",
     "h": 24.4
+   },
+   {
+    "reach": 100,
+    "views": 156,
+    "likes": 3,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 38.5,
+    "ig_reels_avg_watch_time": 9726,
+    "t": "2026-11-12T22:21+00:00",
+    "h": 31.34
    }
   ]
  },
@@ -17776,6 +17809,17 @@
     "ig_reels_avg_watch_time": 10241,
     "t": "2026-11-12T17:15+00:00",
     "h": 21.21
+   },
+   {
+    "reach": 41,
+    "views": 68,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 40.5,
+    "ig_reels_avg_watch_time": 10499,
+    "t": "2026-11-12T22:21+00:00",
+    "h": 26.31
    }
   ]
  },
@@ -17825,6 +17869,33 @@
     "ig_reels_avg_watch_time": 10784,
     "t": "2026-11-12T17:50+00:00",
     "h": 2.82
+   },
+   {
+    "reach": 80,
+    "views": 151,
+    "likes": 1,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 33.3,
+    "ig_reels_avg_watch_time": 10431,
+    "t": "2026-11-12T22:21+00:00",
+    "h": 7.34
+   }
+  ]
+ },
+ "s2-d13_tarde-reel": {
+  "publicado": "2026-11-12T22:21:19.454613+00:00",
+  "pontos": [
+   {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 0,
+    "ig_reels_avg_watch_time": 0,
+    "t": "2026-11-12T22:21+00:00",
+    "h": 0.0
    }
   ]
  }
