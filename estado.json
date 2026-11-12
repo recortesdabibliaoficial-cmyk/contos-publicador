@@ -1062,5 +1062,18 @@
   "media_id": "18414580228088930",
   "em": "2026-11-12T11:00:42.961066+00:00",
   "link": "https://www.instagram.com/stories/contosrecortados/4028723077009716100"
+ },
+ "c4-2026-11-05-12-reel": {
+  "tentativas": 0,
+  "status": "publicado",
+  "media_id": "18120166651797660",
+  "em": "2026-11-12T15:01:21.994232+00:00",
+  "link": "https://www.instagram.com/reel/DfpVDful41P/",
+  "como_teste": false,
+  "teste_recusado": "17841462777796896/media: {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 2207081, 'is_transient': False, 'error_user_title': "
+ },
+ "st6-2026-11-12-12": {
+  "tentativas": 1,
+  "ultimo_erro": "17841462777796896/media_publish: {'message': 'The requested resource does not exist', 'type': 'OAuthException', 'code': 24, 'error_subcode': 2207006, 'is_transient': False, 'error_user_title': 'Media Not Found', 'error_user_msg': 'The media with 17,951,114,991,092,594 cannot be found.', 'fbtrace_id': 'AV6lxbFqk3MGhQCC-dMLHr9'}"
  }
 }
