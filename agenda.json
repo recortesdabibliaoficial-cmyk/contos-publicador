@@ -2875,7 +2875,7 @@
  {
   "id": "b-s1-01-oi",
   "tipo": "REEL",
-  "quando": "2026-11-13T18:00:00-03:00",
+  "quando": "2026-11-13T12:00:00-03:00",
   "midia": [
    "midia/biscoitin/s1-01-oi.mp4"
   ],
@@ -2994,7 +2994,7 @@
  {
   "id": "b-s1-08-criar-meta",
   "tipo": "REEL",
-  "quando": "2026-11-13T19:00:00-03:00",
+  "quando": "2026-11-13T15:00:00-03:00",
   "midia": [
    "midia/biscoitin/s1-08-criar-meta.mp4"
   ],
@@ -3009,11 +3009,28 @@
   "canal": "biscoitin"
  },
  {
-  "id": "b-c-01-procuro-14",
+  "id": "b-c-01-procuro-13",
+  "tipo": "REEL",
+  "quando": "2026-11-13T18:00:00-03:00",
+  "midia": [
+   "midia/biscoitin/c-01-procuro.mp4"
+  ],
+  "legenda": "Quer testar o Biscoitin antes de todo mundo? 🐶\n\nÉ grátis e só pra Android:\n1. Toca no link da bio e entra no grupo (se pedir login, toca nos ⋮ e abre no Chrome)\n2. Abre o link do teste que aparece lá e baixa pela Play Store\n3. Fica 14 dias com ele (sem desinstalar) e faz carinho no doguinho quando lembrar\n\nSua opinião ajuda o Biscoitin a chegar na loja pra todo mundo 💛\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #testador #android",
+  "na_grade": true,
+  "capa_ms": 8500,
+  "cta": "link_bio",
+  "titulo": "Convite para testadores",
+  "dur": 9.0,
+  "alt": "Biscoitin, um doguinho de desenho, convidando pessoas com Android para testar o app",
+  "gancho": "Convite para testadores",
+  "canal": "biscoitin"
+ },
+ {
+  "id": "b-c-02-ajuda-14",
   "tipo": "REEL",
   "quando": "2026-11-14T12:00:00-03:00",
   "midia": [
-   "midia/biscoitin/c-01-procuro.mp4"
+   "midia/biscoitin/c-02-ajuda.mp4"
   ],
   "legenda": "Quer testar o Biscoitin antes de todo mundo? 🐶\n\nÉ grátis e só pra Android:\n1. Toca no link da bio e entra no grupo (se pedir login, toca nos ⋮ e abre no Chrome)\n2. Abre o link do teste que aparece lá e baixa pela Play Store\n3. Fica 14 dias com ele (sem desinstalar) e faz carinho no doguinho quando lembrar\n\nSua opinião ajuda o Biscoitin a chegar na loja pra todo mundo 💛\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #testador #android",
   "na_grade": true,
@@ -3026,27 +3043,10 @@
   "canal": "biscoitin"
  },
  {
-  "id": "b-c-02-ajuda-15",
+  "id": "b-c-03-psiu-15",
   "tipo": "REEL",
   "quando": "2026-11-15T12:00:00-03:00",
   "midia": [
-   "midia/biscoitin/c-02-ajuda.mp4"
-  ],
-  "legenda": "Quer testar o Biscoitin antes de todo mundo? 🐶\n\nÉ grátis e só pra Android:\n1. Toca no link da bio e entra no grupo (se pedir login, toca nos ⋮ e abre no Chrome)\n2. Abre o link do teste que aparece lá e baixa pela Play Store\n3. Fica 14 dias com ele (sem desinstalar) e faz carinho no doguinho quando lembrar\n\nSua opinião ajuda o Biscoitin a chegar na loja pra todo mundo 💛\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #testador #android",
-  "na_grade": true,
-  "capa_ms": 8500,
-  "cta": "link_bio",
-  "titulo": "Convite para testadores",
-  "dur": 9.0,
-  "alt": "Biscoitin, um doguinho de desenho, convidando pessoas com Android para testar o app",
-  "gancho": "Convite para testadores",
-  "canal": "biscoitin"
- },
- {
-  "id": "b-c-03-psiu-16",
-  "tipo": "REEL",
-  "quando": "2026-11-16T12:00:00-03:00",
-  "midia": [
    "midia/biscoitin/c-03-psiu.mp4"
   ],
   "legenda": "Quer testar o Biscoitin antes de todo mundo? 🐶\n\nÉ grátis e só pra Android:\n1. Toca no link da bio e entra no grupo (se pedir login, toca nos ⋮ e abre no Chrome)\n2. Abre o link do teste que aparece lá e baixa pela Play Store\n3. Fica 14 dias com ele (sem desinstalar) e faz carinho no doguinho quando lembrar\n\nSua opinião ajuda o Biscoitin a chegar na loja pra todo mundo 💛\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #testador #android",
@@ -3060,9 +3060,9 @@
   "canal": "biscoitin"
  },
  {
-  "id": "b-c-01-procuro-17",
+  "id": "b-c-01-procuro-16",
   "tipo": "REEL",
-  "quando": "2026-11-17T12:00:00-03:00",
+  "quando": "2026-11-16T12:00:00-03:00",
   "midia": [
    "midia/biscoitin/c-01-procuro.mp4"
   ],
@@ -3077,9 +3077,9 @@
   "canal": "biscoitin"
  },
  {
-  "id": "b-c-02-ajuda-18",
+  "id": "b-c-02-ajuda-17",
   "tipo": "REEL",
-  "quando": "2026-11-18T12:00:00-03:00",
+  "quando": "2026-11-17T12:00:00-03:00",
   "midia": [
    "midia/biscoitin/c-02-ajuda.mp4"
   ],
@@ -3094,11 +3094,28 @@
   "canal": "biscoitin"
  },
  {
-  "id": "b-c-03-psiu-19",
+  "id": "b-c-03-psiu-18",
+  "tipo": "REEL",
+  "quando": "2026-11-18T12:00:00-03:00",
+  "midia": [
+   "midia/biscoitin/c-03-psiu.mp4"
+  ],
+  "legenda": "Quer testar o Biscoitin antes de todo mundo? 🐶\n\nÉ grátis e só pra Android:\n1. Toca no link da bio e entra no grupo (se pedir login, toca nos ⋮ e abre no Chrome)\n2. Abre o link do teste que aparece lá e baixa pela Play Store\n3. Fica 14 dias com ele (sem desinstalar) e faz carinho no doguinho quando lembrar\n\nSua opinião ajuda o Biscoitin a chegar na loja pra todo mundo 💛\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #testador #android",
+  "na_grade": false,
+  "capa_ms": 8500,
+  "cta": "link_bio",
+  "titulo": "Convite para testadores",
+  "dur": 9.0,
+  "alt": "Biscoitin, um doguinho de desenho, convidando pessoas com Android para testar o app",
+  "gancho": "Convite para testadores",
+  "canal": "biscoitin"
+ },
+ {
+  "id": "b-c-01-procuro-19",
   "tipo": "REEL",
   "quando": "2026-11-19T12:00:00-03:00",
   "midia": [
-   "midia/biscoitin/c-03-psiu.mp4"
+   "midia/biscoitin/c-01-procuro.mp4"
   ],
   "legenda": "Quer testar o Biscoitin antes de todo mundo? 🐶\n\nÉ grátis e só pra Android:\n1. Toca no link da bio e entra no grupo (se pedir login, toca nos ⋮ e abre no Chrome)\n2. Abre o link do teste que aparece lá e baixa pela Play Store\n3. Fica 14 dias com ele (sem desinstalar) e faz carinho no doguinho quando lembrar\n\nSua opinião ajuda o Biscoitin a chegar na loja pra todo mundo 💛\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #testador #android",
   "na_grade": false,
