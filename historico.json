@@ -18800,7 +18800,7 @@
  },
  "2026-11-13": {
   "seguidores": 25,
-  "publicacoes": 0,
+  "publicacoes": 2,
   "itens": {
    "contos-d01_manha-reel": {
     "reach": 19,
@@ -20378,8 +20378,32 @@
     "total_interactions": 0,
     "follows": 0,
     "profile_visits": 0
+   },
+   "b-s1-01-oi": {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 0,
+    "reels_skip_rate": 0,
+    "ig_reels_video_view_total_time": 0
+   },
+   "b-s1-08-criar-meta": {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 0,
+    "reels_skip_rate": 0,
+    "ig_reels_video_view_total_time": 0
    }
   },
-  "em": "2026-11-13T00:53-03:00"
+  "em": "2026-11-13T15:43-03:00"
  }
 }

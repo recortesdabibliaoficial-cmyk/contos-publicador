@@ -17898,5 +17898,37 @@
     "h": 0.0
    }
   ]
+ },
+ "b-s1-01-oi": {
+  "publicado": "2026-11-13T18:41:45.687668+00:00",
+  "pontos": [
+   {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 0,
+    "ig_reels_avg_watch_time": 0,
+    "t": "2026-11-13T18:43+00:00",
+    "h": 0.03
+   }
+  ]
+ },
+ "b-s1-08-criar-meta": {
+  "publicado": "2026-11-13T18:43:16.073763+00:00",
+  "pontos": [
+   {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 0,
+    "ig_reels_avg_watch_time": 0,
+    "t": "2026-11-13T18:43+00:00",
+    "h": 0.0
+   }
+  ]
  }
 }
