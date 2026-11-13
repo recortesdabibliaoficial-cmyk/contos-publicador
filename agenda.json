@@ -2892,7 +2892,7 @@
  {
   "id": "b-s1-02-agua",
   "tipo": "REEL",
-  "quando": "2026-11-14T19:00:00-03:00",
+  "quando": "2026-11-14T18:00:00-03:00",
   "midia": [
    "midia/biscoitin/s1-02-agua.mp4"
   ],
@@ -2989,6 +2989,23 @@
   "dur": 8.0,
   "alt": "Biscoitin, um doguinho de desenho, numa casinha: Meta de hoje: dormir antes da meia-noite",
   "gancho": "Meta de hoje: dormir antes da meia-noite",
+  "canal": "biscoitin"
+ },
+ {
+  "id": "b-s1-08-criar-meta",
+  "tipo": "REEL",
+  "quando": "2026-11-14T19:00:00-03:00",
+  "midia": [
+   "midia/biscoitin/s1-08-criar-meta.mp4"
+  ],
+  "legenda": "Criar uma meta no Biscoitin: nome, dias, hora e... latido! 🐶⏰\n\nNa hora certa, ele passa pra te lembrar. Se você já fez, ele nem aparece.\n\nSegue pra saber quando o Biscoitin chegar na Play Store 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #lembrete",
+  "na_grade": true,
+  "capa_ms": 20000,
+  "cta": "seguir",
+  "titulo": "Como criar uma meta",
+  "dur": 21.0,
+  "alt": "Telas do app Biscoitin mostrando como criar uma meta com dias, horário e latido, e a notificação chegando",
+  "gancho": "Criar uma meta leva 10 segundos",
   "canal": "biscoitin"
  }
 ]
