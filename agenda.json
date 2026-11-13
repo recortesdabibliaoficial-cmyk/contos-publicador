@@ -2618,132 +2618,6 @@
   "adiavel": true
  },
  {
-  "id": "s2-d13_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-13T12:00:00-03:00",
-  "midia": [
-   "midia/arte3/s2-d13_noite_adcf34a7d.mp4"
-  ],
-  "legenda": "Os dois lobos: Cuide do que você alimenta por dentro. É isso que cresce.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d13_noite-reel.jpg",
-  "titulo": "Os dois lobos",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os dois lobos",
-  "gancho": "Raiva e paz brigando em você? Uma delas vai vencer.",
-  "gancho_antigo": "Existe uma briga dentro de você.",
-  "experimento": "N-A",
-  "arte": "nova",
-  "texto_curto": true,
-  "quando_antes": "2026-11-05T19:00:00-03:00",
-  "experimento_grade": "P-2conto",
-  "teste": true,
-  "experimento_teste": "T-12h",
-  "nota_moral": 5
- },
- {
-  "id": "s2-d14_manha-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-13T17:00:00-03:00",
-  "midia": [
-   "midia/arte3/s2-d14_manha_a79bbe722.mp4"
-  ],
-  "legenda": "Os músicos de Bremen: Nunca é tarde para recomeçar. Ainda mais com amigos.\n\nUm burro trabalhou a vida inteira.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_manha-reel.jpg",
-  "titulo": "Os músicos de Bremen",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: Os músicos de Bremen",
-  "gancho": "Ninguém queria mais os quatro bichos velhos.",
-  "experimento": "N-B",
-  "arte": "nova",
-  "texto_curto": true,
-  "quando_antes": "2026-11-06T10:00:00-03:00",
-  "experimento_grade": "P-2conto",
-  "nota_moral": 3,
-  "adiavel": true
- },
- {
-  "id": "c4-2026-11-06-12-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-14T12:00:00-03:00",
-  "midia": [
-   "midia/arte3/c4-2026-11-06-12_a57b2f69b.mp4"
-  ],
-  "legenda": "A galinha dos ovos de ouro: Tenha paciência. Quem quer tudo de uma vez perde até o que tem.\n\nUm casal pobre tinha uma galinha diferente.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-c4-2026-11-06-12-reel.jpg",
-  "titulo": "A galinha dos ovos de ouro",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A galinha dos ovos de ouro",
-  "gancho": "Quem tudo quer, tudo perde.",
-  "gancho_antigo": "Todo dia, um ovo de ouro. Não bastou.",
-  "experimento": "N-A",
-  "arte": "nova",
-  "texto_curto": true,
-  "quando_antes": "2026-11-06T12:00:00-03:00",
-  "experimento_grade": "P-2conto",
-  "teste": true,
-  "experimento_teste": "T-12h",
-  "nota_moral": 4
- },
- {
-  "id": "s2-d14_tarde-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-14T17:00:00-03:00",
-  "midia": [
-   "midia/arte3/s2-d14_tarde_a294cce44.mp4"
-  ],
-  "legenda": "A sopa de pedra: Quando cada um dá um pouco, sobra para todos.\n\nUm viajante com fome chegou a uma aldeia.\n\n📜 conto popular português\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_tarde-reel.jpg",
-  "titulo": "A sopa de pedra",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A sopa de pedra",
-  "gancho": "Ninguém quis ajudar? Uma pedra mudou tudo.",
-  "gancho_antigo": "Ninguém deu comida. Ele pegou uma pedra.",
-  "experimento": "N-A",
-  "arte": "nova",
-  "texto_curto": true,
-  "quando_antes": "2026-11-06T17:00:00-03:00",
-  "experimento_grade": "P-2conto",
-  "nota_moral": 3,
-  "adiavel": true
- },
- {
-  "id": "s2-d14_noite-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-15T12:00:00-03:00",
-  "midia": [
-   "midia/arte3/s2-d14_noite_aa1e86e0f.mp4"
-  ],
-  "legenda": "O avô e o netinho: Trate bem os mais velhos. Os pequenos estão olhando.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/semana2/miniaturas/contos-s2-d14_noite-reel.jpg",
-  "titulo": "O avô e o netinho",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: O avô e o netinho",
-  "gancho": "O menino fazia uma tigela de madeira.",
-  "experimento": "N-B",
-  "arte": "nova",
-  "texto_curto": true,
-  "quando_antes": "2026-11-06T19:00:00-03:00",
-  "experimento_grade": "P-2conto",
-  "teste": true,
-  "experimento_teste": "T-12h",
-  "nota_moral": 5
- },
- {
   "id": "cn3-2026-11-09-20",
   "tipo": "CARROSSEL",
   "quando": "2026-11-09T20:00:00-03:00",
@@ -2820,131 +2694,6 @@
   "fixo": true,
   "formato": "carrossel_simples",
   "origem": "historia_do_reel"
- },
- {
-  "id": "cn3-2026-11-12-20",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-12T20:00:00-03:00",
-  "midia": [
-   "midia/carrossel_novo/cn3-2026-11-12-20_01_2f954946.jpg",
-   "midia/carrossel_novo/cn3-2026-11-12-20_02_510d9e0b.jpg",
-   "midia/carrossel_novo/cn3-2026-11-12-20_03_23e59c7f.jpg",
-   "midia/carrossel_novo/cn3-2026-11-12-20_04_cbae8ccd.jpg",
-   "midia/carrossel_novo/cn3-2026-11-12-20_05_c0da22b4.jpg"
-  ],
-  "legenda": "A lebre e a tartaruga: A pressa é inimiga da perfeição. Constância sempre ganha.\n\nA lebre riu da tartaruga e apostou uma corrida.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado.",
-   "Slide 2 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado.",
-   "Slide 3 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado.",
-   "Slide 4 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado.",
-   "Slide 5 de 5: A lebre e a tartaruga. Texto sobre ilustração em papel recortado."
-  ],
-  "miniatura": "midia/miniaturas/cn3-2026-11-12-20.jpg",
-  "titulo": "A lebre e a tartaruga",
-  "fixo": true,
-  "formato": "carrossel_simples",
-  "origem": "historia_do_reel"
- },
- {
-  "id": "cn3-2026-11-13-20",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-13T20:00:00-03:00",
-  "midia": [
-   "midia/carrossel_novo/cn3-2026-11-13-20_01_00bb6275.jpg",
-   "midia/carrossel_novo/cn3-2026-11-13-20_02_9ca56979.jpg",
-   "midia/carrossel_novo/cn3-2026-11-13-20_03_a5ce5e1d.jpg",
-   "midia/carrossel_novo/cn3-2026-11-13-20_04_056b8d71.jpg",
-   "midia/carrossel_novo/cn3-2026-11-13-20_05_d4082b3b.jpg"
-  ],
-  "legenda": "Os dois lobos: Cuide do que você alimenta por dentro. É isso que cresce.\n\nPerto do fogo, um avô indígena conversava com o neto.\n\n📜 lenda popular atribuída aos cherokees\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 5: Os dois lobos. Texto sobre ilustração em papel recortado.",
-   "Slide 2 de 5: Os dois lobos. Texto sobre ilustração em papel recortado.",
-   "Slide 3 de 5: Os dois lobos. Texto sobre ilustração em papel recortado.",
-   "Slide 4 de 5: Os dois lobos. Texto sobre ilustração em papel recortado.",
-   "Slide 5 de 5: Os dois lobos. Texto sobre ilustração em papel recortado."
-  ],
-  "miniatura": "midia/miniaturas/cn3-2026-11-13-20.jpg",
-  "titulo": "Os dois lobos",
-  "fixo": true,
-  "formato": "carrossel_simples",
-  "origem": "historia_do_reel"
- },
- {
-  "id": "cn3-2026-11-14-20",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-14T20:00:00-03:00",
-  "midia": [
-   "midia/carrossel_novo/cn3-2026-11-14-20_01_f1fdbea4.jpg",
-   "midia/carrossel_novo/cn3-2026-11-14-20_02_8e304750.jpg",
-   "midia/carrossel_novo/cn3-2026-11-14-20_03_18959d6e.jpg",
-   "midia/carrossel_novo/cn3-2026-11-14-20_04_2acabee1.jpg",
-   "midia/carrossel_novo/cn3-2026-11-14-20_05_b92f55f9.jpg"
-  ],
-  "legenda": "A galinha dos ovos de ouro: Tenha paciência. Quem quer tudo de uma vez perde até o que tem.\n\nUm casal pobre tinha uma galinha diferente.\n\n📜 Esopo\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado.",
-   "Slide 2 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado.",
-   "Slide 3 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado.",
-   "Slide 4 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado.",
-   "Slide 5 de 5: A galinha dos ovos de ouro. Texto sobre ilustração em papel recortado."
-  ],
-  "miniatura": "midia/miniaturas/cn3-2026-11-14-20.jpg",
-  "titulo": "A galinha dos ovos de ouro",
-  "fixo": true,
-  "formato": "carrossel_simples",
-  "origem": "historia_do_reel"
- },
- {
-  "id": "cn3-2026-11-15-20",
-  "tipo": "CARROSSEL",
-  "quando": "2026-11-15T20:00:00-03:00",
-  "midia": [
-   "midia/carrossel_novo/cn3-2026-11-15-20_01_901cc522.jpg",
-   "midia/carrossel_novo/cn3-2026-11-15-20_02_49ca369a.jpg",
-   "midia/carrossel_novo/cn3-2026-11-15-20_03_f971b3b6.jpg",
-   "midia/carrossel_novo/cn3-2026-11-15-20_04_d24486d8.jpg",
-   "midia/carrossel_novo/cn3-2026-11-15-20_05_1c9d7290.jpg"
-  ],
-  "legenda": "O avô e o netinho: Trate bem os mais velhos. Os pequenos estão olhando.\n\nUm avô bem velhinho morava com o filho, a nora e o neto.\n\n📜 Irmãos Grimm\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "cta": null,
-  "alt": [
-   "Slide 1 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado.",
-   "Slide 2 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado.",
-   "Slide 3 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado.",
-   "Slide 4 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado.",
-   "Slide 5 de 5: O avô e o netinho. Texto sobre ilustração em papel recortado."
-  ],
-  "miniatura": "midia/miniaturas/cn3-2026-11-15-20.jpg",
-  "titulo": "O avô e o netinho",
-  "fixo": true,
-  "formato": "carrossel_simples",
-  "origem": "historia_do_reel"
- },
- {
-  "id": "c5-2026-11-15-17-reel",
-  "tipo": "REEL",
-  "quando": "2026-11-15T17:00:00-03:00",
-  "midia": [
-   "midia/arte3/c5-2026-11-15-17_a31a2fe48.mp4"
-  ],
-  "legenda": "A tigela de ouro: O que quebrou em você também pode brilhar.\n\nNo Japão, consertar com ouro ganhou um nome: kintsugi.\n\n📜 Lenda japonesa\n\n#contos #fabulas #sabedoria #reflexao #historiascomlicao",
-  "na_grade": false,
-  "capa_ms": 500,
-  "cta": "nenhum",
-  "miniatura": "midia/miniaturas/c5-2026-11-15-17-reel.jpg",
-  "titulo": "A tigela de ouro",
-  "dur": 12.0,
-  "alt": "Conto ilustrado em papel recortado: A tigela de ouro",
-  "gancho": "Quebrou algo que você amava? Veja como consertaram.",
-  "arte": "nova",
-  "texto_curto": true,
-  "nota_moral": 4,
-  "adiavel": true
  },
  {
   "id": "st6-2026-11-09-08",
@@ -3124,158 +2873,122 @@
   "destaque": "Fábulas"
  },
  {
-  "id": "st6-2026-11-12-21",
-  "tipo": "STORY",
-  "quando": "2026-11-12T21:00:00-03:00",
+  "id": "b-s1-01-oi",
+  "tipo": "REEL",
+  "quando": "2026-11-13T19:00:00-03:00",
   "midia": [
-   "midia/lote0911/stories/st6-2026-11-12-21_0c4f9fda.jpg"
+   "midia/biscoitin/s1-01-oi.mp4"
   ],
-  "titulo": "Os sapos no buraco",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-12-21.jpg",
-  "destaque": "Fábulas"
+  "legenda": "Prazer, Biscoitin! 🐶💛\n\nVocê cuida das suas metas, ele cuida de você: comemora, faz carinho e volta do rolê cheio de fofoca.\n\nSegue pra saber quando o Biscoitin chegar na Play Store 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho",
+  "na_grade": true,
+  "capa_ms": 7600,
+  "cta": "seguir",
+  "titulo": "Oi! Eu sou o Biscoitin",
+  "dur": 8.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Oi! Eu sou o Biscoitin",
+  "gancho": "Oi! Eu sou o Biscoitin",
+  "canal": "biscoitin"
  },
  {
-  "id": "st6-2026-11-13-08",
-  "tipo": "STORY",
-  "quando": "2026-11-13T08:00:00-03:00",
+  "id": "b-s1-02-agua",
+  "tipo": "REEL",
+  "quando": "2026-11-14T19:00:00-03:00",
   "midia": [
-   "midia/lote0911/stories/st6-2026-11-13-08_19d0eb47.jpg"
+   "midia/biscoitin/s1-02-agua.mp4"
   ],
-  "titulo": "A borboleta",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-13-08.jpg",
-  "destaque": "Consolo"
+  "legenda": "Ele não julga. Só fica olhando. 👀💧\n\nMarca alguém que precisa desse lembrete.\n\nSegue pra saber quando o Biscoitin chegar na Play Store 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho",
+  "na_grade": true,
+  "capa_ms": 7600,
+  "cta": "seguir",
+  "titulo": "Quando você lembra às 23h que não bebeu água o dia todo",
+  "dur": 8.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Quando você lembra às 23h que não bebeu água o dia todo",
+  "gancho": "Quando você lembra às 23h que não bebeu água o dia todo",
+  "canal": "biscoitin"
  },
  {
-  "id": "st6-2026-11-13-12",
-  "tipo": "STORY",
-  "quando": "2026-11-13T12:00:00-03:00",
+  "id": "b-s1-03-pombo",
+  "tipo": "REEL",
+  "quando": "2026-11-15T19:00:00-03:00",
   "midia": [
-   "midia/lote0911/stories/st6-2026-11-13-12_f5bd6acf.jpg"
+   "midia/biscoitin/s1-03-pombo.mp4"
   ],
-  "titulo": "O lenhador e o machado",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-13-12.jpg",
-  "destaque": "Sabedoria"
+  "legenda": "Fofoca do rolê nº 1: o pombo. 🐦\n\nTodo dia que você cumpre suas metas, ele sai pra passear e volta com uma história.\n\nSegue pra saber quando o Biscoitin chegar na Play Store 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #fofoca",
+  "na_grade": true,
+  "capa_ms": 11600,
+  "cta": "seguir",
+  "titulo": "Voltei do rolê. Senta que lá vem fofoca",
+  "dur": 12.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Voltei do rolê. Senta que lá vem fofoca",
+  "gancho": "Voltei do rolê. Senta que lá vem fofoca",
+  "canal": "biscoitin"
  },
  {
-  "id": "st6-2026-11-13-17",
-  "tipo": "STORY",
-  "quando": "2026-11-13T17:00:00-03:00",
+  "id": "b-s1-04-caminhar",
+  "tipo": "REEL",
+  "quando": "2026-11-16T19:00:00-03:00",
   "midia": [
-   "midia/lote0911/stories/st6-2026-11-13-17_14134fe2.jpg"
+   "midia/biscoitin/s1-04-caminhar.mp4"
   ],
-  "titulo": "Os dois lobos",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-13-17.jpg",
-  "destaque": "Sabedoria"
+  "legenda": "Meta do dia: 20 minutinhos de caminhada. 🚶\n\nPode ser no quarteirão, no shopping ou na esteira. Volta aqui e comenta \"feito\" que o Biscoitin comemora com você!\n\nSegue pra saber quando o Biscoitin chegar na Play Store 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho",
+  "na_grade": true,
+  "capa_ms": 7600,
+  "cta": "seguir",
+  "titulo": "Meta de hoje: caminhar 20 minutos",
+  "dur": 8.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Meta de hoje: caminhar 20 minutos",
+  "gancho": "Meta de hoje: caminhar 20 minutos",
+  "canal": "biscoitin"
  },
  {
-  "id": "st6-2026-11-13-21",
-  "tipo": "STORY",
-  "quando": "2026-11-13T21:00:00-03:00",
+  "id": "b-s1-05-despertador",
+  "tipo": "REEL",
+  "quando": "2026-11-17T19:00:00-03:00",
   "midia": [
-   "midia/lote0911/stories/st6-2026-11-13-21_ed8f0a3f.jpg"
+   "midia/biscoitin/s1-05-despertador.mp4"
   ],
-  "titulo": "O eco",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-13-21.jpg",
-  "destaque": "Pais e filhos"
+  "legenda": "Só mais 5 minutinhos. Ou 50. 😴\n\nQuem nunca?\n\nSegue pra saber quando o Biscoitin chegar na Play Store 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho",
+  "na_grade": true,
+  "capa_ms": 6600,
+  "cta": "seguir",
+  "titulo": "Eu quando o despertador toca pela 3ª vez",
+  "dur": 7.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Eu quando o despertador toca pela 3ª vez",
+  "gancho": "Eu quando o despertador toca pela 3ª vez",
+  "canal": "biscoitin"
  },
  {
-  "id": "st6-2026-11-14-08",
-  "tipo": "STORY",
-  "quando": "2026-11-14T08:00:00-03:00",
+  "id": "b-s1-06-padaria",
+  "tipo": "REEL",
+  "quando": "2026-11-18T19:00:00-03:00",
   "midia": [
-   "midia/lote0911/stories/st6-2026-11-14-08_90dfeacb.jpg"
+   "midia/biscoitin/s1-06-padaria.mp4"
   ],
-  "titulo": "O tigre e o morango",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-14-08.jpg",
-  "destaque": "Sabedoria"
+  "legenda": "Fofoca do rolê nº 2: a padaria. 🥖\n\nOlhar de quem paga boleto é talento.\n\nSegue pra saber quando o Biscoitin chegar na Play Store 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #fofoca",
+  "na_grade": true,
+  "capa_ms": 11600,
+  "cta": "seguir",
+  "titulo": "Voltei do rolê. Senta que lá vem fofoca",
+  "dur": 12.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Voltei do rolê. Senta que lá vem fofoca",
+  "gancho": "Voltei do rolê. Senta que lá vem fofoca",
+  "canal": "biscoitin"
  },
  {
-  "id": "st6-2026-11-14-12",
-  "tipo": "STORY",
-  "quando": "2026-11-14T12:00:00-03:00",
+  "id": "b-s1-07-dormir",
+  "tipo": "REEL",
+  "quando": "2026-11-19T19:00:00-03:00",
   "midia": [
-   "midia/lote0911/stories/st6-2026-11-14-12_6f4e5f3b.jpg"
+   "midia/biscoitin/s1-07-dormir.mp4"
   ],
-  "titulo": "O burro no poço",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-14-12.jpg",
-  "destaque": "Consolo"
- },
- {
-  "id": "st6-2026-11-14-17",
-  "tipo": "STORY",
-  "quando": "2026-11-14T17:00:00-03:00",
-  "midia": [
-   "midia/lote0911/stories/st6-2026-11-14-17_eb5a82fe.jpg"
-  ],
-  "titulo": "A galinha dos ovos de ouro",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-14-17.jpg"
- },
- {
-  "id": "st6-2026-11-14-21",
-  "tipo": "STORY",
-  "quando": "2026-11-14T21:00:00-03:00",
-  "midia": [
-   "midia/lote0911/stories/st6-2026-11-14-21_569912fb.jpg"
-  ],
-  "titulo": "O leão e o rato",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-14-21.jpg",
-  "destaque": "Fábulas"
- },
- {
-  "id": "st6-2026-11-15-08",
-  "tipo": "STORY",
-  "quando": "2026-11-15T08:00:00-03:00",
-  "midia": [
-   "midia/lote0911/stories/st6-2026-11-15-08_964ec068.jpg"
-  ],
-  "titulo": "O ladrão e a lua",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-15-08.jpg",
-  "destaque": "Sabedoria"
- },
- {
-  "id": "st6-2026-11-15-12",
-  "tipo": "STORY",
-  "quando": "2026-11-15T12:00:00-03:00",
-  "midia": [
-   "midia/lote0911/stories/st6-2026-11-15-12_14e8c051.jpg"
-  ],
-  "titulo": "A semente vazia",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-15-12.jpg",
-  "destaque": "Sabedoria"
- },
- {
-  "id": "st6-2026-11-15-17",
-  "tipo": "STORY",
-  "quando": "2026-11-15T17:00:00-03:00",
-  "midia": [
-   "midia/lote0911/stories/st6-2026-11-15-17_736d912f.jpg"
-  ],
-  "titulo": "O avô e o netinho",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-15-17.jpg",
-  "destaque": "Pais e filhos"
- },
- {
-  "id": "st6-2026-11-15-21",
-  "tipo": "STORY",
-  "quando": "2026-11-15T21:00:00-03:00",
-  "midia": [
-   "midia/lote0911/stories/st6-2026-11-15-21_96bb6b73.jpg"
-  ],
-  "titulo": "O beija-flor e o incêndio",
-  "fixo": true,
-  "miniatura": "midia/lote0911/miniaturas/contos-st6-2026-11-15-21.jpg",
-  "destaque": "Fábulas"
+  "legenda": "Meta do dia: dormir antes da meia-noite. 🌙\n\nSeu eu de amanhã agradece. O Biscoitin já foi deitar.\n\nSegue pra saber quando o Biscoitin chegar na Play Store 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho",
+  "na_grade": true,
+  "capa_ms": 7600,
+  "cta": "seguir",
+  "titulo": "Meta de hoje: dormir antes da meia-noite",
+  "dur": 8.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Meta de hoje: dormir antes da meia-noite",
+  "gancho": "Meta de hoje: dormir antes da meia-noite",
+  "canal": "biscoitin"
  }
 ]
