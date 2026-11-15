@@ -91,9 +91,13 @@
   {
    "dia": "2026-11-14",
    "n": 27
+  },
+  {
+   "dia": "2026-11-15",
+   "n": 27
   }
  ],
- "_em": "2026-11-14T14:35:21.153380+00:00",
+ "_em": "2026-11-15T02:30:34.686544+00:00",
  "_seg_hora": [
   {
    "t": "2026-10-31T23:50-03:00",
@@ -1510,7 +1514,7 @@
   "profile_visits": 1,
   "lido_em": "2026-11-12T02:30:31.821123+00:00"
  },
- "_fechado": "2026-11-13",
+ "_fechado": "2026-11-14",
  "contos-d02_manha-reel": {
   "reach": 1828,
   "views": 2890,
@@ -3190,42 +3194,68 @@
   "lido_em": "2026-11-12T22:21:26.758919+00:00"
  },
  "b-s1-01-oi": {
-  "reach": 25,
-  "views": 33,
+  "reach": 27,
+  "views": 38,
   "likes": 2,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 2,
-  "ig_reels_avg_watch_time": 3424,
-  "reels_skip_rate": 80.8,
-  "ig_reels_video_view_total_time": 92453,
-  "lido_em": "2026-11-14T14:35:21.153380+00:00"
+  "ig_reels_avg_watch_time": 3825,
+  "reels_skip_rate": 78.6,
+  "ig_reels_video_view_total_time": 110927,
+  "lido_em": "2026-11-15T02:30:34.686544+00:00"
  },
  "b-s1-08-criar-meta": {
-  "reach": 32,
-  "views": 36,
+  "reach": 33,
+  "views": 39,
   "likes": 1,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 1,
-  "ig_reels_avg_watch_time": 4849,
-  "reels_skip_rate": 78.1,
-  "ig_reels_video_view_total_time": 169748,
-  "lido_em": "2026-11-14T14:35:21.153380+00:00"
+  "ig_reels_avg_watch_time": 5120,
+  "reels_skip_rate": 75.8,
+  "ig_reels_video_view_total_time": 184341,
+  "lido_em": "2026-11-15T02:30:34.686544+00:00"
  },
  "b-c-01-procuro-13": {
-  "reach": 129,
-  "views": 139,
+  "reach": 134,
+  "views": 144,
   "likes": 1,
   "comments": 0,
   "saved": 0,
   "shares": 1,
   "total_interactions": 3,
-  "ig_reels_avg_watch_time": 2216,
-  "reels_skip_rate": 85,
-  "ig_reels_video_view_total_time": 288100,
-  "lido_em": "2026-11-14T14:35:21.153380+00:00"
+  "ig_reels_avg_watch_time": 2149,
+  "reels_skip_rate": 85.6,
+  "ig_reels_video_view_total_time": 292331,
+  "lido_em": "2026-11-15T02:30:34.686544+00:00"
+ },
+ "b-c-02-ajuda-14": {
+  "reach": 20,
+  "views": 34,
+  "likes": 1,
+  "comments": 0,
+  "saved": 0,
+  "shares": 0,
+  "total_interactions": 1,
+  "ig_reels_avg_watch_time": 7540,
+  "reels_skip_rate": 81.8,
+  "ig_reels_video_view_total_time": 173440,
+  "lido_em": "2026-11-15T02:30:34.686544+00:00"
+ },
+ "b-s1-02-agua": {
+  "reach": 118,
+  "views": 146,
+  "likes": 2,
+  "comments": 0,
+  "saved": 0,
+  "shares": 0,
+  "total_interactions": 2,
+  "ig_reels_avg_watch_time": 4457,
+  "reels_skip_rate": 53.4,
+  "ig_reels_video_view_total_time": 534955,
+  "lido_em": "2026-11-15T02:30:34.686544+00:00"
  }
 }
