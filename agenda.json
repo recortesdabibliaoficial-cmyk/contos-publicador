@@ -3126,5 +3126,107 @@
   "alt": "Biscoitin, um doguinho de desenho, convidando pessoas com Android para testar o app",
   "gancho": "Convite para testadores",
   "canal": "biscoitin"
+ },
+ {
+  "id": "b-s1-09-sexta",
+  "tipo": "REEL",
+  "quando": "2026-11-20T19:00:00-03:00",
+  "midia": [
+   "midia/biscoitin/s1-09-sexta.mp4"
+  ],
+  "legenda": "Sextou com carinho. 💛\n\nSe a semana foi pesada, hoje vale o básico: água, comida e descanso. O resto espera.\n\nSegue pra saber quando o Biscoitin chegar no Android e no iPhone 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho",
+  "na_grade": true,
+  "capa_ms": 7600,
+  "cta": "seguir",
+  "titulo": "Eu quando chega sexta e a semana foi puxada",
+  "dur": 8.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Eu quando chega sexta e a semana foi puxada",
+  "gancho": "Eu quando chega sexta e a semana foi puxada",
+  "canal": "biscoitin"
+ },
+ {
+  "id": "b-s1-10-gato",
+  "tipo": "REEL",
+  "quando": "2026-11-21T19:00:00-03:00",
+  "midia": [
+   "midia/biscoitin/s1-10-gato.mp4"
+  ],
+  "legenda": "Fofoca do rolê nº 3: o gato do muro. 🐱\n\nAmizade é assim: começa com um bocejo.\n\nSegue pra saber quando o Biscoitin chegar no Android e no iPhone 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #fofoca",
+  "na_grade": true,
+  "capa_ms": 11600,
+  "cta": "seguir",
+  "titulo": "Voltei do rolê. Senta que lá vem fofoca",
+  "dur": 12.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Voltei do rolê. Senta que lá vem fofoca",
+  "gancho": "Voltei do rolê. Senta que lá vem fofoca",
+  "canal": "biscoitin"
+ },
+ {
+  "id": "b-s1-11-oi-alguem",
+  "tipo": "REEL",
+  "quando": "2026-11-22T19:00:00-03:00",
+  "midia": [
+   "midia/biscoitin/s1-11-oi-alguem.mp4"
+  ],
+  "legenda": "Meta do dia: mandar um oi pra quem você gosta. 💌\n\nPode ser uma mensagem, um áudio ou uma figurinha. Volta aqui e comenta \"feito\" que o Biscoitin comemora com você!\n\nSegue pra saber quando o Biscoitin chegar no Android e no iPhone 🐶\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho",
+  "na_grade": true,
+  "capa_ms": 7600,
+  "cta": "seguir",
+  "titulo": "Meta de hoje: mandar um oi pra alguém que você gosta",
+  "dur": 8.0,
+  "alt": "Biscoitin, um doguinho de desenho, numa casinha: Meta de hoje: mandar um oi pra alguém que você gosta",
+  "gancho": "Meta de hoje: mandar um oi pra alguém que você gosta",
+  "canal": "biscoitin"
+ },
+ {
+  "id": "b-c-02-ajuda-20",
+  "tipo": "REEL",
+  "quando": "2026-11-20T12:00:00-03:00",
+  "midia": [
+   "midia/biscoitin/c-02-ajuda.mp4"
+  ],
+  "legenda": "Quer testar o Biscoitin antes de todo mundo? 🐶\n\nÉ grátis e só pra Android:\n1. Toca no link da bio e entra no grupo (se pedir login, toca nos ⋮ e abre no Chrome)\n2. Abre o link do teste que aparece lá e baixa pela Play Store\n3. Fica 14 dias com ele (sem desinstalar) e faz carinho no doguinho quando lembrar\n\nSua opinião ajuda o Biscoitin a chegar na loja pra todo mundo 💛\n\nTem iPhone? Ele chega aí depois. Segue o perfil que eu aviso 🍎\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #testador #android",
+  "na_grade": false,
+  "capa_ms": 8500,
+  "cta": "link_bio",
+  "titulo": "Convite para testadores",
+  "dur": 9.0,
+  "alt": "Biscoitin, um doguinho de desenho, convidando pessoas com Android para testar o app",
+  "gancho": "Convite para testadores",
+  "canal": "biscoitin"
+ },
+ {
+  "id": "b-c-03-psiu-21",
+  "tipo": "REEL",
+  "quando": "2026-11-21T12:00:00-03:00",
+  "midia": [
+   "midia/biscoitin/c-03-psiu.mp4"
+  ],
+  "legenda": "Quer testar o Biscoitin antes de todo mundo? 🐶\n\nÉ grátis e só pra Android:\n1. Toca no link da bio e entra no grupo (se pedir login, toca nos ⋮ e abre no Chrome)\n2. Abre o link do teste que aparece lá e baixa pela Play Store\n3. Fica 14 dias com ele (sem desinstalar) e faz carinho no doguinho quando lembrar\n\nSua opinião ajuda o Biscoitin a chegar na loja pra todo mundo 💛\n\nTem iPhone? Ele chega aí depois. Segue o perfil que eu aviso 🍎\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #testador #android",
+  "na_grade": false,
+  "capa_ms": 8500,
+  "cta": "link_bio",
+  "titulo": "Convite para testadores",
+  "dur": 9.0,
+  "alt": "Biscoitin, um doguinho de desenho, convidando pessoas com Android para testar o app",
+  "gancho": "Convite para testadores",
+  "canal": "biscoitin"
+ },
+ {
+  "id": "b-c-01-procuro-22",
+  "tipo": "REEL",
+  "quando": "2026-11-22T12:00:00-03:00",
+  "midia": [
+   "midia/biscoitin/c-01-procuro.mp4"
+  ],
+  "legenda": "Quer testar o Biscoitin antes de todo mundo? 🐶\n\nÉ grátis e só pra Android:\n1. Toca no link da bio e entra no grupo (se pedir login, toca nos ⋮ e abre no Chrome)\n2. Abre o link do teste que aparece lá e baixa pela Play Store\n3. Fica 14 dias com ele (sem desinstalar) e faz carinho no doguinho quando lembrar\n\nSua opinião ajuda o Biscoitin a chegar na loja pra todo mundo 💛\n\nTem iPhone? Ele chega aí depois. Segue o perfil que eu aviso 🍎\n\n#autocuidado #habitos #rotina #metas #petvirtual #doguinho #testador #android",
+  "na_grade": false,
+  "capa_ms": 8500,
+  "cta": "link_bio",
+  "titulo": "Convite para testadores",
+  "dur": 9.0,
+  "alt": "Biscoitin, um doguinho de desenho, convidando pessoas com Android para testar o app",
+  "gancho": "Convite para testadores",
+  "canal": "biscoitin"
  }
 ]
