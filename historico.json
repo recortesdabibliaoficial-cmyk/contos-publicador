@@ -22143,8 +22143,8 @@
   }
  },
  "2026-11-15": {
-  "seguidores": 27,
-  "publicacoes": 5,
+  "seguidores": 28,
+  "publicacoes": 7,
   "itens": {
    "contos-d01_manha-reel": {
     "reach": 19,
@@ -23748,16 +23748,16 @@
     "ig_reels_video_view_total_time": 184341
    },
    "b-c-01-procuro-13": {
-    "reach": 134,
-    "views": 144,
-    "likes": 1,
+    "reach": 135,
+    "views": 149,
+    "likes": 2,
     "comments": 0,
     "saved": 0,
     "shares": 1,
-    "total_interactions": 3,
-    "ig_reels_avg_watch_time": 2149,
-    "reels_skip_rate": 85.6,
-    "ig_reels_video_view_total_time": 292331
+    "total_interactions": 4,
+    "ig_reels_avg_watch_time": 2358,
+    "reels_skip_rate": 85.7,
+    "ig_reels_video_view_total_time": 325507
    },
    "b-c-02-ajuda-14": {
     "reach": 21,
@@ -23772,18 +23772,81 @@
     "ig_reels_video_view_total_time": 175868
    },
    "b-s1-02-agua": {
-    "reach": 122,
-    "views": 150,
+    "reach": 123,
+    "views": 154,
     "likes": 2,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 4396,
-    "reels_skip_rate": 54.1,
-    "ig_reels_video_view_total_time": 545125
+    "ig_reels_avg_watch_time": 4442,
+    "reels_skip_rate": 53.2,
+    "ig_reels_video_view_total_time": 559730
+   },
+   "b-c-03-psiu-15": {
+    "reach": 121,
+    "views": 145,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 2926,
+    "reels_skip_rate": 69.4,
+    "ig_reels_video_view_total_time": 365859
+   },
+   "b-s1-03-pombo": {
+    "reach": 42,
+    "views": 48,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 2994,
+    "reels_skip_rate": 71.4,
+    "ig_reels_video_view_total_time": 128766
    }
   },
-  "em": "2026-11-15T11:35-03:00"
+  "em": "2026-11-15T23:30-03:00",
+  "conta": {
+   "reach": 167,
+   "views": 199,
+   "accounts_engaged": 2,
+   "total_interactions": 3,
+   "profile_views": 0,
+   "likes": 3,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "replies": 0,
+   "reposts": 0,
+   "profile_links_taps": 0
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "FOLLOWER": 3,
+    "NON_FOLLOWER": 165
+   },
+   "views:follow_type": {
+    "NON_FOLLOWER": 190,
+    "FOLLOWER": 9
+   },
+   "views:media_product_type": {
+    "REEL": 199
+   },
+   "total_interactions:media_product_type": {
+    "REEL": 3
+   },
+   "likes:media_product_type": {
+    "REEL": 3
+   },
+   "saves:media_product_type": {},
+   "shares:media_product_type": {},
+   "comments:media_product_type": {},
+   "reach:media_product_type": {
+    "REEL": 167
+   }
+  }
  }
 }
