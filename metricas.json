@@ -105,7 +105,7 @@
    "n": 28
   }
  ],
- "_em": "2026-11-17T02:30:44.933500+00:00",
+ "_em": "2026-11-17T14:35:23.254318+00:00",
  "_seg_hora": [
   {
    "t": "2026-11-03T11:40-03:00",
@@ -3204,7 +3204,7 @@
   "ig_reels_avg_watch_time": 3825,
   "reels_skip_rate": 78.6,
   "ig_reels_video_view_total_time": 110927,
-  "lido_em": "2026-11-17T02:30:44.933500+00:00"
+  "lido_em": "2026-11-17T14:35:23.254318+00:00"
  },
  "b-s1-08-criar-meta": {
   "reach": 33,
@@ -3217,7 +3217,7 @@
   "ig_reels_avg_watch_time": 5120,
   "reels_skip_rate": 75.8,
   "ig_reels_video_view_total_time": 184341,
-  "lido_em": "2026-11-17T02:30:44.933500+00:00"
+  "lido_em": "2026-11-17T14:35:23.254318+00:00"
  },
  "b-c-01-procuro-13": {
   "reach": 135,
@@ -3230,7 +3230,7 @@
   "ig_reels_avg_watch_time": 2358,
   "reels_skip_rate": 85.7,
   "ig_reels_video_view_total_time": 325507,
-  "lido_em": "2026-11-17T02:30:44.933500+00:00"
+  "lido_em": "2026-11-17T14:35:23.254318+00:00"
  },
  "b-c-02-ajuda-14": {
   "reach": 21,
@@ -3243,7 +3243,7 @@
   "ig_reels_avg_watch_time": 7327,
   "reels_skip_rate": 82.6,
   "ig_reels_video_view_total_time": 175868,
-  "lido_em": "2026-11-17T02:30:44.933500+00:00"
+  "lido_em": "2026-11-17T14:35:23.254318+00:00"
  },
  "b-s1-02-agua": {
   "reach": 123,
@@ -3256,7 +3256,7 @@
   "ig_reels_avg_watch_time": 4442,
   "reels_skip_rate": 53.2,
   "ig_reels_video_view_total_time": 559730,
-  "lido_em": "2026-11-17T02:30:44.933500+00:00"
+  "lido_em": "2026-11-17T14:35:23.254318+00:00"
  },
  "b-c-03-psiu-15": {
   "reach": 123,
@@ -3269,7 +3269,7 @@
   "ig_reels_avg_watch_time": 2895,
   "reels_skip_rate": 70.4,
   "ig_reels_video_view_total_time": 367791,
-  "lido_em": "2026-11-17T02:30:44.933500+00:00"
+  "lido_em": "2026-11-17T14:35:23.254318+00:00"
  },
  "b-s1-03-pombo": {
   "reach": 52,
@@ -3282,32 +3282,32 @@
   "ig_reels_avg_watch_time": 3397,
   "reels_skip_rate": 67.3,
   "ig_reels_video_view_total_time": 180088,
-  "lido_em": "2026-11-17T02:30:44.933500+00:00"
+  "lido_em": "2026-11-17T14:35:23.254318+00:00"
  },
  "b-c-01-procuro-16": {
-  "reach": 5,
+  "reach": 6,
+  "views": 6,
+  "likes": 1,
+  "comments": 0,
+  "saved": 0,
+  "shares": 0,
+  "total_interactions": 1,
+  "ig_reels_avg_watch_time": 4872,
+  "reels_skip_rate": 20,
+  "ig_reels_video_view_total_time": 24360,
+  "lido_em": "2026-11-17T14:35:23.254318+00:00"
+ },
+ "b-s1-04-caminhar": {
+  "reach": 3,
   "views": 4,
   "likes": 1,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 1,
-  "ig_reels_avg_watch_time": 3511,
-  "reels_skip_rate": 25,
-  "ig_reels_video_view_total_time": 14044,
-  "lido_em": "2026-11-17T02:30:44.933500+00:00"
- },
- "b-s1-04-caminhar": {
-  "reach": 2,
-  "views": 2,
-  "likes": 1,
-  "comments": 0,
-  "saved": 0,
-  "shares": 0,
-  "total_interactions": 1,
-  "ig_reels_avg_watch_time": 8871,
-  "reels_skip_rate": 0,
-  "ig_reels_video_view_total_time": 8871,
-  "lido_em": "2026-11-17T02:30:44.933500+00:00"
+  "ig_reels_avg_watch_time": 4799,
+  "reels_skip_rate": 66.7,
+  "ig_reels_video_view_total_time": 14398,
+  "lido_em": "2026-11-17T14:35:23.254318+00:00"
  }
 }
