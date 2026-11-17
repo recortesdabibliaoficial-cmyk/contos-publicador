@@ -23851,7 +23851,7 @@
  },
  "2026-11-16": {
   "seguidores": 28,
-  "publicacoes": 7,
+  "publicacoes": 8,
   "itens": {
    "contos-d01_manha-reel": {
     "reach": 19,
@@ -25503,18 +25503,81 @@
     "ig_reels_video_view_total_time": 367791
    },
    "b-s1-03-pombo": {
-    "reach": 49,
-    "views": 57,
+    "reach": 52,
+    "views": 60,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 3527,
-    "reels_skip_rate": 65.3,
-    "ig_reels_video_view_total_time": 176385
+    "ig_reels_avg_watch_time": 3397,
+    "reels_skip_rate": 67.3,
+    "ig_reels_video_view_total_time": 180088
+   },
+   "b-c-01-procuro-16": {
+    "reach": 5,
+    "views": 4,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 3511,
+    "reels_skip_rate": 25,
+    "ig_reels_video_view_total_time": 14044
+   },
+   "b-s1-04-caminhar": {
+    "reach": 2,
+    "views": 2,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 8871,
+    "reels_skip_rate": 0,
+    "ig_reels_video_view_total_time": 8871
    }
   },
-  "em": "2026-11-16T11:30-03:00"
+  "em": "2026-11-16T23:30-03:00",
+  "conta": {
+   "reach": 15,
+   "views": 17,
+   "accounts_engaged": 1,
+   "total_interactions": 2,
+   "profile_views": 0,
+   "likes": 2,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "replies": 0,
+   "reposts": 0,
+   "profile_links_taps": 0
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "NON_FOLLOWER": 12,
+    "FOLLOWER": 3
+   },
+   "views:follow_type": {
+    "FOLLOWER": 5,
+    "NON_FOLLOWER": 12
+   },
+   "views:media_product_type": {
+    "REEL": 17
+   },
+   "total_interactions:media_product_type": {
+    "REEL": 2
+   },
+   "likes:media_product_type": {
+    "REEL": 2
+   },
+   "saves:media_product_type": {},
+   "shares:media_product_type": {},
+   "comments:media_product_type": {},
+   "reach:media_product_type": {
+    "REEL": 15
+   }
+  }
  }
 }
