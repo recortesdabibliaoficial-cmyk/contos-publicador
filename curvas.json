@@ -22346,6 +22346,17 @@
     "ig_reels_avg_watch_time": 739,
     "t": "2026-11-18T14:05+00:00",
     "h": 23.07
+   },
+   {
+    "reach": 1,
+    "views": 1,
+    "likes": 1,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 100,
+    "ig_reels_avg_watch_time": 739,
+    "t": "2026-11-18T15:01+00:00",
+    "h": 24.0
    }
   ]
  },
@@ -22560,6 +22571,22 @@
     "ig_reels_avg_watch_time": 3069,
     "t": "2026-11-18T14:35+00:00",
     "h": 16.57
+   }
+  ]
+ },
+ "b-c-03-psiu-18": {
+  "publicado": "2026-11-18T15:01:14.515167+00:00",
+  "pontos": [
+   {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "saved": 0,
+    "reels_skip_rate": 0,
+    "ig_reels_avg_watch_time": 0,
+    "t": "2026-11-18T15:01+00:00",
+    "h": 0.0
    }
   ]
  }
