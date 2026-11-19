@@ -27337,7 +27337,7 @@
  },
  "2026-11-18": {
   "seguidores": 28,
-  "publicacoes": 9,
+  "publicacoes": 10,
   "itens": {
    "contos-d01_manha-reel": {
     "reach": 19,
@@ -29047,8 +29047,71 @@
     "ig_reels_avg_watch_time": 3069,
     "reels_skip_rate": 51.5,
     "ig_reels_video_view_total_time": 101292
+   },
+   "b-c-03-psiu-18": {
+    "reach": 7,
+    "views": 9,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 3541,
+    "reels_skip_rate": 71.4,
+    "ig_reels_video_view_total_time": 24787
+   },
+   "b-s1-06-padaria": {
+    "reach": 3,
+    "views": 2,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 2471,
+    "reels_skip_rate": 50,
+    "ig_reels_video_view_total_time": 4943
    }
   },
-  "em": "2026-11-18T11:30-03:00"
+  "em": "2026-11-18T23:30-03:00",
+  "conta": {
+   "reach": 14,
+   "views": 16,
+   "accounts_engaged": 1,
+   "total_interactions": 1,
+   "profile_views": 1,
+   "likes": 1,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "replies": 0,
+   "reposts": 0,
+   "profile_links_taps": 0
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "FOLLOWER": 4,
+    "NON_FOLLOWER": 10
+   },
+   "views:follow_type": {
+    "NON_FOLLOWER": 10,
+    "FOLLOWER": 6
+   },
+   "views:media_product_type": {
+    "REEL": 16
+   },
+   "total_interactions:media_product_type": {
+    "REEL": 1
+   },
+   "likes:media_product_type": {
+    "REEL": 1
+   },
+   "saves:media_product_type": {},
+   "shares:media_product_type": {},
+   "comments:media_product_type": {},
+   "reach:media_product_type": {
+    "REEL": 14
+   }
+  }
  }
 }
