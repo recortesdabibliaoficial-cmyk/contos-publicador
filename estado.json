@@ -885,7 +885,7 @@
   "link": "https://www.instagram.com/reel/DfZ4RvACk-8/",
   "como_teste": false,
   "teste_recusado": "17841462777796896/media: {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 2207081, 'is_transient': False, 'error_user_title': ",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18137595613764635/insights: {'message': \"Unsupported get request. Object with ID '18137595613764635' does not exist, cannot be loaded due to missing p"
  },
  "st5-2026-11-06-12": {
@@ -901,7 +901,7 @@
   "media_id": "17985128568066342",
   "em": "2026-11-06T20:01:59.133051+00:00",
   "link": "https://www.instagram.com/reel/DfaasTMkwvJ/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "17985128568066342/insights: {'message': \"Unsupported get request. Object with ID '17985128568066342' does not exist, cannot be loaded due to missing p"
  },
  "st5-2026-11-06-17": {
@@ -917,7 +917,7 @@
   "media_id": "18090065147288766",
   "em": "2026-11-06T23:01:25.393184+00:00",
   "link": "https://www.instagram.com/p/DfavQAnmmBF/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18090065147288766/insights: {'message': \"Unsupported get request. Object with ID '18090065147288766' does not exist, cannot be loaded due to missing p"
  },
  "st5-2026-11-06-21": {
@@ -942,7 +942,7 @@
   "link": "https://www.instagram.com/reel/DfcdFcqklgz/",
   "como_teste": false,
   "teste_recusado": "17841462777796896/media: {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 2207081, 'is_transient': False, 'error_user_title': ",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18128576584860517/insights: {'message': \"Unsupported get request. Object with ID '18128576584860517' does not exist, cannot be loaded due to missing p"
  },
  "st5-2026-11-07-12": {
@@ -958,7 +958,7 @@
   "media_id": "18098397542446307",
   "em": "2026-11-07T20:02:00.044995+00:00",
   "link": "https://www.instagram.com/reel/Dfc_ebuDay6/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18098397542446307/insights: {'message': \"Unsupported get request. Object with ID '18098397542446307' does not exist, cannot be loaded due to missing p"
  },
  "st5-2026-11-07-17": {
@@ -974,7 +974,7 @@
   "media_id": "18143306167720282",
   "em": "2026-11-07T23:01:31.139082+00:00",
   "link": "https://www.instagram.com/p/DfdUDjXj20M/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18143306167720282/insights: {'message': \"Unsupported get request. Object with ID '18143306167720282' does not exist, cannot be loaded due to missing p"
  },
  "st5-2026-11-07-21": {
@@ -999,7 +999,7 @@
   "link": "https://www.instagram.com/reel/DffB7qVAR98/",
   "como_teste": false,
   "teste_recusado": "17841462777796896/media: {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 2207081, 'is_transient': False, 'error_user_title': ",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18153593275544170/insights: {'message': \"Unsupported get request. Object with ID '18153593275544170' does not exist, cannot be loaded due to missing p"
  },
  "st5-2026-11-08-12": {
@@ -1015,7 +1015,7 @@
   "media_id": "18084776537713480",
   "em": "2026-11-08T20:01:15.886860+00:00",
   "link": "https://www.instagram.com/reel/DffkMiGkeB0/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18084776537713480/insights: {'message': \"Unsupported get request. Object with ID '18084776537713480' does not exist, cannot be loaded due to missing p"
  },
  "st5-2026-11-08-17": {
@@ -1031,7 +1031,7 @@
   "media_id": "18116765609028665",
   "em": "2026-11-08T23:01:38.947026+00:00",
   "link": "https://www.instagram.com/p/Dff43TWgC2Q/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18116765609028665/insights: {'message': \"Unsupported get request. Object with ID '18116765609028665' does not exist, cannot be loaded due to missing p"
  },
  "st5-2026-11-08-21": {
@@ -1056,7 +1056,7 @@
   "link": "https://www.instagram.com/reel/Dfhmq3jCVW5/",
   "como_teste": false,
   "teste_recusado": "17841462777796896/media: {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 2207081, 'is_transient': False, 'error_user_title': ",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "17873458038647042/insights: {'message': \"Unsupported get request. Object with ID '17873458038647042' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-09-12": {
@@ -1072,7 +1072,7 @@
   "media_id": "18069737741630895",
   "em": "2026-11-09T20:01:18.424719+00:00",
   "link": "https://www.instagram.com/reel/DfiI_sTiRtM/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18069737741630895/insights: {'message': \"Unsupported get request. Object with ID '18069737741630895' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-09-17": {
@@ -1088,7 +1088,7 @@
   "media_id": "18135670705670684",
   "em": "2026-11-09T23:01:06.295607+00:00",
   "link": "https://www.instagram.com/p/DfidoAfETKp/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18135670705670684/insights: {'message': \"Unsupported get request. Object with ID '18135670705670684' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-09-21": {
@@ -1113,7 +1113,7 @@
   "link": "https://www.instagram.com/reel/DfkLk-ljiIM/",
   "como_teste": false,
   "teste_recusado": "17841462777796896/media: {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 2207081, 'is_transient': False, 'error_user_title': ",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18102333698649622/insights: {'message': \"Unsupported get request. Object with ID '18102333698649622' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-10-12": {
@@ -1129,7 +1129,7 @@
   "media_id": "17878445409582646",
   "em": "2026-11-10T20:01:20.525043+00:00",
   "link": "https://www.instagram.com/reel/DfktyrGgYyS/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "17878445409582646/insights: {'message': \"Unsupported get request. Object with ID '17878445409582646' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-10-17": {
@@ -1145,7 +1145,7 @@
   "media_id": "18002845737041707",
   "em": "2026-11-10T23:01:04.858977+00:00",
   "link": "https://www.instagram.com/p/DflCazQlo3P/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18002845737041707/insights: {'message': \"Unsupported get request. Object with ID '18002845737041707' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-10-21": {
@@ -1170,7 +1170,7 @@
   "link": "https://www.instagram.com/reel/DfmwQlgjQu9/",
   "como_teste": false,
   "teste_recusado": "17841462777796896/media: {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 2207081, 'is_transient': False, 'error_user_title': ",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "17916999291556206/insights: {'message': \"Unsupported get request. Object with ID '17916999291556206' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-11-12": {
@@ -1186,7 +1186,7 @@
   "media_id": "18092913251237883",
   "em": "2026-11-11T20:03:12.972430+00:00",
   "link": "https://www.instagram.com/reel/DfnS1RBl5GE/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18092913251237883/insights: {'message': \"Unsupported get request. Object with ID '18092913251237883' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-11-17": {
@@ -1202,7 +1202,7 @@
   "media_id": "17995586034024656",
   "em": "2026-11-11T23:01:18.792360+00:00",
   "link": "https://www.instagram.com/p/DfnnNn1Fbfp/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "17995586034024656/insights: {'message': \"Unsupported get request. Object with ID '17995586034024656' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-11-21": {
@@ -1229,7 +1229,7 @@
   "link": "https://www.instagram.com/reel/DfpVDful41P/",
   "como_teste": false,
   "teste_recusado": "17841462777796896/media: {'message': 'Application does not have permission for this action', 'type': 'OAuthException', 'code': 10, 'error_subcode': 2207081, 'is_transient': False, 'error_user_title': ",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18120166651797660/insights: {'message': \"Unsupported get request. Object with ID '18120166651797660' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-12-12": {
@@ -1248,7 +1248,7 @@
   "media_id": "18140041927629720",
   "em": "2026-11-12T22:21:19.454613+00:00",
   "link": "https://www.instagram.com/reel/DfqHZyPD9gC/",
-  "fora_do_ar_em": "2026-11-13T03:53:22.096689+00:00",
+  "fora_do_ar_em": "2026-11-20T14:30:32.805742+00:00",
   "fora_motivo": "18140041927629720/insights: {'message': \"Unsupported get request. Object with ID '18140041927629720' does not exist, cannot be loaded due to missing p"
  },
  "st6-2026-11-12-17": {
