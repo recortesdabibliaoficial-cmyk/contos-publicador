@@ -32742,7 +32742,7 @@
  },
  "2026-11-21": {
   "seguidores": 28,
-  "publicacoes": 12,
+  "publicacoes": 13,
   "itens": {
    "contos-d01_manha-reel": {
     "reach": 19,
@@ -34514,6 +34514,30 @@
     "ig_reels_video_view_total_time": 25322
    },
    "b-s1-09-sexta": {
+    "reach": 5,
+    "views": 6,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 2829,
+    "reels_skip_rate": 60,
+    "ig_reels_video_view_total_time": 14146
+   },
+   "b-c-03-psiu-21": {
+    "reach": 5,
+    "views": 5,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 2985,
+    "reels_skip_rate": 60,
+    "ig_reels_video_view_total_time": 14926
+   },
+   "b-s1-10-gato": {
     "reach": 4,
     "views": 5,
     "likes": 0,
@@ -34521,11 +34545,44 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 2527,
-    "reels_skip_rate": 75,
-    "ig_reels_video_view_total_time": 10108
+    "ig_reels_avg_watch_time": 1484,
+    "reels_skip_rate": 100,
+    "ig_reels_video_view_total_time": 5939
    }
   },
-  "em": "2026-11-21T11:35-03:00"
+  "em": "2026-11-21T23:30-03:00",
+  "conta": {
+   "reach": 12,
+   "views": 14,
+   "accounts_engaged": 0,
+   "total_interactions": 0,
+   "profile_views": 0,
+   "likes": 0,
+   "comments": 0,
+   "saves": 0,
+   "shares": 0,
+   "replies": 0,
+   "reposts": 0,
+   "profile_links_taps": 0
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "NON_FOLLOWER": 12
+   },
+   "views:follow_type": {
+    "NON_FOLLOWER": 14
+   },
+   "views:media_product_type": {
+    "REEL": 14
+   },
+   "total_interactions:media_product_type": {},
+   "likes:media_product_type": {},
+   "saves:media_product_type": {},
+   "shares:media_product_type": {},
+   "comments:media_product_type": {},
+   "reach:media_product_type": {
+    "REEL": 12
+   }
+  }
  }
 }
